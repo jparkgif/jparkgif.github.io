@@ -1,0 +1,60 @@
+﻿name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  actions: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Clean old deploy workflow runs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPO="${{ github.repository }}"
+          WORKFLOW="deploy.yml"
+          KEEP=10
+
+          OLD_IDS=$(gh api "repos/$REPO/actions/workflows/$WORKFLOW/runs?per_page=100" \
+            --jq ".workflow_runs[$KEEP:][].id")
+
+          if [ -z "$OLD_IDS" ]; then
+            echo "No old workflow runs to delete."
+          else
+            for id in $OLD_IDS; do
+              gh api --method DELETE "repos/$REPO/actions/runs/$id"
+              echo "Deleted run #$id"
+            done
+          fi
