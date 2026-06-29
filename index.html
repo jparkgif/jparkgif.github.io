@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <!-- 모바일 반응형을 위한 뷰포트 설정 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="나만의 AI 비서 대시보드 — 오늘의 명언, 날씨·코디, 경제뉴스·주식·금시세" />
+  <title>나만의 AI 비서</title>
+
+  <!-- Google Fonts: Noto Sans KR (한글), Inter (영문) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <!-- ============================================================
+       ① 영어 명언 섹션 (Hero)
+       - bg.jpg를 배경으로 사용
+       - quotes.js가 quotes.json에서 랜덤으로 불러옴
+  ============================================================ -->
+  <header class="hero" id="quote-section">
+    <div class="hero-overlay">
+      <div class="container">
+        <!-- 새로고침 버튼 -->
+        <button class="refresh-btn" id="refresh-quote" title="새 명언 보기" aria-label="새 명언 보기">
+          ↻
+        </button>
+
+        <!-- 명언 콘텐츠 -->
+        <div class="quote-card" id="quote-card">
+          <p class="quote-en" id="quote-en">Loading...</p>
+          <p class="quote-ko" id="quote-ko"></p>
+          <p class="quote-author" id="quote-author"></p>
+        </div>
+
+        <!-- 사이트 제목 -->
+        <div class="site-title">
+          <h1>나만의 AI 비서</h1>
+          <p class="site-subtitle">매일 새롭게 만나는 명언 · 날씨 · 뉴스</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================================================
+       메인 콘텐츠 영역
+  ============================================================ -->
+  <main class="main-content">
+    <div class="container">
+
+      <!-- ========================================================
+           ② 오늘의 날씨 + 날씨별 코디 카드
+           - weather.js가 data/weather.json을 읽어 렌더링
+           - 기온별 무신사 링크 자동 연결
+      ======================================================== -->
+      <section class="section" id="weather-section">
+        <h2 class="section-title">
+          <span class="section-icon">🌤</span>
+          오늘의 날씨 &amp; 코디 추천
+        </h2>
+
+        <div class="card-grid card-grid--weather">
+
+          <!-- 날씨 정보 카드 -->
+          <div class="card card--weather" id="weather-card">
+            <div class="card-loading">날씨 정보를 불러오는 중...</div>
+          </div>
+
+          <!-- 코디 추천 카드 -->
+          <div class="card card--outfit" id="outfit-card">
+            <div class="card-loading">코디를 준비하는 중...</div>
+          </div>
+
+        </div>
+
+        <!-- 데이터 갱신 시각 -->
+        <p class="update-info" id="weather-updated"></p>
+      </section>
+
+      <!-- ========================================================
+           ③ 경제 뉴스 + 주식 + 금시세 섹션
+           - news.js가 data/news.json을 읽어 렌더링
+           - 뉴스 제목 클릭 시 새 창으로 원문 이동
+      ======================================================== -->
+      <section class="section" id="news-section">
+        <h2 class="section-title">
+          <span class="section-icon">📊</span>
+          오늘의 경제 뉴스 &amp; 시세
+        </h2>
+
+        <!-- 주식 + 금시세 카드 행 -->
+        <div class="card-grid card-grid--stocks" id="stock-grid">
+          <!-- stocks.js가 동적으로 채움 -->
+          <div class="card-loading">시세 정보를 불러오는 중...</div>
+        </div>
+
+        <!-- 경제 뉴스 목록 -->
+        <div class="card card--news" id="news-card">
+          <div class="card-loading">뉴스를 불러오는 중...</div>
+        </div>
+
+        <p class="update-info" id="news-updated"></p>
+      </section>
+
+    </div><!-- /.container -->
+  </main>
+
+  <!-- ============================================================
+       Footer
+  ============================================================ -->
+  <footer class="footer">
+    <div class="container">
+      <p>나만의 AI 비서 · GitHub Pages 무료 배포 · API 키 없음</p>
+      <p class="footer-note">날씨·뉴스·시세 데이터는 매일 06:00 KST 자동 갱신됩니다.</p>
+    </div>
+  </footer>
+
+  <!-- ============================================================
+       ④ FAQ 챗봇 (플로팅 버튼 + 사이드 패널)
+       - chatbot.js가 data/faq.json을 불러와 키워드 검색
+  ============================================================ -->
+
+  <!-- 플로팅 열기/닫기 버튼 -->
+  <button class="chatbot-fab" id="chatbot-toggle" aria-label="AI 도우미 열기" title="AI 도우미 열기">
+    💬
+    <span class="fab-label">AI 도우미</span>
+  </button>
+
+  <!-- 사이드 채팅 패널 -->
+  <aside class="chatbot-panel" id="chatbot-panel" role="complementary" aria-label="AI FAQ 도우미">
+
+    <!-- 패널 헤더 -->
+    <div class="chatbot-header">
+      <div class="chatbot-header-info">
+        <span class="chatbot-avatar">🤖</span>
+        <div>
+          <strong>AI 도우미</strong>
+          <small>ChatGPT · Claude Code 안내</small>
+        </div>
+      </div>
+      <button class="chatbot-close" id="chatbot-close" aria-label="닫기">✕</button>
+    </div>
+
+    <!-- 채팅 메시지 영역 -->
+    <div class="chatbot-messages" id="chatbot-messages">
+      <!-- 환영 메시지 (초기 표시) -->
+      <div class="msg msg--bot">
+        <p>안녕하세요! 저는 ChatGPT · Claude Code 사용법을 안내해 드리는 AI 도우미입니다.</p>
+        <p>아래 버튼을 눌러보거나 직접 질문을 입력해 보세요.</p>
+      </div>
+
+      <!-- 예시 질문 버튼 (초기 표시) -->
+      <div class="suggested-questions" id="suggested-questions">
+        <button class="suggest-btn" data-q="ChatGPT가 무엇인가요?">ChatGPT가 뭔가요?</button>
+        <button class="suggest-btn" data-q="좋은 프롬프트 공식이 뭔가요?">프롬프트 공식</button>
+        <button class="suggest-btn" data-q="클로드 코드란 무엇인가요?">클로드 코드란?</button>
+        <button class="suggest-btn" data-q="클로드 코드를 어떻게 설치하나요?">설치 방법</button>
+        <button class="suggest-btn" data-q="파일을 업로드하면 무엇을 할 수 있나요?">파일 업로드</button>
+        <button class="suggest-btn" data-q="개인정보를 입력해도 되나요?">개인정보 주의</button>
+      </div>
+    </div>
+
+    <!-- 입력 영역 -->
+    <div class="chatbot-input-area">
+      <input
+        type="text"
+        class="chatbot-input"
+        id="chatbot-input"
+        placeholder="질문을 입력하세요..."
+        autocomplete="off"
+        maxlength="200"
+      />
+      <button class="chatbot-send" id="chatbot-send" aria-label="전송">
+        ➤
+      </button>
+    </div>
+
+    <!-- 주의 안내 -->
+    <p class="chatbot-disclaimer">
+      교육용 자료 기반 안내입니다. 최신 정보는 공식 문서를 확인하세요.
+    </p>
+
+  </aside>
+
+  <!-- 챗봇 열릴 때 배경 딤처리 오버레이 (모바일) -->
+  <div class="chatbot-backdrop" id="chatbot-backdrop"></div>
+
+  <!-- ============================================================
+       JavaScript 로드 (body 끝에서 로드해 렌더 차단 방지)
+  ============================================================ -->
+  <script src="assets/js/quotes.js"></script>
+  <script src="assets/js/weather.js"></script>
+  <script src="assets/js/news.js"></script>
+  <script src="assets/js/chatbot.js"></script>
+
+</body>
+</html>

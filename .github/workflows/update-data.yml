@@ -1,0 +1,85 @@
+# update-data.yml
+# 매일 06:00 KST (= 21:00 UTC 전날)에 날씨·뉴스·주식·금시세 데이터를 갱신합니다.
+# Secret 없음 — 모두 무인증 스크래핑 / yfinance
+
+name: 데이터 갱신 (날씨·뉴스·주식·금시세)
+
+on:
+  # 매일 21:00 UTC = 다음날 06:00 KST
+  schedule:
+    - cron: '0 21 * * *'
+
+  # 수동 실행 (Actions 탭 → Run workflow)
+  workflow_dispatch:
+
+# 데이터 JSON 커밋·푸시 + 오래된 실행 기록 삭제 권한
+permissions:
+  contents: write
+  actions:  write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 저장소 체크아웃
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      # 2. Python 3.11 설치
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. 의존성 설치 (API 키 불필요)
+      - name: 의존성 설치
+        run: pip install requests beautifulsoup4 yfinance
+
+      # 4. 날씨 스크래핑 → data/weather.json
+      - name: 날씨 데이터 갱신
+        run: python scripts/fetch_weather.py
+        # 스크래핑 실패해도 기존 데이터 유지하고 계속 진행
+        continue-on-error: true
+
+      # 5. 뉴스·주식·금시세 → data/news.json
+      - name: 뉴스·시세 데이터 갱신
+        run: python scripts/fetch_news.py
+        continue-on-error: true
+
+      # 6. 변경된 JSON 파일만 커밋·푸시
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 변경된 JSON 파일이 있을 때만 커밋
+          git add data/weather.json data/news.json
+          if git diff --cached --quiet; then
+            echo "변경된 데이터 파일이 없습니다."
+          else
+            git commit -m "chore: 데이터 자동 갱신 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      # 7. 오래된 실행 기록 정리 (최근 10개만 유지)
+      - name: 오래된 실행 기록 삭제
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPO="${{ github.repository }}"
+          WORKFLOW="update-data.yml"
+          KEEP=10
+
+          # 이 워크플로우의 전체 실행 목록에서 11번째 이후 ID 추출
+          OLD_IDS=$(gh api "repos/$REPO/actions/workflows/$WORKFLOW/runs?per_page=100" \
+            --jq ".workflow_runs[$KEEP:][].id")
+
+          if [ -z "$OLD_IDS" ]; then
+            echo "삭제할 오래된 실행 기록 없음 (현재 ${KEEP}개 이하)"
+          else
+            for id in $OLD_IDS; do
+              gh api --method DELETE "repos/$REPO/actions/runs/$id"
+              echo "삭제: run #$id"
+            done
+          fi
