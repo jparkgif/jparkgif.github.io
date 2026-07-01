@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "오세훈 \"청년주거 최우선\"… 2030년까지 7만4000가구 공급",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939549"
+      "title": "한화, KAI 지분 1.06% 추가 매수해 '11.21%'... 2대주주 굳힌다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005542337"
     },
     {
-      "title": "SK하이닉스 곽노정 \"호남권을 생산거점으로…1GW AI 데이터센터 구축\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005783547"
+      "title": "건설협회 “간이형 종심제 폐지 적극 환영”",
+      "url": "https://n.news.naver.com/mnews/article/119/0003106952"
     },
     {
-      "title": "노동차관, 삼성 SSAFY 14기 수료 축하…10명 중 3명 조기취업",
-      "url": "https://n.news.naver.com/mnews/article/001/0016167544"
+      "title": "전세계 180개국에 '아산 정신' 울려퍼졌다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701463"
     },
     {
-      "title": "‘집값 급등’ 동탄·기흥·구리, 7월부터 삼중규제 묶인다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003534217"
+      "title": "환율 또 금융위기 후 최고…장중 1,560원선 위협",
+      "url": "https://n.news.naver.com/mnews/article/422/0000880423"
     },
     {
-      "title": "‘고령자·영세사업자’ 폐업 고통 커…60대 부채 1억 육박",
-      "url": "https://n.news.naver.com/mnews/article/029/0003034469"
+      "title": "국민연금 리밸런싱 D-1…증시 흔들 변수 될까",
+      "url": "https://n.news.naver.com/mnews/article/366/0001175675"
     },
     {
-      "title": "LG전자, CEO 직속 로보틱스사업센터 출범",
-      "url": "https://n.news.naver.com/mnews/article/032/0003455183"
+      "title": "EU 철강 빗장에 한국 19% 감소로 선방…중국 무관세 ⅔ 급감",
+      "url": "https://n.news.naver.com/mnews/article/055/0001368606"
     },
     {
-      "title": "범여권 \"홈플러스 청산 땐 10만 가정 벼랑에…정부, 중재 나서야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009032006"
+      "title": "금감원 \"자유적금·외화 계좌로 자금세탁 가능성 차단\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001038968"
     },
     {
-      "title": "삼성전자 '한 지붕 두 살림' 비상…반도체 '과반 노조' 나오나",
-      "url": "https://n.news.naver.com/mnews/article/015/0005304602"
+      "title": "정점식 “노란봉투법, 산업현장 혼란 최소화해야”…경총 “사용자 방어권 보완 시급”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002664390"
     },
     {
-      "title": "코스피 호황에 지난달 증권거래세 4배↑…국세수입 18% 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939429"
+      "title": "삼성 초기업노조 “반도체 메가 프로젝트 노사정 협의체 제안”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012209647"
     },
     {
-      "title": "삼전닉스 “800조 서남권 반도체 투자”…정부 “전남·광주 5년치 총생산, 적극 지원”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003534366"
+      "title": "테슬라, 모델Y RWD 제외 가격 인상...판매 방어·수익성 노려",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087070"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8476.48,
-      "change": 81.83,
-      "change_pct": 0.97
+      "value": 8303.41,
+      "change": -173.07,
+      "change_pct": -2.04
     },
     "kosdaq": {
-      "value": 916.18,
-      "change": -4.39,
-      "change_pct": -0.48
+      "value": 929.35,
+      "change": 13.17,
+      "change_pct": 1.44
     },
     "nasdaq": {
-      "value": 25820.14,
-      "change": 522.52,
-      "change_pct": 2.07
+      "value": 26213.72,
+      "change": 393.58,
+      "change_pct": 1.52
     },
     "usdkrw": {
-      "value": 1552.4,
-      "change": 17.16,
-      "change_pct": 1.12
+      "value": 1557.7,
+      "change": 15.97,
+      "change_pct": 1.04
     }
   },
   "gold": {
-    "price_usd": 4034.8,
-    "price_krw": 6263623,
-    "change": 12.5,
-    "change_pct": 0.31
+    "price_usd": 4003.1,
+    "price_krw": 6235629,
+    "change": -19.8,
+    "change_pct": -0.49
   },
-  "updated": "2026-06-30 17:46",
+  "updated": "2026-07-01 19:50",
   "error": null
 }
