@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화, KAI 지분 1.06% 추가 매수해 '11.21%'... 2대주주 굳힌다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005542337"
+      "title": "'반도체+레버리지'가 휩쓴 ETF 시장…롤러코스터 장세 키웠다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005543063"
     },
     {
-      "title": "건설협회 “간이형 종심제 폐지 적극 환영”",
-      "url": "https://n.news.naver.com/mnews/article/119/0003106952"
+      "title": "현대차·기아 상반기 美 판매량 92만383대…'역대 최다'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005380559"
     },
     {
-      "title": "전세계 180개국에 '아산 정신' 울려퍼졌다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005701463"
+      "title": "한화오션, 한국형 차기 구축함 우선협상대상자 선정",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257315"
     },
     {
-      "title": "환율 또 금융위기 후 최고…장중 1,560원선 위협",
-      "url": "https://n.news.naver.com/mnews/article/422/0000880423"
+      "title": "\"특례기업도 '밸류업' 해야\"…특례상장 5년 내 사업변경시 상폐심사",
+      "url": "https://n.news.naver.com/mnews/article/008/0005380541"
     },
     {
-      "title": "국민연금 리밸런싱 D-1…증시 흔들 변수 될까",
-      "url": "https://n.news.naver.com/mnews/article/366/0001175675"
+      "title": "[속보] 코스피 이어 코스닥 시장서도 매도 사이드카 발동",
+      "url": "https://n.news.naver.com/mnews/article/654/0000188566"
     },
     {
-      "title": "EU 철강 빗장에 한국 19% 감소로 선방…중국 무관세 ⅔ 급감",
-      "url": "https://n.news.naver.com/mnews/article/055/0001368606"
+      "title": "6월 소비자물가 3.2%↑…2년6개월만 최대폭 상승",
+      "url": "https://n.news.naver.com/mnews/article/662/0000098743"
     },
     {
-      "title": "금감원 \"자유적금·외화 계좌로 자금세탁 가능성 차단\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001038968"
+      "title": "화장품 상반기 수출 70억 달러 돌파…역대 최고 실적 경신",
+      "url": "https://n.news.naver.com/mnews/article/025/0003534924"
     },
     {
-      "title": "정점식 “노란봉투법, 산업현장 혼란 최소화해야”…경총 “사용자 방어권 보완 시급”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002664390"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012209741"
     },
     {
-      "title": "삼성 초기업노조 “반도체 메가 프로젝트 노사정 협의체 제안”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012209647"
+      "title": "김정관 \"충청서 성장엔진 가동\"…392조 투자 지원 총력",
+      "url": "https://n.news.naver.com/mnews/article/014/0005542840"
     },
     {
-      "title": "테슬라, 모델Y RWD 제외 가격 인상...판매 방어·수익성 노려",
-      "url": "https://n.news.naver.com/mnews/article/293/0000087070"
+      "title": "OECD \"한국 부동산 과세, 거래세에서 보유세로 전환해야\"",
+      "url": "https://n.news.naver.com/mnews/article/658/0000148427"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8303.41,
-      "change": -173.07,
-      "change_pct": -2.04
+      "value": 7648.09,
+      "change": -655.32,
+      "change_pct": -7.89
     },
     "kosdaq": {
-      "value": 929.35,
-      "change": 13.17,
-      "change_pct": 1.44
+      "value": 866.72,
+      "change": -62.63,
+      "change_pct": -6.74
     },
     "nasdaq": {
-      "value": 26213.72,
-      "change": 393.58,
-      "change_pct": 1.52
+      "value": 26040.03,
+      "change": -173.69,
+      "change_pct": -0.66
     },
     "usdkrw": {
-      "value": 1557.7,
-      "change": 15.97,
-      "change_pct": 1.04
+      "value": 1548.72,
+      "change": 0.11,
+      "change_pct": 0.01
     }
   },
   "gold": {
-    "price_usd": 4003.1,
-    "price_krw": 6235629,
-    "change": -19.8,
-    "change_pct": -0.49
+    "price_usd": 4085.6,
+    "price_krw": 6327450,
+    "change": 17.3,
+    "change_pct": 0.43
   },
-  "updated": "2026-07-01 19:50",
+  "updated": "2026-07-02 17:30",
   "error": null
 }
