@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'반도체+레버리지'가 휩쓴 ETF 시장…롤러코스터 장세 키웠다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005543063"
+      "title": "[속보] 삼성전기, 부산에 15조 투자…패키지 기판·MLCC 마더라인 육성",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305968"
     },
     {
-      "title": "현대차·기아 상반기 美 판매량 92만383대…'역대 최다'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005380559"
+      "title": "우리은행, 리테일영업총괄부 신설…정진완표 영업·내부통제 강화",
+      "url": "https://n.news.naver.com/mnews/article/417/0001150221"
     },
     {
-      "title": "한화오션, 한국형 차기 구축함 우선협상대상자 선정",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257315"
+      "title": "LH 새 수장 이성훈…공급 확대부터 재무 개선까지 과제 '산적'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009039287"
     },
     {
-      "title": "\"특례기업도 '밸류업' 해야\"…특례상장 5년 내 사업변경시 상폐심사",
-      "url": "https://n.news.naver.com/mnews/article/008/0005380541"
+      "title": "‘회생할 2000억원이 없었다’…30년 홈플러스 파산 수순",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637860"
     },
     {
-      "title": "[속보] 코스피 이어 코스닥 시장서도 매도 사이드카 발동",
-      "url": "https://n.news.naver.com/mnews/article/654/0000188566"
+      "title": "\"더 안전한 하늘\" 민·군 항공기 인증협력 업무협약 체결",
+      "url": "https://n.news.naver.com/mnews/article/079/0004164501"
     },
     {
-      "title": "6월 소비자물가 3.2%↑…2년6개월만 최대폭 상승",
-      "url": "https://n.news.naver.com/mnews/article/662/0000098743"
+      "title": "한화토탈에너지스, 주요 제품 가격 톤당 최대 20만원 인하",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665449"
     },
     {
-      "title": "화장품 상반기 수출 70억 달러 돌파…역대 최고 실적 경신",
-      "url": "https://n.news.naver.com/mnews/article/025/0003534924"
+      "title": "한국판 스타링크 띄운다…2035년 저궤도 위성망 완성",
+      "url": "https://n.news.naver.com/mnews/article/001/0016175247"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012209741"
+      "title": "앤트로픽, 삼성전자와 AI 칩 협력 논의…2나노 경쟁력 주목",
+      "url": "https://n.news.naver.com/mnews/article/028/0002812516"
     },
     {
-      "title": "김정관 \"충청서 성장엔진 가동\"…392조 투자 지원 총력",
-      "url": "https://n.news.naver.com/mnews/article/014/0005542840"
+      "title": "상반기 외국인직접투자 도착액 42.6%↑…제조업 205.2%↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009039086"
     },
     {
-      "title": "OECD \"한국 부동산 과세, 거래세에서 보유세로 전환해야\"",
-      "url": "https://n.news.naver.com/mnews/article/658/0000148427"
+      "title": "미 캐피털그룹, KT&G 104만주 또 샀다…지분율 8.2%로",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257504"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7648.09,
-      "change": -655.32,
-      "change_pct": -7.89
+      "value": 8088.34,
+      "change": 440.25,
+      "change_pct": 5.76
     },
     "kosdaq": {
-      "value": 866.72,
-      "change": -62.63,
-      "change_pct": -6.74
+      "value": 868.41,
+      "change": 1.69,
+      "change_pct": 0.19
     },
     "nasdaq": {
-      "value": 26040.03,
-      "change": -173.69,
-      "change_pct": -0.66
+      "value": 25832.67,
+      "change": -207.36,
+      "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1548.72,
-      "change": 0.11,
-      "change_pct": 0.01
+      "value": 1529.43,
+      "change": -22.38,
+      "change_pct": -1.44
     }
   },
   "gold": {
-    "price_usd": 4085.6,
-    "price_krw": 6327450,
-    "change": 17.3,
-    "change_pct": 0.43
+    "price_usd": 4194.9,
+    "price_krw": 6415805,
+    "change": 82.2,
+    "change_pct": 2.0
   },
-  "updated": "2026-07-02 17:30",
+  "updated": "2026-07-03 17:38",
   "error": null
 }
