@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "[속보] 삼성전기, 부산에 15조 투자…패키지 기판·MLCC 마더라인 육성",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305968"
+      "title": "6월 수입차 신규 등록 2대 중 1대 '전기차'",
+      "url": "https://n.news.naver.com/mnews/article/031/0001039541"
     },
     {
-      "title": "우리은행, 리테일영업총괄부 신설…정진완표 영업·내부통제 강화",
-      "url": "https://n.news.naver.com/mnews/article/417/0001150221"
+      "title": "하루 걸러 하루 사이드카…지독한 레버리지의 저주",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535280"
     },
     {
-      "title": "LH 새 수장 이성훈…공급 확대부터 재무 개선까지 과제 '산적'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009039287"
+      "title": "\"420만닉스 간다\"…반도체주 급락에도 증권가 '깜짝' 전망 [종목+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305839"
     },
     {
-      "title": "‘회생할 2000억원이 없었다’…30년 홈플러스 파산 수순",
-      "url": "https://n.news.naver.com/mnews/article/011/0004637860"
+      "title": "소액주주 반발에…동양생명 주식매수청구권 10% 상향",
+      "url": "https://n.news.naver.com/mnews/article/009/0005702560"
     },
     {
-      "title": "\"더 안전한 하늘\" 민·군 항공기 인증협력 업무협약 체결",
-      "url": "https://n.news.naver.com/mnews/article/079/0004164501"
+      "title": "상반기 FDI 9.1% 증가...\"반도체·디스플레이 신규 투자 유입\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257482"
     },
     {
-      "title": "한화토탈에너지스, 주요 제품 가격 톤당 최대 20만원 인하",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665449"
+      "title": "홈플러스 임금체불 피해자에 최대 2천100만원 지급…저금리 융자",
+      "url": "https://n.news.naver.com/mnews/article/001/0016174834"
     },
     {
-      "title": "한국판 스타링크 띄운다…2035년 저궤도 위성망 완성",
-      "url": "https://n.news.naver.com/mnews/article/001/0016175247"
+      "title": "도수치료 급여화 시작…병원은 '고용·운영' 더 걱정",
+      "url": "https://n.news.naver.com/mnews/article/421/0009038503"
     },
     {
-      "title": "앤트로픽, 삼성전자와 AI 칩 협력 논의…2나노 경쟁력 주목",
-      "url": "https://n.news.naver.com/mnews/article/028/0002812516"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519815"
     },
     {
-      "title": "상반기 외국인직접투자 도착액 42.6%↑…제조업 205.2%↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009039086"
+      "title": "李대통령 “우주항공도 ‘대체불가 대한민국’…잠재력 충분”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006321886"
     },
     {
-      "title": "미 캐피털그룹, KT&G 104만주 또 샀다…지분율 8.2%로",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257504"
+      "title": "KB금융 차기 회장 후보 6명 압축",
+      "url": "https://n.news.naver.com/mnews/article/015/0005306141"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1529.43,
-      "change": -22.38,
-      "change_pct": -1.44
+      "value": 1530.15,
+      "change": -21.66,
+      "change_pct": -1.4
     }
   },
   "gold": {
-    "price_usd": 4194.9,
-    "price_krw": 6415805,
-    "change": 82.2,
-    "change_pct": 2.0
+    "price_usd": 4187.3,
+    "price_krw": 6407196,
+    "change": 74.6,
+    "change_pct": 1.81
   },
-  "updated": "2026-07-03 17:38",
+  "updated": "2026-07-04 16:31",
   "error": null
 }
