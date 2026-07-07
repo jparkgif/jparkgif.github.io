@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스, 배송 이어 고객센터도 ‘스톱’…10만 생존권 위협 현실로",
-      "url": "https://n.news.naver.com/mnews/article/016/0002666104"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535836"
     },
     {
-      "title": "대한항공, 200억엔 사무라이본드 조달... 기단 현대화 가속",
-      "url": "https://n.news.naver.com/mnews/article/014/0005544177"
+      "title": "코스피 4.9% 급락 7,600선으로 밀려…원·달러 환율 1,528원대",
+      "url": "https://n.news.naver.com/mnews/article/056/0012213257"
     },
     {
-      "title": "청년미래적금 신청 234만명 몰렸다…27일부터 계좌 개설",
-      "url": "https://n.news.naver.com/mnews/article/008/0005381994"
+      "title": "GS25, '싱글몰트 위스키' 와인25플러스서 단일 카테고리 주류 매출 1위",
+      "url": "https://n.news.naver.com/mnews/article/030/0003445063"
     },
     {
-      "title": "네이버파이낸셜·두나무 주식교환 또 연기…12월31일 예정",
-      "url": "https://n.news.naver.com/mnews/article/055/0001370094"
+      "title": "현대건설, 5,000억 원 전환사채 발행...“원전·SMR에 활용”",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257896"
     },
     {
-      "title": "LG, 2·3차 협력사도 챙긴다…상생결제 늘리고 임직원몰 개방",
-      "url": "https://n.news.naver.com/mnews/article/011/0004638558"
+      "title": "구윤철 \"지방 근로자 소득세 공제 검토…기반 조성 때까지 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009044134"
     },
     {
-      "title": "“휴대폰 바꾸는데 이렇게까지?”…오늘부터 확 바뀐 개통 절차, 이유 있었다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004638527"
+      "title": "LG전자, 2분기 역대 최대 실적…영업이익 1조5788억원",
+      "url": "https://n.news.naver.com/mnews/article/030/0003445179"
     },
     {
-      "title": "삼성·하이닉스 시총 비중 55%…'쏠림 현상' 경고등 켜졌다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005306416"
+      "title": "현대차그룹, 1~3차 협력사와 상생협약…대금 지급 10일 이내로",
+      "url": "https://n.news.naver.com/mnews/article/586/0000133235"
     },
     {
-      "title": "중복상장 사실상 금지…‘3%룰 주주동의’ 도입",
-      "url": "https://n.news.naver.com/mnews/article/082/0001388503"
+      "title": "전분·전분당 담합 7476억 역대 최대 제재…입찰·부산물도 심판대",
+      "url": "https://n.news.naver.com/mnews/article/030/0003445232"
     },
     {
-      "title": "삼성전자 상반기 성과급 확정…반도체 최대 100%·스마트폰 50%·가전 25%",
-      "url": "https://n.news.naver.com/mnews/article/016/0002666412"
+      "title": "명의만 넘기고 ‘1주택 비과세···국세청, 부동산 탈세 318억원 추징",
+      "url": "https://n.news.naver.com/mnews/article/032/0003456559"
     },
     {
-      "title": "SK하이닉스, ADR 발행 규모 45조→43조원 정정…주가 하락 반영",
-      "url": "https://n.news.naver.com/mnews/article/018/0006324105"
+      "title": "민주노총·사회원로 \"홈플러스 회생 방안 마련해야‥대통령 면담 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001510059"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8051.33,
-      "change": -37.01,
-      "change_pct": -0.46
+      "value": 7656.31,
+      "change": -395.02,
+      "change_pct": -4.91
     },
     "kosdaq": {
-      "value": 847.07,
-      "change": -21.34,
-      "change_pct": -2.46
+      "value": 831.23,
+      "change": -15.84,
+      "change_pct": -1.87
     },
     "nasdaq": {
-      "value": 25832.67,
-      "change": -207.36,
-      "change_pct": -0.8
+      "value": 26121.16,
+      "change": 288.49,
+      "change_pct": 1.12
     },
     "usdkrw": {
-      "value": 1531.34,
-      "change": -10.79,
-      "change_pct": -0.7
+      "value": 1521.62,
+      "change": -9.38,
+      "change_pct": -0.61
     }
   },
   "gold": {
-    "price_usd": 4170.5,
-    "price_krw": 6386453,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4140.0,
+    "price_krw": 6299506,
+    "change": -15.1,
+    "change_pct": -0.36
   },
-  "updated": "2026-07-06 21:16",
+  "updated": "2026-07-07 17:58",
   "error": null
 }
