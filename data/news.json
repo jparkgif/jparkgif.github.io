@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "성능 경쟁 이겼지만 나토 결속에 눈물…韓 잠수함 세계에 알렸다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786417"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535836"
+      "url": "https://n.news.naver.com/mnews/article/422/0000882180"
     },
     {
-      "title": "코스피 4.9% 급락 7,600선으로 밀려…원·달러 환율 1,528원대",
-      "url": "https://n.news.naver.com/mnews/article/056/0012213257"
+      "title": "수도권 해운기업 러시…흥아해운도 부산 온다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002667016"
     },
     {
-      "title": "GS25, '싱글몰트 위스키' 와인25플러스서 단일 카테고리 주류 매출 1위",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445063"
+      "title": "증권사·VC와 벤처기업 잇는다…모험자본 플랫폼 출범",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639041"
     },
     {
-      "title": "현대건설, 5,000억 원 전환사채 발행...“원전·SMR에 활용”",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257896"
+      "title": "오후 8시까지 주문하면 2시간 내 배송…SSG닷컴 서비스 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786850"
     },
     {
-      "title": "구윤철 \"지방 근로자 소득세 공제 검토…기반 조성 때까지 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009044134"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001510125"
     },
     {
-      "title": "LG전자, 2분기 역대 최대 실적…영업이익 1조5788억원",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445179"
+      "title": "홈플러스 운명에 흔들리는 몰 상권…다이소·CJ올리브영·영화관 셈법 복잡",
+      "url": "https://n.news.naver.com/mnews/article/421/0009046415"
     },
     {
-      "title": "현대차그룹, 1~3차 협력사와 상생협약…대금 지급 10일 이내로",
-      "url": "https://n.news.naver.com/mnews/article/586/0000133235"
+      "title": "LG전자, 2개 분기 연속 영업익 1조대…전장·HVAC로 빛났다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639085"
     },
     {
-      "title": "전분·전분당 담합 7476억 역대 최대 제재…입찰·부산물도 심판대",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445232"
+      "title": "반도체가 수출 이끌며…경상수지 흑자 5개월만에 지난해 ‘최대’ 기록 추월",
+      "url": "https://n.news.naver.com/mnews/article/023/0003986400"
     },
     {
-      "title": "명의만 넘기고 ‘1주택 비과세···국세청, 부동산 탈세 318억원 추징",
-      "url": "https://n.news.naver.com/mnews/article/032/0003456559"
-    },
-    {
-      "title": "민주노총·사회원로 \"홈플러스 회생 방안 마련해야‥대통령 면담 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001510059"
+      "title": "양도세 피하려 ‘엄마 친구’에게 아파트 허위 매도…10억원 추징",
+      "url": "https://n.news.naver.com/mnews/article/020/0003732168"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7656.31,
-      "change": -395.02,
-      "change_pct": -4.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 831.23,
-      "change": -15.84,
-      "change_pct": -1.87
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26121.16,
-      "change": 288.49,
-      "change_pct": 1.12
+      "value": 25818.69,
+      "change": -302.47,
+      "change_pct": -1.16
     },
     "usdkrw": {
-      "value": 1521.62,
-      "change": -9.38,
-      "change_pct": -0.61
+      "value": 1518.45,
+      "change": -10.31,
+      "change_pct": -0.67
     }
   },
   "gold": {
-    "price_usd": 4140.0,
-    "price_krw": 6299506,
-    "change": -15.1,
-    "change_pct": -0.36
+    "price_usd": 4112.2,
+    "price_krw": 6244170,
+    "change": -42.9,
+    "change_pct": -1.03
   },
-  "updated": "2026-07-07 17:58",
+  "updated": "2026-07-08 09:16",
   "error": null
 }
