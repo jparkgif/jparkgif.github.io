@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "박홍근 “지금이 청년 세대에 과감하게 투자할 골든 타임”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660166"
+      "title": "코스피 5% 급등에 매수 사이드카…“AI 투자 기대감 회복”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002813571"
     },
     {
-      "title": "KB국민은행, 주담대 한도 6억→3억 '반토막'…대출 한파 全은행 확산할까",
-      "url": "https://n.news.naver.com/mnews/article/421/0009051490"
+      "title": "여름 휴가철 맞은 백화점…키즈 팝업부터 AI·물놀이 체험까지",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142215"
     },
     {
-      "title": "이마트, 몽골 첫 노브랜드 전문점…\"중기 해외 진출 교두보\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384305"
+      "title": "홈플러스 6월 체불임금 333억…정부, 1인당 최대 2100만원 긴급 지원",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660262"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012215683"
+      "title": "항고포기 수순 MBK·자금 전용 난색 메리츠…파산으로 가는 홈플러스",
+      "url": "https://n.news.naver.com/mnews/article/421/0009052854"
     },
     {
-      "title": "홈플러스 임금체불 333억…정부, 1인당 최대 2100만원 지급",
-      "url": "https://n.news.naver.com/mnews/article/003/0014059594"
+      "title": "LG엔솔, 국내 첫 AI 배전망 ESS 사업 따냈다…에너지 플랫폼 '속도'",
+      "url": "https://n.news.naver.com/mnews/article/119/0003110164"
     },
     {
-      "title": "구윤철 \"몽골과 핵심광물·AI 협력 확대\"…2.3억달러 암센터도 건립",
-      "url": "https://n.news.naver.com/mnews/article/421/0009051948"
+      "title": "9시30분 벨 누르자 거래 시작…\"웰컴 투 나스닥\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308812"
     },
     {
-      "title": "삼성D, OLED로 ‘7억 게임 대국’ 잡는다…亞 최대 서브컬처 박람회 첫 참가",
-      "url": "https://n.news.naver.com/mnews/article/016/0002668694"
+      "title": "\"이름도 몰랐는데\"…SK하이닉스 美 상장에 외신 '화들짝'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308819"
     },
     {
-      "title": "선박 연료 3% 아낀다…HD현대마린솔루션, AI 항로 사업 본격화",
-      "url": "https://n.news.naver.com/mnews/article/092/0002430047"
+      "title": "‘건설 위기 돌파구’… 국토부, 30% 비싼 ‘모듈러 주택’ 키운다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142118"
     },
     {
-      "title": "대웅제약, 웨이센과 AI 내시경 소프트웨어 시장 진출",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384170"
+      "title": "“약정금 5000만원 날릴 판”…대출 절벽에 계약취소·자금계획 올스톱",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640393"
     },
     {
-      "title": "호반문화재단, '2026 H-EAA' 시상식…10년간 청년 예술가 성장 지원",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308488"
+      "title": "韓 노년층 빈곤율 30%대로 첫 하락… 그래도 OECD 1위",
+      "url": "https://n.news.naver.com/mnews/article/023/0003986805"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26206.89,
-      "change": 336.24,
-      "change_pct": 1.3
+      "value": 26281.61,
+      "change": 74.72,
+      "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1504.98,
-      "change": 1.63,
-      "change_pct": 0.11
+      "value": 1498.87,
+      "change": -4.48,
+      "change_pct": -0.3
     }
   },
   "gold": {
-    "price_usd": 4109.0,
-    "price_krw": 6183962,
-    "change": -21.6,
-    "change_pct": -0.52
+    "price_usd": 4128.9,
+    "price_krw": 6188684,
+    "change": -1.7,
+    "change_pct": -0.04
   },
-  "updated": "2026-07-10 17:52",
+  "updated": "2026-07-11 09:13",
   "error": null
 }
