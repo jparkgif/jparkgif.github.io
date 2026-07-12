@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "코스피 5% 급등에 매수 사이드카…“AI 투자 기대감 회복”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002813571"
+      "title": "\"영화관·북콘서트·도슨트까지\"....현대건설 '디에이치 방배' 공개",
+      "url": "https://n.news.naver.com/mnews/article/422/0000883963"
     },
     {
-      "title": "여름 휴가철 맞은 백화점…키즈 팝업부터 AI·물놀이 체험까지",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142215"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521101"
     },
     {
-      "title": "홈플러스 6월 체불임금 333억…정부, 1인당 최대 2100만원 긴급 지원",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660262"
+      "title": "SK 최태원 \"미국에 메모리 생산공장도 가능\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002378032"
     },
     {
-      "title": "항고포기 수순 MBK·자금 전용 난색 메리츠…파산으로 가는 홈플러스",
-      "url": "https://n.news.naver.com/mnews/article/421/0009052854"
+      "title": "대통령 경고에 화들짝…이케아 “엄중히 받아들여”, 육휴 불이익 의혹 제기돼",
+      "url": "https://n.news.naver.com/mnews/article/021/0002804014"
     },
     {
-      "title": "LG엔솔, 국내 첫 AI 배전망 ESS 사업 따냈다…에너지 플랫폼 '속도'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003110164"
+      "title": "“커피가 신발 박스로, 우유가 도자기로”…유통가 콜라보의 진화",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142311"
     },
     {
-      "title": "9시30분 벨 누르자 거래 시작…\"웰컴 투 나스닥\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308812"
+      "title": "ADR 발판 삼은 SK하이닉스…인디애나 넘어 '美 신규 팹' 가능성",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384629"
     },
     {
-      "title": "\"이름도 몰랐는데\"…SK하이닉스 美 상장에 외신 '화들짝'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308819"
+      "title": "\"삼전닉스 레버리지? 지금은 비중 축소 권한다\"[경제적본능]",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167420"
     },
     {
-      "title": "‘건설 위기 돌파구’… 국토부, 30% 비싼 ‘모듈러 주택’ 키운다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142118"
+      "title": "환율 1,500원 깨지며 달러예금 8.8조↑…3년반 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016189099"
     },
     {
-      "title": "“약정금 5000만원 날릴 판”…대출 절벽에 계약취소·자금계획 올스톱",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640393"
+      "title": "주유소 기름값 8주 연속 하락…전국 휘발윳값 1천893원",
+      "url": "https://n.news.naver.com/mnews/article/448/0000626030"
     },
     {
-      "title": "韓 노년층 빈곤율 30%대로 첫 하락… 그래도 OECD 1위",
-      "url": "https://n.news.naver.com/mnews/article/023/0003986805"
+      "title": "주담대 우대금리 받으려면 통장 100만원 유지, '꺾기'와 뭐가 달라?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384615"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 837.43,
+      "change": 43.43,
+      "change_pct": 5.47
     },
     "nasdaq": {
       "value": 26281.61,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4128.9,
-    "price_krw": 6188684,
-    "change": -1.7,
-    "change_pct": -0.04
+    "price_usd": 4104.1,
+    "price_krw": 6151512,
+    "change": -26.5,
+    "change_pct": -0.64
   },
-  "updated": "2026-07-11 09:13",
+  "updated": "2026-07-12 09:15",
   "error": null
 }
