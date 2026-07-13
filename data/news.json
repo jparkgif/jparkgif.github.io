@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "\"영화관·북콘서트·도슨트까지\"....현대건설 '디에이치 방배' 공개",
-      "url": "https://n.news.naver.com/mnews/article/422/0000883963"
+      "title": "[단독] 단일종목 레버리지 투자자 77%가 예탁금 5000만 원 이상",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640725"
+    },
+    {
+      "title": "비트코인의 다양한 분류",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328710"
+    },
+    {
+      "title": "“이 회사 살려야 한다” 개미들 우르르…상폐 위기에 주가 100% 뛴 뜻밖의 이유",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640846"
+    },
+    {
+      "title": "\"'40조' 구원투수 등판한다\"…\"통화스와프급\" 외환시장 '들썩'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258398"
+    },
+    {
+      "title": "무협, 인도 시장 분석 돕는다…경제·산업 통계집 첫 발간",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061975"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521101"
+      "url": "https://n.news.naver.com/mnews/article/374/0000521243"
     },
     {
-      "title": "SK 최태원 \"미국에 메모리 생산공장도 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002378032"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012216560"
     },
     {
-      "title": "대통령 경고에 화들짝…이케아 “엄중히 받아들여”, 육휴 불이익 의혹 제기돼",
-      "url": "https://n.news.naver.com/mnews/article/021/0002804014"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884257"
     },
     {
-      "title": "“커피가 신발 박스로, 우유가 도자기로”…유통가 콜라보의 진화",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142311"
+      "title": "삼성전자 용인 반도체 공장 1~2년 앞당긴다…“2029년 가동”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536990"
     },
     {
-      "title": "ADR 발판 삼은 SK하이닉스…인디애나 넘어 '美 신규 팹' 가능성",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384629"
-    },
-    {
-      "title": "\"삼전닉스 레버리지? 지금은 비중 축소 권한다\"[경제적본능]",
-      "url": "https://n.news.naver.com/mnews/article/079/0004167420"
-    },
-    {
-      "title": "환율 1,500원 깨지며 달러예금 8.8조↑…3년반 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016189099"
-    },
-    {
-      "title": "주유소 기름값 8주 연속 하락…전국 휘발윳값 1천893원",
-      "url": "https://n.news.naver.com/mnews/article/448/0000626030"
-    },
-    {
-      "title": "주담대 우대금리 받으려면 통장 100만원 유지, '꺾기'와 뭐가 달라?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384615"
+      "title": "“미국선 이미 252만원”…하이닉스, 13일 250만원 갈까",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142330"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 26281.61,
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1500.68,
+      "change": -5.23,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4092.9,
+    "price_krw": 6142133,
+    "change": -11.2,
+    "change_pct": -0.27
   },
-  "updated": "2026-07-12 09:15",
+  "updated": "2026-07-13 09:14",
   "error": null
 }
