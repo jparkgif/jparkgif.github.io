@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "한류·환율효과에 외국인 몰린다…3대백화점, 올해 3조원 합작할듯",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660885"
+      "title": "현대차 노조 “사측 추가 제시안 없으면 파업 수위 높인다”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987481"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/057/0001958321"
+      "title": "\"국민들이 기다려\"…李대통령, 英 앤 공주 부부 접견",
+      "url": "https://n.news.naver.com/mnews/article/277/0005789957"
     },
     {
-      "title": "2분기 이재용 주식가치 28조 넘게 늘어나…최태원은 ‘10조 클럽’ 가입",
-      "url": "https://n.news.naver.com/mnews/article/032/0003457932"
+      "title": "\"부동산 말씀 좀 드려도…\" 패싱 당한 오세훈, 8대 정책 꺼냈다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000942183"
     },
     {
-      "title": "애플 “오픈AI, 영업비밀 탈취”… 블록버스터급 소송",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142511"
+      "title": "정부, 올해 성장률 3% 전망...\"물가 2.6%·취업자 15만 명 증가\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379325"
     },
     {
-      "title": "삼성전자, 테슬라 'AI5' 생산 임박…\"테이프아웃에 진입\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004167684"
+      "title": "최태원 “기술적 돌파구로 AI 비용 낮춰야…고효율 데이터센터 구축”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733816"
     },
     {
-      "title": "‘하닉’ 17년만의 최대 낙폭…레버리지 ETF는 30% 폭락",
-      "url": "https://n.news.naver.com/mnews/article/005/0001860685"
+      "title": "美 물가 둔화에 나스닥 0.9%↑…SK하이닉스 ADR 27% 급등[뉴스새벽배송]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330422"
     },
     {
-      "title": "20대 여성은 아이폰…40대 이상은 갤럭시 [IT썰]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005385486"
+      "title": "[속보]청년 실업자 1만명 증가···청년층 취업자 14만7000명 감소",
+      "url": "https://n.news.naver.com/mnews/article/032/0003458203"
     },
     {
-      "title": "집 보러 갔더니 절반 이상 매매가 높인 곳, 서울 5개구→23개구로 확대됐다 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002669290"
+      "title": "전세사기 '위험신호'… 네이버·직방서 본다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005707393"
     },
     {
-      "title": "사상 최대 매출 경신한 고려아연, '핵심광물 플랫폼' 가치 인정받아",
-      "url": "https://n.news.naver.com/mnews/article/277/0005788764"
+      "title": "증권가 대표들, 레버리지 '자율 대응방안' 머리 맞대…\"삼전닉스 영향 최소화 보완 방안 마련\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005309984"
     },
     {
-      "title": "농협, 2200억원 규모 '힘내라! 우리 농업' 프로젝트 추진",
-      "url": "https://n.news.naver.com/mnews/article/003/0014062312"
+      "title": "뉴욕 증시, 예상보다 낮은 CPI 소화하며 상승 출발",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379534"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25873.18,
-      "change": -408.43,
-      "change_pct": -1.55
+      "value": 26107.01,
+      "change": 233.83,
+      "change_pct": 0.9
     },
     "usdkrw": {
-      "value": 1498.08,
-      "change": -0.4,
-      "change_pct": -0.03
+      "value": 1486.79,
+      "change": -10.91,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4006.8,
-    "price_krw": 6002507,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4056.9,
+    "price_krw": 6031758,
+    "change": 59.9,
+    "change_pct": 1.5
   },
-  "updated": "2026-07-14 09:08",
+  "updated": "2026-07-15 08:38",
   "error": null
 }
