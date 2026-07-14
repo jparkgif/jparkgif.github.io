@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[단독] 단일종목 레버리지 투자자 77%가 예탁금 5000만 원 이상",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640725"
-    },
-    {
-      "title": "비트코인의 다양한 분류",
-      "url": "https://n.news.naver.com/mnews/article/018/0006328710"
-    },
-    {
-      "title": "“이 회사 살려야 한다” 개미들 우르르…상폐 위기에 주가 100% 뛴 뜻밖의 이유",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640846"
-    },
-    {
-      "title": "\"'40조' 구원투수 등판한다\"…\"통화스와프급\" 외환시장 '들썩'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258398"
-    },
-    {
-      "title": "무협, 인도 시장 분석 돕는다…경제·산업 통계집 첫 발간",
-      "url": "https://n.news.naver.com/mnews/article/003/0014061975"
+      "title": "한류·환율효과에 외국인 몰린다…3대백화점, 올해 3조원 합작할듯",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660885"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521243"
+      "url": "https://n.news.naver.com/mnews/article/057/0001958321"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012216560"
+      "title": "2분기 이재용 주식가치 28조 넘게 늘어나…최태원은 ‘10조 클럽’ 가입",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457932"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000884257"
+      "title": "애플 “오픈AI, 영업비밀 탈취”… 블록버스터급 소송",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142511"
     },
     {
-      "title": "삼성전자 용인 반도체 공장 1~2년 앞당긴다…“2029년 가동”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003536990"
+      "title": "삼성전자, 테슬라 'AI5' 생산 임박…\"테이프아웃에 진입\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167684"
     },
     {
-      "title": "“미국선 이미 252만원”…하이닉스, 13일 250만원 갈까",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142330"
+      "title": "‘하닉’ 17년만의 최대 낙폭…레버리지 ETF는 30% 폭락",
+      "url": "https://n.news.naver.com/mnews/article/005/0001860685"
+    },
+    {
+      "title": "20대 여성은 아이폰…40대 이상은 갤럭시 [IT썰]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005385486"
+    },
+    {
+      "title": "집 보러 갔더니 절반 이상 매매가 높인 곳, 서울 5개구→23개구로 확대됐다 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002669290"
+    },
+    {
+      "title": "사상 최대 매출 경신한 고려아연, '핵심광물 플랫폼' 가치 인정받아",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788764"
+    },
+    {
+      "title": "농협, 2200억원 규모 '힘내라! 우리 농업' 프로젝트 추진",
+      "url": "https://n.news.naver.com/mnews/article/003/0014062312"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7475.94,
+      "value": 6806.93,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.43,
+      "value": 799.36,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29
+      "value": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55
     },
     "usdkrw": {
-      "value": 1500.68,
-      "change": -5.23,
-      "change_pct": -0.35
+      "value": 1498.08,
+      "change": -0.4,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4092.9,
-    "price_krw": 6142133,
-    "change": -11.2,
-    "change_pct": -0.27
+    "price_usd": 4006.8,
+    "price_krw": 6002507,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-13 09:14",
+  "updated": "2026-07-14 09:08",
   "error": null
 }
