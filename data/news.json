@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차 노조 “사측 추가 제시안 없으면 파업 수위 높인다”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003987481"
+      "title": "청년 고용률 26개월째 내리막…2분기 고용률도 6년 만에 감소",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537775"
     },
     {
-      "title": "\"국민들이 기다려\"…李대통령, 英 앤 공주 부부 접견",
-      "url": "https://n.news.naver.com/mnews/article/277/0005789957"
+      "title": "마샤 블랙번 美 상원의원, 고려아연 '프로젝트 크루서블' 현장 방문",
+      "url": "https://n.news.naver.com/mnews/article/030/0003448161"
     },
     {
-      "title": "\"부동산 말씀 좀 드려도…\" 패싱 당한 오세훈, 8대 정책 꺼냈다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000942183"
+      "title": "토스그룹, 빅테크 금융 첫 금융복합기업집단 지정",
+      "url": "https://n.news.naver.com/mnews/article/421/0009061836"
     },
     {
-      "title": "정부, 올해 성장률 3% 전망...\"물가 2.6%·취업자 15만 명 증가\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002379325"
+      "title": "금융위, '회계처리 위반' 영풍 204억·고려아연 84억 과징금",
+      "url": "https://n.news.naver.com/mnews/article/079/0004168890"
     },
     {
-      "title": "최태원 “기술적 돌파구로 AI 비용 낮춰야…고효율 데이터센터 구축”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733816"
+      "title": "LG전자, 전사 확대경영회의…류재철, 조직별 성과 점검",
+      "url": "https://n.news.naver.com/mnews/article/422/0000885605"
     },
     {
-      "title": "美 물가 둔화에 나스닥 0.9%↑…SK하이닉스 ADR 27% 급등[뉴스새벽배송]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006330422"
+      "title": "친환경차 月수출 10만대 돌파…테슬라 ‘모델Y’ 상반기 내수 2위",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641922"
     },
     {
-      "title": "[속보]청년 실업자 1만명 증가···청년층 취업자 14만7000명 감소",
-      "url": "https://n.news.naver.com/mnews/article/032/0003458203"
+      "title": "기업인 900명 제주 집결…AI시대 韓 성장전략 찾는다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642016"
     },
     {
-      "title": "전세사기 '위험신호'… 네이버·직방서 본다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005707393"
+      "title": "“영세업체 한계인데”…경제계, 내년 최저임금 1만700원 결정에 ‘유감’",
+      "url": "https://n.news.naver.com/mnews/article/666/0000115287"
     },
     {
-      "title": "증권가 대표들, 레버리지 '자율 대응방안' 머리 맞대…\"삼전닉스 영향 최소화 보완 방안 마련\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005309984"
+      "title": "실적 개선에도 고삐 죈 신동빈 \"본원적 경쟁력 확보\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006331116"
     },
     {
-      "title": "뉴욕 증시, 예상보다 낮은 CPI 소화하며 상승 출발",
-      "url": "https://n.news.naver.com/mnews/article/052/0002379534"
+      "title": "롯데백화점, '2026 캐릭터 라이센싱 페어' 참가…IP사업 확대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016197412"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6806.93,
+      "value": 7284.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 799.36,
+      "value": 829.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26107.01,
-      "change": 233.83,
-      "change_pct": 0.9
+      "value": 26269.23,
+      "change": 162.22,
+      "change_pct": 0.62
     },
     "usdkrw": {
-      "value": 1486.79,
-      "change": -10.91,
-      "change_pct": -0.73
+      "value": 1484.58,
+      "change": -3.3,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4056.9,
-    "price_krw": 6031758,
-    "change": 59.9,
-    "change_pct": 1.5
+    "price_usd": 4064.8,
+    "price_krw": 6034520,
+    "change": 3.7,
+    "change_pct": 0.09
   },
-  "updated": "2026-07-15 08:38",
+  "updated": "2026-07-16 09:13",
   "error": null
 }
