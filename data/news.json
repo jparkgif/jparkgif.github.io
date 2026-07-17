@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "메리츠, 홈플러스에 2000억 지원 의결…\"회생 마중물 기대\"",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048970"
+      "title": "\"다음달 대출이자 벌써 겁난다\"...年주담대 이자만 1조 8천억원↑",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259031"
     },
     {
-      "title": "삼성 DX노조 \"같은 회사인데...성과급 격차 해소\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002380571"
+      "title": "최태원 \"한국 AI, 미중 사이에서 틈새시장 만들어 지능 수출해야\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001512286"
     },
     {
-      "title": "단일종목 레버리지 ETF 예탁금 현금 3000만원으로 상향",
-      "url": "https://n.news.naver.com/mnews/article/469/0000942680"
+      "title": "‘7조’ 빨아들인 삼전닉스 레버리지…보완책에 “증시 더 폭락” 왜",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538310"
     },
     {
-      "title": "어제는 매수 사이드카, 오늘은 매도 사이드카…\"출렁\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000885679"
+      "title": "얼굴 결제, 누가 왕이 될 상인가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311123"
     },
     {
-      "title": "與한정애 \"최저임금위 제도적 한계 확인...합리적 제도개선 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/123/0002386681"
+      "title": "노동부, 최저임금 제도 개선 착수…플랫폼 ‘최저보수제’ 도입 방안도 연구",
+      "url": "https://n.news.naver.com/mnews/article/028/0002814561"
     },
     {
-      "title": "한은 “올해 성장률, 2.6%를 큰 폭으로 상회할 것”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001179621"
+      "title": "박민준 뤼튼AX 대표 “AI가 컴퓨터 직접 쓰는 시대 내년에 온다”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003448659"
     },
     {
-      "title": "현대차그룹, 보스턴다이내믹스 지분 100% 확보",
-      "url": "https://n.news.naver.com/mnews/article/015/0005310859"
+      "title": "美 대표 한국 ETF에 사상 최대 자금 유입…SK하이닉스 효과",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087746"
     },
     {
-      "title": "삼성, '사회 기여 확대' 약속 지킨다…포용금융에 2000억 출연",
-      "url": "https://n.news.naver.com/mnews/article/629/0000516860"
+      "title": "\"삼성 추가 투자 원해\"...세종시, '러브콜'",
+      "url": "https://n.news.naver.com/mnews/article/050/0000108666"
     },
     {
-      "title": "상반기 ‘K과일’ 수출 20% 증가…딸기 역대 최대, 참외도 4.1% 늘어",
-      "url": "https://n.news.naver.com/mnews/article/028/0002814345"
+      "title": "바다에 해상풍력 세웠더니 육지가 '들썩'…섬마을에 무슨 일이[르포]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387453"
     },
     {
-      "title": "다시 울린 버핏의 경고…\"금융시장 도박판에 가까워져\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521993"
+      "title": "배달의민족 母회사 우버가 인수한다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988075"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6820.6,
+      "change": -463.81,
+      "change_pct": -6.37
     },
     "kosdaq": {
-      "value": 829.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 791.84,
+      "change": -37.59,
+      "change_pct": -4.53
     },
     "nasdaq": {
-      "value": 25881.95,
-      "change": -387.28,
-      "change_pct": -1.47
+      "value": 25520.24,
+      "change": -361.71,
+      "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1480.44,
-      "change": -5.76,
-      "change_pct": -0.39
+      "value": 1487.46,
+      "change": 1.26,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3987.4,
-    "price_krw": 5903106,
-    "change": -56.6,
-    "change_pct": -1.4
+    "price_usd": 4023.0,
+    "price_krw": 5984051,
+    "change": 37.4,
+    "change_pct": 0.94
   },
-  "updated": "2026-07-17 09:16",
+  "updated": "2026-07-18 08:38",
   "error": null
 }
