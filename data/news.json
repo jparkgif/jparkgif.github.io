@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"다음달 대출이자 벌써 겁난다\"...年주담대 이자만 1조 8천억원↑",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259031"
+      "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000516957"
     },
     {
-      "title": "최태원 \"한국 AI, 미중 사이에서 틈새시장 만들어 지능 수출해야\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001512286"
+      "title": "4조 ‘잭팟’ 터진 삼성전자, 온누리상품권 8000억원 푼다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708925"
     },
     {
-      "title": "‘7조’ 빨아들인 삼전닉스 레버리지…보완책에 “증시 더 폭락” 왜",
-      "url": "https://n.news.naver.com/mnews/article/025/0003538310"
+      "title": "\"약국의 재발견\"…'외국인 관광객 수혜' 화장품주 주목",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201493"
     },
     {
-      "title": "얼굴 결제, 누가 왕이 될 상인가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311123"
+      "title": "IPO 거품이었나...‘공모가 아래’ 스페이스X 시총 1500조원 증발",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642618"
     },
     {
-      "title": "노동부, 최저임금 제도 개선 착수…플랫폼 ‘최저보수제’ 도입 방안도 연구",
-      "url": "https://n.news.naver.com/mnews/article/028/0002814561"
+      "title": "주유소 기름값 9주째 하락…전국 휘발윳값 1877.5원",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311194"
     },
     {
-      "title": "박민준 뤼튼AX 대표 “AI가 컴퓨터 직접 쓰는 시대 내년에 온다”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003448659"
+      "title": "현대차 노조 지난주 최대 26시간만 근무…9년 만에 최대 생산차질 전망",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671788"
     },
     {
-      "title": "美 대표 한국 ETF에 사상 최대 자금 유입…SK하이닉스 효과",
-      "url": "https://n.news.naver.com/mnews/article/293/0000087746"
+      "title": "美 뉴욕증시 3대 지수 하락 마감… 반도체주 매도세 지속",
+      "url": "https://n.news.naver.com/mnews/article/366/0001180031"
     },
     {
-      "title": "\"삼성 추가 투자 원해\"...세종시, '러브콜'",
-      "url": "https://n.news.naver.com/mnews/article/050/0000108666"
+      "title": "올해 1인당 GDP 3만9000달러 추산…'4만달러' 돌파 기대감도",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259134"
     },
     {
-      "title": "바다에 해상풍력 세웠더니 육지가 '들썩'…섬마을에 무슨 일이[르포]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387453"
+      "title": "“돈복사 해보려다 계좌 다 녹았어요”…뒤늦게 레버리지 손질 나선 금융당국",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708977"
     },
     {
-      "title": "배달의민족 母회사 우버가 인수한다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988075"
+      "title": "한화 필리조선소, 미국 미사일시험 계측선 건조 따냈다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259110"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4023.0,
-    "price_krw": 5984051,
-    "change": 37.4,
-    "change_pct": 0.94
+    "price_usd": 4012.7,
+    "price_krw": 5968730,
+    "change": 27.1,
+    "change_pct": 0.68
   },
-  "updated": "2026-07-18 08:38",
+  "updated": "2026-07-19 08:38",
   "error": null
 }
