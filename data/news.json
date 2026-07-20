@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회생 '불씨'[주간사모펀드]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000516957"
+      "title": "홈플러스, 법원에 즉시항고장 제출…회생절차 폐지 취소 요구",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311685"
     },
     {
-      "title": "4조 ‘잭팟’ 터진 삼성전자, 온누리상품권 8000억원 푼다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708925"
+      "title": "K푸드 열풍 증류주로 잇다…CJ제일제당 ‘jari’ 2종 첫선",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642831"
     },
     {
-      "title": "\"약국의 재발견\"…'외국인 관광객 수혜' 화장품주 주목",
-      "url": "https://n.news.naver.com/mnews/article/001/0016201493"
+      "title": "서울 상위 1% 아파트 평균 63억…지방은 6억~22억",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549983"
     },
     {
-      "title": "IPO 거품이었나...‘공모가 아래’ 스페이스X 시총 1500조원 증발",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642618"
+      "title": "비아파트 공급 속도낸다···국토부, 오늘부터 신축매입임대 자금지원 확 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459105"
     },
     {
-      "title": "주유소 기름값 9주째 하락…전국 휘발윳값 1877.5원",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311194"
+      "title": "삼성바이오, 역대 최대 2.7조 인수…비만약 CDMO 승부수(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016202587"
     },
     {
-      "title": "현대차 노조 지난주 최대 26시간만 근무…9년 만에 최대 생산차질 전망",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671788"
+      "title": "코스피·코스닥 장중 5% 급락...나란히 매도 사이드카",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988519"
     },
     {
-      "title": "美 뉴욕증시 3대 지수 하락 마감… 반도체주 매도세 지속",
-      "url": "https://n.news.naver.com/mnews/article/366/0001180031"
+      "title": "인천공항 복귀 100일 맞은 롯데免… “차별화 상품 늘린다”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001180114"
     },
     {
-      "title": "올해 1인당 GDP 3만9000달러 추산…'4만달러' 돌파 기대감도",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259134"
+      "title": "가온전선, 상반기 영업익 42% 증가…美 전력 인프라 수요 효과",
+      "url": "https://n.news.naver.com/mnews/article/011/0004643103"
     },
     {
-      "title": "“돈복사 해보려다 계좌 다 녹았어요”…뒤늦게 레버리지 손질 나선 금융당국",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708977"
+      "title": "오세훈 “재개발·재건축이 공급 마스터키…정부가 최대 리스크”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735046"
     },
     {
-      "title": "한화 필리조선소, 미국 미사일시험 계측선 건조 따냈다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259110"
+      "title": "국내 주요 시중은행, 올해 가계 대출한도 사실상 소진",
+      "url": "https://n.news.naver.com/mnews/article/660/0000113414"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.6,
-      "change": -463.81,
-      "change_pct": -6.37
+      "value": 6516.27,
+      "change": -304.33,
+      "change_pct": -4.46
     },
     "kosdaq": {
-      "value": 791.84,
-      "change": -37.59,
-      "change_pct": -4.53
+      "value": 749.64,
+      "change": -42.2,
+      "change_pct": -5.33
     },
     "nasdaq": {
       "value": 25520.24,
@@ -58,17 +58,17 @@
       "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1487.46,
-      "change": 1.26,
-      "change_pct": 0.08
+      "value": 1481.48,
+      "change": 2.63,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 4012.7,
-    "price_krw": 5968730,
-    "change": 27.1,
-    "change_pct": 0.68
+    "price_usd": 4025.0,
+    "price_krw": 5962957,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-19 08:38",
+  "updated": "2026-07-20 17:21",
   "error": null
 }
