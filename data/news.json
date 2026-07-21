@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스, 법원에 즉시항고장 제출…회생절차 폐지 취소 요구",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311685"
+      "title": "\"이 돈 없으면 꿈도 못 꾼다\"…서울 '상위 1%' 아파트는 얼마?",
+      "url": "https://n.news.naver.com/mnews/article/031/0001043334"
     },
     {
-      "title": "K푸드 열풍 증류주로 잇다…CJ제일제당 ‘jari’ 2종 첫선",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642831"
+      "title": "\"대출도 고소득·고신용자만\"...'대출절벽' 내몰리는 흙수저",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387777"
     },
     {
-      "title": "서울 상위 1% 아파트 평균 63억…지방은 6억~22억",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549983"
+      "title": "요가·필라테스 표준약관...휴폐업 2주 전 고지 명시",
+      "url": "https://n.news.naver.com/mnews/article/052/0002381824"
     },
     {
-      "title": "비아파트 공급 속도낸다···국토부, 오늘부터 신축매입임대 자금지원 확 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459105"
+      "title": "'황금알' 비만약 품은 삼성바이오 … 생산능력·기술·시장 동시확보",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709743"
     },
     {
-      "title": "삼성바이오, 역대 최대 2.7조 인수…비만약 CDMO 승부수(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016202587"
+      "title": "임병택 시장 “AI 전환으로 제조 경쟁력 높인다”…반월·시화산단 AX 혁신 본격화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792163"
     },
     {
-      "title": "코스피·코스닥 장중 5% 급락...나란히 매도 사이드카",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988519"
+      "title": "\"이자 1%인데 3000만원 묶으라고?\"... 개미만 옥죄는 레버리지 대책",
+      "url": "https://n.news.naver.com/mnews/article/469/0000943068"
     },
     {
-      "title": "인천공항 복귀 100일 맞은 롯데免… “차별화 상품 늘린다”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001180114"
+      "title": "코오롱티슈진 \"골관절염 치료제, 미국 임상 통계적 유의성 미충족\"",
+      "url": "https://n.news.naver.com/mnews/article/417/0001152240"
     },
     {
-      "title": "가온전선, 상반기 영업익 42% 증가…美 전력 인프라 수요 효과",
-      "url": "https://n.news.naver.com/mnews/article/011/0004643103"
+      "title": "현대차 노조, 올해 네번째 부분파업…22일까지 4시간 파업",
+      "url": "https://n.news.naver.com/mnews/article/003/0014075594"
     },
     {
-      "title": "오세훈 “재개발·재건축이 공급 마스터키…정부가 최대 리스크”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003735046"
+      "title": "15년간 핵심기술 키운다…8800억 초장기투자펀드 출범",
+      "url": "https://n.news.naver.com/mnews/article/018/0006333208"
     },
     {
-      "title": "국내 주요 시중은행, 올해 가계 대출한도 사실상 소진",
-      "url": "https://n.news.naver.com/mnews/article/660/0000113414"
+      "title": "단일종목 레버리지에 외신도 “한국 증시, 카지노 됐다”",
+      "url": "https://n.news.naver.com/mnews/article/422/0000886920"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6516.27,
-      "change": -304.33,
-      "change_pct": -4.46
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 749.64,
-      "change": -42.2,
-      "change_pct": -5.33
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25520.24,
-      "change": -361.71,
-      "change_pct": -1.4
+      "value": 25508.07,
+      "change": -12.17,
+      "change_pct": -0.05
     },
     "usdkrw": {
-      "value": 1481.48,
-      "change": 2.63,
-      "change_pct": 0.18
+      "value": 1476.98,
+      "change": -10.41,
+      "change_pct": -0.7
     }
   },
   "gold": {
-    "price_usd": 4025.0,
-    "price_krw": 5962957,
+    "price_usd": 4012.4,
+    "price_krw": 5926234,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-20 17:21",
+  "updated": "2026-07-21 09:15",
   "error": null
 }
