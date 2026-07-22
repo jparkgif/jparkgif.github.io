@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"이 돈 없으면 꿈도 못 꾼다\"…서울 '상위 1%' 아파트는 얼마?",
-      "url": "https://n.news.naver.com/mnews/article/031/0001043334"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000887436"
     },
     {
-      "title": "\"대출도 고소득·고신용자만\"...'대출절벽' 내몰리는 흙수저",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387777"
+      "title": "[속보] 홈플러스 재기하나…서울회생법원, 회생절차 연장",
+      "url": "https://n.news.naver.com/mnews/article/029/0003037975"
     },
     {
-      "title": "요가·필라테스 표준약관...휴폐업 2주 전 고지 명시",
-      "url": "https://n.news.naver.com/mnews/article/052/0002381824"
+      "title": "카뱅 노조, 이달 31일 전면 파업…\"임금교섭 결렬\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792491"
     },
     {
-      "title": "'황금알' 비만약 품은 삼성바이오 … 생산능력·기술·시장 동시확보",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709743"
+      "title": "코오롱티슈진 “TG-C 美 임상 유효성 입증 불발”...상업화 지연될 듯",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988746"
     },
     {
-      "title": "임병택 시장 “AI 전환으로 제조 경쟁력 높인다”…반월·시화산단 AX 혁신 본격화",
-      "url": "https://n.news.naver.com/mnews/article/277/0005792163"
+      "title": "\"고맙다 반도체\"…7월 중순 수출액 549억달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/057/0001959539"
     },
     {
-      "title": "\"이자 1%인데 3000만원 묶으라고?\"... 개미만 옥죄는 레버리지 대책",
-      "url": "https://n.news.naver.com/mnews/article/469/0000943068"
+      "title": "'키미 K3 돌풍' 문샷AI, IPO전 기업가치 74조원으로 뛰나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006334313"
     },
     {
-      "title": "코오롱티슈진 \"골관절염 치료제, 미국 임상 통계적 유의성 미충족\"",
-      "url": "https://n.news.naver.com/mnews/article/417/0001152240"
+      "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
+      "url": "https://n.news.naver.com/mnews/article/003/0014079821"
     },
     {
-      "title": "현대차 노조, 올해 네번째 부분파업…22일까지 4시간 파업",
-      "url": "https://n.news.naver.com/mnews/article/003/0014075594"
+      "title": "현대차그룹, FIFA와 ‘31년 동행’…2030년까지 후원 이어간다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735420"
     },
     {
-      "title": "15년간 핵심기술 키운다…8800억 초장기투자펀드 출범",
-      "url": "https://n.news.naver.com/mnews/article/018/0006333208"
+      "title": "요동치는 중동 정세에 국제유가 다시 90달러대…정부, 석유최고가격 '고심'",
+      "url": "https://n.news.naver.com/mnews/article/119/0003113260"
     },
     {
-      "title": "단일종목 레버리지에 외신도 “한국 증시, 카지노 됐다”",
-      "url": "https://n.news.naver.com/mnews/article/422/0000886920"
+      "title": "노태문 57억원·전영현 26억원…삼성전자 자사주 상여금 지급",
+      "url": "https://n.news.naver.com/mnews/article/015/0005312269"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6516.27,
+      "value": 6747.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 749.64,
+      "value": 753.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25508.07,
-      "change": -12.17,
-      "change_pct": -0.05
+      "value": 25837.21,
+      "change": 329.14,
+      "change_pct": 1.29
     },
     "usdkrw": {
-      "value": 1476.98,
-      "change": -10.41,
-      "change_pct": -0.7
+      "value": 1480.28,
+      "change": 5.27,
+      "change_pct": 0.36
     }
   },
   "gold": {
-    "price_usd": 4012.4,
-    "price_krw": 5926234,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4083.9,
+    "price_krw": 6045315,
+    "change": 73.6,
+    "change_pct": 1.84
   },
-  "updated": "2026-07-21 09:15",
+  "updated": "2026-07-22 09:09",
   "error": null
 }
