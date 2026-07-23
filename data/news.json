@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000887436"
+      "title": "\"하반기 마이너스 성장해도 연간 3% 찍는다\"…2분기 GDP 성장세 '강화'(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005793620"
     },
     {
-      "title": "[속보] 홈플러스 재기하나…서울회생법원, 회생절차 연장",
-      "url": "https://n.news.naver.com/mnews/article/029/0003037975"
+      "title": "지주회사 CVC, 총수 편법 투자 원천 차단",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038501"
     },
     {
-      "title": "카뱅 노조, 이달 31일 전면 파업…\"임금교섭 결렬\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005792491"
+      "title": "삼성바이오, 2Q 매출 1.3조·영업익 5864억원…풀가동·환율 효과",
+      "url": "https://n.news.naver.com/mnews/article/030/0003450085"
     },
     {
-      "title": "코오롱티슈진 “TG-C 美 임상 유효성 입증 불발”...상업화 지연될 듯",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988746"
+      "title": "정의선 회장, 룰라 대통령과의 약속 지킨다…현대차그룹 \"사회공헌 지속 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014082728"
     },
     {
-      "title": "\"고맙다 반도체\"…7월 중순 수출액 549억달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/057/0001959539"
+      "title": "한은, 30조 금융중개지원대출 전면 개편…무역·신성장 지원 ‘퇴장’",
+      "url": "https://n.news.naver.com/mnews/article/123/0002387070"
     },
     {
-      "title": "'키미 K3 돌풍' 문샷AI, IPO전 기업가치 74조원으로 뛰나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006334313"
+      "title": "수차례 실패 끝 찾은 '4나노'…삼성전자 HBM4 경쟁력 높였다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009074276"
     },
     {
-      "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
-      "url": "https://n.news.naver.com/mnews/article/003/0014079821"
+      "title": "‘64억 체납자’ 여행 가방 10억 정체는?…결국 덜미",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038544"
     },
     {
-      "title": "현대차그룹, FIFA와 ‘31년 동행’…2030년까지 후원 이어간다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003735420"
+      "title": "LS일렉트릭, 2분기 영업익 1785억…사상 최대 분기 실적",
+      "url": "https://n.news.naver.com/mnews/article/008/0005389807"
     },
     {
-      "title": "요동치는 중동 정세에 국제유가 다시 90달러대…정부, 석유최고가격 '고심'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003113260"
+      "title": "李대통령, 美서 AI 비전 알린다…이재용·최태원·젠슨황 총출동",
+      "url": "https://n.news.naver.com/mnews/article/018/0006334866"
     },
     {
-      "title": "노태문 57억원·전영현 26억원…삼성전자 자사주 상여금 지급",
-      "url": "https://n.news.naver.com/mnews/article/015/0005312269"
+      "title": "전국 지가 상반기 1.22% 상승…서울 2.32%로 '1위'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006335539"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6747.95,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 7069.99,
+      "change": 272.29,
+      "change_pct": 4.01
     },
     "kosdaq": {
-      "value": 753.34,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 788.99,
+      "change": 37.9,
+      "change_pct": 5.05
     },
     "nasdaq": {
-      "value": 25837.21,
-      "change": 329.14,
-      "change_pct": 1.29
+      "value": 25690.9,
+      "change": -146.31,
+      "change_pct": -0.57
     },
     "usdkrw": {
-      "value": 1480.28,
-      "change": 5.27,
-      "change_pct": 0.36
+      "value": 1467.88,
+      "change": -11.84,
+      "change_pct": -0.8
     }
   },
   "gold": {
-    "price_usd": 4083.9,
-    "price_krw": 6045315,
-    "change": 73.6,
-    "change_pct": 1.84
+    "price_usd": 4125.6,
+    "price_krw": 6055885,
+    "change": -21.3,
+    "change_pct": -0.51
   },
-  "updated": "2026-07-22 09:09",
+  "updated": "2026-07-23 15:37",
   "error": null
 }
