@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"하반기 마이너스 성장해도 연간 3% 찍는다\"…2분기 GDP 성장세 '강화'(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005793620"
+      "title": "현대차, 2분기 '역대 최대' 매출에도 영업이익 20.8% 감소(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016210998"
     },
     {
-      "title": "지주회사 CVC, 총수 편법 투자 원천 차단",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038501"
+      "title": "우리銀, 네이버페이에 퇴직연금 상담 창구 마련",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552179"
     },
     {
-      "title": "삼성바이오, 2Q 매출 1.3조·영업익 5864억원…풀가동·환율 효과",
-      "url": "https://n.news.naver.com/mnews/article/030/0003450085"
+      "title": "삼성전기, 글로벌 기업에 3000억 원 규모 AI 서버용 MLCC 공급한다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000943958"
     },
     {
-      "title": "정의선 회장, 룰라 대통령과의 약속 지킨다…현대차그룹 \"사회공헌 지속 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014082728"
+      "title": "이 대통령 “초고가·투기용에 보유세 차등”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003460100"
     },
     {
-      "title": "한은, 30조 금융중개지원대출 전면 개편…무역·신성장 지원 ‘퇴장’",
-      "url": "https://n.news.naver.com/mnews/article/123/0002387070"
+      "title": "\"잔금대출 살펴보자\" \"헬기 타겠다\"…이대통령, 193분 부동산 대토론회",
+      "url": "https://n.news.naver.com/mnews/article/053/0000060165"
     },
     {
-      "title": "수차례 실패 끝 찾은 '4나노'…삼성전자 HBM4 경쟁력 높였다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009074276"
+      "title": "‘삼전닉스’ 단일종목 레버리지 예탁금, 이달 31일부터 ‘현금 3000만원’ 강화",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989391"
     },
     {
-      "title": "‘64억 체납자’ 여행 가방 10억 정체는?…결국 덜미",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038544"
+      "title": "산업장관 \"韓, 1500억달러 마스가 이행 준비…美는 규제 제거해야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009076235"
     },
     {
-      "title": "LS일렉트릭, 2분기 영업익 1785억…사상 최대 분기 실적",
-      "url": "https://n.news.naver.com/mnews/article/008/0005389807"
+      "title": "박현주의 가상자산 승부수…\"코빗→디지털X로 사명 변경\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313192"
     },
     {
-      "title": "李대통령, 美서 AI 비전 알린다…이재용·최태원·젠슨황 총출동",
-      "url": "https://n.news.naver.com/mnews/article/018/0006334866"
+      "title": "알파벳, 올해 AI투자 303조원으로 ↑…\"내년에도 자본지출 확대\"(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016209741"
     },
     {
-      "title": "전국 지가 상반기 1.22% 상승…서울 2.32%로 '1위'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006335539"
+      "title": "홈플러스, 내달 1일 67개점 재개 목표…매장 1000평으로 줄인다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644213"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7069.99,
-      "change": 272.29,
-      "change_pct": 4.01
+      "value": 7096.89,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 788.99,
-      "change": 37.9,
-      "change_pct": 5.05
+      "value": 790.28,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25690.9,
-      "change": -146.31,
-      "change_pct": -0.57
+      "value": 25137.69,
+      "change": -553.21,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1467.88,
-      "change": -11.84,
-      "change_pct": -0.8
+      "value": 1471.68,
+      "change": -3.95,
+      "change_pct": -0.27
     }
   },
   "gold": {
-    "price_usd": 4125.6,
-    "price_krw": 6055885,
-    "change": -21.3,
-    "change_pct": -0.51
+    "price_usd": 4049.4,
+    "price_krw": 5959420,
+    "change": -97.5,
+    "change_pct": -2.35
   },
-  "updated": "2026-07-23 15:37",
+  "updated": "2026-07-24 09:15",
   "error": null
 }
