@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "'돈 쓴 만큼 벌었나' 투심 여전히 냉랭…빅테크 실적·금리에 쏠린 월가",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259921"
+      "title": "2032년부터 건축사 자격시험 바뀐다…필기 도입·실기 비중 축소",
+      "url": "https://n.news.naver.com/mnews/article/421/0009079158"
     },
     {
-      "title": "이재용 회장 \"AI 시대, 한미 강점 결합하면 더 빠르게 혁신하고 성장\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794479"
+      "title": "집값 뛰고 대출 막힌 2030세대 내 집 마련 '역대 최저'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004172042"
     },
     {
-      "title": "정부, 쿠팡 논란 진화 나서…미 정·재계 설득전",
-      "url": "https://n.news.naver.com/mnews/article/057/0001960324"
+      "title": "현정은 현대그룹 회장 \"배움의 본질, 기술보다 사람에서 시작\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944402"
     },
     {
-      "title": "하나금융, 2분기 순이익 1조 2061억원…증권 실적 ‘껑충’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003664444"
+      "title": "‘똘똘 1채’ 종합부동산세 강화 무게",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038892"
     },
     {
-      "title": "판매·매출 ‘두 토끼’ 잡은 기아, 수익성은 뒷걸음",
-      "url": "https://n.news.naver.com/mnews/article/243/0000100836"
+      "title": "물류비 급등에도 수출기업 3곳 중 1곳 가격 전가 '0%'…\"비용 흡수로 수익성 악화\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014088349"
     },
     {
-      "title": "국내증시 출렁에 국장 이탈?…서학개미 이달 순매수 4배 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375289"
+      "title": "정의선 \"국내 피지컬AI 오픈 생태계 구축‥글로벌 최고 인재 양성\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001513861"
     },
     {
-      "title": "이재용·정의선·이해진, 엔비디아 본사 방문…젠슨 황 CEO 면담",
-      "url": "https://n.news.naver.com/mnews/article/660/0000113827"
+      "title": "HD현대, '마스가 프로젝트' 담금질…HMM 美 항만크레인 공급계약",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944417"
     },
     {
-      "title": "잔금대출 막힌 입주자 호소에…'가계대출 총량규제'서 제외 검토",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313552"
+      "title": "박홍근 \"교육교부금 20.79% 연동구조 허물겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313866"
     },
     {
-      "title": "“도박꾼 된 韓 투자자들, 카지노 밖으로 쫓아내기 쉽지 않을 것”…외신 분석 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004644695"
+      "title": "‘큰 손’ 국민연금 리밸런싱 재개에도…연기금, 이달 순매수",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182000"
     },
     {
-      "title": "서울 폐교 부지에 북한 배경 학생 대안학교 들어선다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552439"
+      "title": "강남 주택 장특공제로 200억 넘게 공제받아?…국세청장 “역진성 끝판왕”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005712205"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4067.6,
-    "price_krw": 5947238,
-    "change": 21.0,
-    "change_pct": 0.52
+    "price_usd": 4070.8,
+    "price_krw": 5951916,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-25 15:06",
+  "updated": "2026-07-26 16:14",
   "error": null
 }
