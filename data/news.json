@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "2032년부터 건축사 자격시험 바뀐다…필기 도입·실기 비중 축소",
-      "url": "https://n.news.naver.com/mnews/article/421/0009079158"
+      "title": "코스피, CXMT발 외인 매도 폭탄에도 1% 반등…6750선 회복",
+      "url": "https://n.news.naver.com/mnews/article/003/0014090922"
     },
     {
-      "title": "집값 뛰고 대출 막힌 2030세대 내 집 마련 '역대 최저'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004172042"
+      "title": "관세청, 올 상반기  792건·7.2조 규모 '불법 외환거래' 적발",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391418"
     },
     {
-      "title": "현정은 현대그룹 회장 \"배움의 본질, 기술보다 사람에서 시작\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944402"
+      "title": "삼성카드 2분기 순이익 1542억원…작년 동기比 2.0%↑",
+      "url": "https://n.news.naver.com/mnews/article/016/0002675671"
     },
     {
-      "title": "‘똘똘 1채’ 종합부동산세 강화 무게",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038892"
+      "title": "젠슨 황이 인정한 LG 냉각기술…AI 데이터센터 공급망 뚫었다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049237"
     },
     {
-      "title": "물류비 급등에도 수출기업 3곳 중 1곳 가격 전가 '0%'…\"비용 흡수로 수익성 악화\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014088349"
+      "title": "코오롱티슈진, TG-C 임상 실패 사과 \"외부기관 통해 2차 임상 독립 분석\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005553243"
     },
     {
-      "title": "정의선 \"국내 피지컬AI 오픈 생태계 구축‥글로벌 최고 인재 양성\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001513861"
+      "title": "\"상가·사무실 공실, 청년주택으로\"…국토장관 \"'김윤덕표 공급' 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337745"
     },
     {
-      "title": "HD현대, '마스가 프로젝트' 담금질…HMM 美 항만크레인 공급계약",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944417"
+      "title": "안철수 \"부동산 정책, '닥치고 대출'…李대통령도 17.7억 근저당\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337397"
     },
     {
-      "title": "박홍근 \"교육교부금 20.79% 연동구조 허물겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313866"
+      "title": "하나증권, 푸투증권과 외국인통합계좌 거래 개시…글로벌 공략 본격화",
+      "url": "https://n.news.naver.com/mnews/article/215/0001260065"
     },
     {
-      "title": "‘큰 손’ 국민연금 리밸런싱 재개에도…연기금, 이달 순매수",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182000"
+      "title": "美 샌프란 이어 시칠리아로…이재용·최태원, 비공개 ‘구글 캠프’ 출격 유력",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645735"
     },
     {
-      "title": "강남 주택 장특공제로 200억 넘게 공제받아?…국세청장 “역진성 끝판왕”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005712205"
+      "title": "2038년 천연가스 수요 4100만t…연평균 0.94%↓",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645646"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6755.75,
+      "change": 65.13,
+      "change_pct": 0.97
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 764.86,
+      "change": 16.64,
+      "change_pct": 2.22
     },
     "nasdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 24975.82,
+      "change": -161.87,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1462.1,
-      "change": -11.94,
-      "change_pct": -0.81
+      "value": 1468.7,
+      "change": -5.34,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 4070.8,
-    "price_krw": 5951916,
+    "price_usd": 4101.5,
+    "price_krw": 6023873,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-26 16:14",
+  "updated": "2026-07-27 19:51",
   "error": null
 }
