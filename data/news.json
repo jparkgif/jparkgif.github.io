@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코스피, CXMT발 외인 매도 폭탄에도 1% 반등…6750선 회복",
-      "url": "https://n.news.naver.com/mnews/article/003/0014090922"
+      "title": "LG전자 데이터센터 액체냉각 솔루션, 국내 첫 엔비디아 품질 인증 획득",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182096"
     },
     {
-      "title": "관세청, 올 상반기  792건·7.2조 규모 '불법 외환거래' 적발",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391418"
+      "title": "레버리지 ETF 보완책 앞두고 거래대금 10조 하회",
+      "url": "https://n.news.naver.com/mnews/article/052/0002385238"
     },
     {
-      "title": "삼성카드 2분기 순이익 1542억원…작년 동기比 2.0%↑",
-      "url": "https://n.news.naver.com/mnews/article/016/0002675671"
+      "title": "김윤덕 장관 \"사전청약 약속 지킨다…민간 공급 소극적 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009081741"
     },
     {
-      "title": "젠슨 황이 인정한 LG 냉각기술…AI 데이터센터 공급망 뚫었다",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049237"
+      "title": "AI 인프라 공급자로 나선 네이버…생활형 서비스 집중하는 카카오",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337780"
     },
     {
-      "title": "코오롱티슈진, TG-C 임상 실패 사과 \"외부기관 통해 2차 임상 독립 분석\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553243"
+      "title": "이재용·최태원, 샌프란 이어 시칠리아행...구글캠프 참석",
+      "url": "https://n.news.naver.com/mnews/article/052/0002385246"
     },
     {
-      "title": "\"상가·사무실 공실, 청년주택으로\"…국토장관 \"'김윤덕표 공급' 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337745"
+      "title": "삼성카드, 상반기 당기순익 3105억… 전년 대비 7.5% 줄어",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391510"
     },
     {
-      "title": "안철수 \"부동산 정책, '닥치고 대출'…李대통령도 17.7억 근저당\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337397"
+      "title": "셀트리온, 고마진 바이오시밀러 신제품으로 수익성 레벨업-신한",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337917"
     },
     {
-      "title": "하나증권, 푸투증권과 외국인통합계좌 거래 개시…글로벌 공략 본격화",
-      "url": "https://n.news.naver.com/mnews/article/215/0001260065"
+      "title": "AI가 바꾼 반도체 공급망…대만 수출 급증·중국 비중 감소",
+      "url": "https://n.news.naver.com/mnews/article/417/0001153184"
     },
     {
-      "title": "美 샌프란 이어 시칠리아로…이재용·최태원, 비공개 ‘구글 캠프’ 출격 유력",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645735"
+      "title": "소상공인聯, 최저임금 1만700원안에 재심의 촉구… 민노총도",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989906"
     },
     {
-      "title": "2038년 천연가스 수요 4100만t…연평균 0.94%↓",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645646"
+      "title": "보유세 강화 신호탄…'똘똘한 한 채' 정조준",
+      "url": "https://n.news.naver.com/mnews/article/003/0014091621"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6755.75,
-      "change": 65.13,
-      "change_pct": 0.97
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 764.86,
-      "change": 16.64,
-      "change_pct": 2.22
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24975.82,
-      "change": -161.87,
-      "change_pct": -0.64
+      "value": 24932.08,
+      "change": -43.74,
+      "change_pct": -0.18
     },
     "usdkrw": {
-      "value": 1468.7,
-      "change": -5.34,
-      "change_pct": -0.36
+      "value": 1469.81,
+      "change": 11.8,
+      "change_pct": 0.81
     }
   },
   "gold": {
-    "price_usd": 4101.5,
-    "price_krw": 6023873,
+    "price_usd": 4070.9,
+    "price_krw": 5983449,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 19:51",
+  "updated": "2026-07-28 09:13",
   "error": null
 }
