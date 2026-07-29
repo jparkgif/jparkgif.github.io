@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG전자 데이터센터 액체냉각 솔루션, 국내 첫 엔비디아 품질 인증 획득",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182096"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000629763"
     },
     {
-      "title": "레버리지 ETF 보완책 앞두고 거래대금 10조 하회",
-      "url": "https://n.news.naver.com/mnews/article/052/0002385238"
+      "title": "“中, DUV 노광장비 자체 생산 시작”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002676132"
     },
     {
-      "title": "김윤덕 장관 \"사전청약 약속 지킨다…민간 공급 소극적 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009081741"
+      "title": "고령인구, 유소년 2배… 생산인구 70% 붕괴 속 오산·과천·시흥도 ‘역전’",
+      "url": "https://n.news.naver.com/mnews/article/666/0000116949"
     },
     {
-      "title": "AI 인프라 공급자로 나선 네이버…생활형 서비스 집중하는 카카오",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337780"
+      "title": "GS25, 축산가공 매출 90%↑…\"소용량 양념육 통했다\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009084676"
     },
     {
-      "title": "이재용·최태원, 샌프란 이어 시칠리아행...구글캠프 참석",
-      "url": "https://n.news.naver.com/mnews/article/052/0002385246"
+      "title": "\"주가 빠졌지만 임금 오를 것\" 7월 소비심리, 개선세 이어갔다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795296"
     },
     {
-      "title": "삼성카드, 상반기 당기순익 3105억… 전년 대비 7.5% 줄어",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391510"
+      "title": "“‘물타기’만 다섯 번 했는데 반토막”…레버리지 늪에서 개미들 ‘곡소리’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182503"
     },
     {
-      "title": "셀트리온, 고마진 바이오시밀러 신제품으로 수익성 레벨업-신한",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337917"
+      "title": "SK하이닉스 2분기 영업익 60.5조…예상치 밑돌아",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944993"
     },
     {
-      "title": "AI가 바꾼 반도체 공급망…대만 수출 급증·중국 비중 감소",
-      "url": "https://n.news.naver.com/mnews/article/417/0001153184"
+      "title": "BNK금융지주, 2분기 실적 아쉬우나 주주환원 기대 유효-메리츠",
+      "url": "https://n.news.naver.com/mnews/article/018/0006338698"
     },
     {
-      "title": "소상공인聯, 최저임금 1만700원안에 재심의 촉구… 민노총도",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989906"
+      "title": "정부, 대미 투자 1호로 가스복합화력발전소 건설 사업 낙점",
+      "url": "https://n.news.naver.com/mnews/article/055/0001376105"
     },
     {
-      "title": "보유세 강화 신호탄…'똘똘한 한 채' 정조준",
-      "url": "https://n.news.naver.com/mnews/article/003/0014091621"
+      "title": "HD현대일렉트릭, 2분기 영업익 2870억원…전년比 37.3% 증가",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795672"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6755.75,
+      "value": 6023.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.86,
+      "value": 705.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24932.08,
-      "change": -43.74,
-      "change_pct": -0.18
+      "value": 24876.91,
+      "change": -55.17,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1469.81,
-      "change": 11.8,
-      "change_pct": 0.81
+      "value": 1456.63,
+      "change": -7.81,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4070.9,
-    "price_krw": 5983449,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4019.9,
+    "price_krw": 5855506,
+    "change": -54.6,
+    "change_pct": -1.34
   },
-  "updated": "2026-07-28 09:13",
+  "updated": "2026-07-29 09:12",
   "error": null
 }
