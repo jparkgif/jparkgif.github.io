@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "증시 출렁…정부, 13일만에 단일종목 레버리지 추가 조치안 발표",
-      "url": "https://n.news.naver.com/mnews/article/092/0002432422"
+      "title": "금융위 \"단일 레버리지 추가 조치, 최대한 조기 시행\"",
+      "url": "https://n.news.naver.com/mnews/article/057/0001961237"
     },
     {
-      "title": "SK하이닉스, 2Q 영업이익 60.5조·매출 79.3조 '사상 최대'(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009084653"
+      "title": "‘내 주식 오늘은?’…美, 기준금리 ‘매파적 동결’…‘인상’ 의견 3명",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807902"
     },
     {
-      "title": "\"삼전 주가 떨어졌네\" 호실적에도...삼성물산 목표주가 하향[클릭 e종목]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005796524"
+      "title": "삼성SDI, 2분기 영업익 2038억 ‘어닝 서프라이즈’…7분기 만에 흑자",
+      "url": "https://n.news.naver.com/mnews/article/016/0002677445"
     },
     {
-      "title": "올해 처음 0.8명대로 떨어진 합계출산율…출생아는 23개월 연속↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005392656"
+      "title": "최태원 회장, SK하이닉스 주식 48억어치 매수",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666343"
     },
     {
-      "title": "[단독] 종부세 기본공제 1주택 12억→14억 상향...공정시장가액비율도 올린다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003541040"
+      "title": "DL이앤씨, 2분기 영업이익 26% 늘어, 자사주도 연말까지 555억원 매입한다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001183237"
     },
     {
-      "title": "MS·메타, 예상 넘는 매출에도…AI투자 수익화 성과에 희비 갈려",
-      "url": "https://n.news.naver.com/mnews/article/421/0009087069"
+      "title": "\"시중銀 대출 축소에 자금조달 더 어려워\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005714658"
     },
     {
-      "title": "농식품부, '계란값 담합' 산란계협회 설립 허가 취소",
-      "url": "https://n.news.naver.com/mnews/article/031/0001045762"
+      "title": "정의선, 브라질 공장 방문…\"더 큰 도약 위해 전사 차원 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005393158"
     },
     {
-      "title": "당국 \"레버리지 후폭풍 예상 못했다\"…보완은 이틀 뒤에나",
-      "url": "https://n.news.naver.com/mnews/article/119/0003116237"
+      "title": "MS 클라우드 사업 초강세… 메타, AI 투자에 현금 부족",
+      "url": "https://n.news.naver.com/mnews/article/009/0005714523"
     },
     {
-      "title": "LG생건 북미 매출액, 중국 앞질렀다…\"성장 축 다변화\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339407"
+      "title": "다시 쌓이는 미분양…서울 아파트 착공·인허가는 뒷걸음",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315879"
     },
     {
-      "title": "우리금융 ‘전북 금융타운’ 개소식 개최 외[이코노 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147018"
+      "title": "\"ETF 샀다 낭패봤는데, 은행에 수수료 7배 더 냈다\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339949"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74
+      "value": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78
     },
     "usdkrw": {
-      "value": 1436.88,
-      "change": -16.28,
-      "change_pct": -1.12
+      "value": 1421.64,
+      "change": -31.52,
+      "change_pct": -2.17
     }
   },
   "gold": {
-    "price_usd": 4140.0,
-    "price_krw": 5948683,
-    "change": 103.7,
-    "change_pct": 2.57
+    "price_usd": 4162.8,
+    "price_krw": 5918002,
+    "change": 128.1,
+    "change_pct": 3.17
   },
-  "updated": "2026-07-30 09:15",
+  "updated": "2026-07-31 07:09",
   "error": null
 }
