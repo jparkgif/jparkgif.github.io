@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000629763"
+      "title": "증시 출렁…정부, 13일만에 단일종목 레버리지 추가 조치안 발표",
+      "url": "https://n.news.naver.com/mnews/article/092/0002432422"
     },
     {
-      "title": "“中, DUV 노광장비 자체 생산 시작”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002676132"
+      "title": "SK하이닉스, 2Q 영업이익 60.5조·매출 79.3조 '사상 최대'(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009084653"
     },
     {
-      "title": "고령인구, 유소년 2배… 생산인구 70% 붕괴 속 오산·과천·시흥도 ‘역전’",
-      "url": "https://n.news.naver.com/mnews/article/666/0000116949"
+      "title": "\"삼전 주가 떨어졌네\" 호실적에도...삼성물산 목표주가 하향[클릭 e종목]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796524"
     },
     {
-      "title": "GS25, 축산가공 매출 90%↑…\"소용량 양념육 통했다\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009084676"
+      "title": "올해 처음 0.8명대로 떨어진 합계출산율…출생아는 23개월 연속↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392656"
     },
     {
-      "title": "\"주가 빠졌지만 임금 오를 것\" 7월 소비심리, 개선세 이어갔다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795296"
+      "title": "[단독] 종부세 기본공제 1주택 12억→14억 상향...공정시장가액비율도 올린다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541040"
     },
     {
-      "title": "“‘물타기’만 다섯 번 했는데 반토막”…레버리지 늪에서 개미들 ‘곡소리’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182503"
+      "title": "MS·메타, 예상 넘는 매출에도…AI투자 수익화 성과에 희비 갈려",
+      "url": "https://n.news.naver.com/mnews/article/421/0009087069"
     },
     {
-      "title": "SK하이닉스 2분기 영업익 60.5조…예상치 밑돌아",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944993"
+      "title": "농식품부, '계란값 담합' 산란계협회 설립 허가 취소",
+      "url": "https://n.news.naver.com/mnews/article/031/0001045762"
     },
     {
-      "title": "BNK금융지주, 2분기 실적 아쉬우나 주주환원 기대 유효-메리츠",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338698"
+      "title": "당국 \"레버리지 후폭풍 예상 못했다\"…보완은 이틀 뒤에나",
+      "url": "https://n.news.naver.com/mnews/article/119/0003116237"
     },
     {
-      "title": "정부, 대미 투자 1호로 가스복합화력발전소 건설 사업 낙점",
-      "url": "https://n.news.naver.com/mnews/article/055/0001376105"
+      "title": "LG생건 북미 매출액, 중국 앞질렀다…\"성장 축 다변화\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339407"
     },
     {
-      "title": "HD현대일렉트릭, 2분기 영업익 2870억원…전년比 37.3% 증가",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795672"
+      "title": "우리금융 ‘전북 금융타운’ 개소식 개최 외[이코노 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147018"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1456.63,
-      "change": -7.81,
-      "change_pct": -0.53
+      "value": 1436.88,
+      "change": -16.28,
+      "change_pct": -1.12
     }
   },
   "gold": {
-    "price_usd": 4019.9,
-    "price_krw": 5855506,
-    "change": -54.6,
-    "change_pct": -1.34
+    "price_usd": 4140.0,
+    "price_krw": 5948683,
+    "change": 103.7,
+    "change_pct": 2.57
   },
-  "updated": "2026-07-29 09:12",
+  "updated": "2026-07-30 09:15",
   "error": null
 }
