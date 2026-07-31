@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "금융위 \"단일 레버리지 추가 조치, 최대한 조기 시행\"",
-      "url": "https://n.news.naver.com/mnews/article/057/0001961237"
+      "title": "홈플러스 내달 7~10일 영업 재개…노사, 임금 순연·상여금 분할 합의",
+      "url": "https://n.news.naver.com/mnews/article/009/0005714861"
     },
     {
-      "title": "‘내 주식 오늘은?’…美, 기준금리 ‘매파적 동결’…‘인상’ 의견 3명",
-      "url": "https://n.news.naver.com/mnews/article/021/0002807902"
+      "title": "'암호키'도 뚫린 '모두의 창업'...중기부, 보안 강화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005555679"
     },
     {
-      "title": "삼성SDI, 2분기 영업익 2038억 ‘어닝 서프라이즈’…7분기 만에 흑자",
-      "url": "https://n.news.naver.com/mnews/article/016/0002677445"
+      "title": "\"수익률 439% 자랑하더니\"...20대 'AI 예언자' 펀드, 하루 만에 몰락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005555770"
     },
     {
-      "title": "최태원 회장, SK하이닉스 주식 48억어치 매수",
-      "url": "https://n.news.naver.com/mnews/article/081/0003666343"
+      "title": "엔·달러 환율 급락...미일, 이례적 '동시 시장개입'",
+      "url": "https://n.news.naver.com/mnews/article/052/0002387149"
     },
     {
-      "title": "DL이앤씨, 2분기 영업이익 26% 늘어, 자사주도 연말까지 555억원 매입한다",
-      "url": "https://n.news.naver.com/mnews/article/366/0001183237"
+      "title": "‘297만명 고객 정보 유출’ 롯데카드, 1.5개월 영업정지·과징금 50억 ‘중징계’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003461647"
     },
     {
-      "title": "\"시중銀 대출 축소에 자금조달 더 어려워\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005714658"
+      "title": "역대급 폭등 '극적 반전'…개미들 울린 '잔인한 7월' 끝났다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316133"
     },
     {
-      "title": "정의선, 브라질 공장 방문…\"더 큰 도약 위해 전사 차원 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005393158"
+      "title": "'삼전닉스 날았다'…美 훈풍·최태원 48억 베팅에 대폭발 [종목+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315942"
     },
     {
-      "title": "MS 클라우드 사업 초강세… 메타, AI 투자에 현금 부족",
-      "url": "https://n.news.naver.com/mnews/article/009/0005714523"
+      "title": "GC녹십자, 2Q 영업익 94%↓…\"독감백신 반영 이연 영향\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797444"
     },
     {
-      "title": "다시 쌓이는 미분양…서울 아파트 착공·인허가는 뒷걸음",
-      "url": "https://n.news.naver.com/mnews/article/015/0005315879"
+      "title": "이 대통령도 찾은 칠레 '한국의 거리'… 현대차그룹 순찰차가 누빈다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945534"
     },
     {
-      "title": "\"ETF 샀다 낭패봤는데, 은행에 수수료 7배 더 냈다\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339949"
+      "title": "반도체 역사적 반등…SK하이닉스 상한가·삼성전자 27%↑[핫종목](종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009090868"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5663.24,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 662.68,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25122.18,
-      "change": 679.24,
-      "change_pct": 2.78
+      "value": 25373.85,
+      "change": 251.67,
+      "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1421.64,
-      "change": -31.52,
-      "change_pct": -2.17
+      "value": 1442.07,
+      "change": -0.21,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4162.8,
-    "price_krw": 5918002,
-    "change": 128.1,
-    "change_pct": 3.17
+    "price_usd": 4098.6,
+    "price_krw": 5910468,
+    "change": -1.5,
+    "change_pct": -0.04
   },
-  "updated": "2026-07-31 07:09",
+  "updated": "2026-08-01 07:08",
   "error": null
 }
