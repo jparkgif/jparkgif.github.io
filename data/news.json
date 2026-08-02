@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "“현대차·네이버 팔고 삼전·하닉 17조 샀다”…‘몰빵 개미’ 사흘 만에 지옥서 천당 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147515"
+      "title": "전국 평균은 ‘바닥’, 서울 핵심지는 ‘세계 2위’… 집값 통계의 반전",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040112"
     },
     {
-      "title": "주유소 기름값 11주째 하락…휘발유·경유 1,800원대 유지",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229496"
+      "title": "9월부터 KTX·SRT 통합...3년간 요금 10%↓",
+      "url": "https://n.news.naver.com/mnews/article/052/0002387793"
     },
     {
-      "title": "원화 스테이블코인 경쟁 본격화…네카오 주도권 승부",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228604"
+      "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228551"
     },
     {
-      "title": "'韓·美 조선동맹' 닻 올랐다…1500억 달러 '마스가' 본궤도 [K조선 역대급 실적②]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102416"
+      "title": "튀르키예 찾은 정의선 회장, 아이오닉3 양산 점검…\"안전·품질 최우선\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000521000"
     },
     {
-      "title": "가뭄 장기화에 농업용수 비상…정부, 남부지역 21억원 긴급 추가 지원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006341922"
+      "title": "삼성전자 65만원 vs 36만원...'역대급 폭등' 뒤 가려진 극과 극 전망",
+      "url": "https://n.news.naver.com/mnews/article/014/0005556176"
     },
     {
-      "title": "LG AI연구원, ‘K-엑사원 2.0’ 라이선스 전면 개방",
-      "url": "https://n.news.naver.com/mnews/article/082/0001392165"
+      "title": "“8% 적금부터 항공권 경품까지”…하나금융, 청라 이전 기념 이벤트",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715439"
     },
     {
-      "title": "빅테크 AI 투자 경쟁 가속...메타가 유독 흔들리는 이유",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647522"
+      "title": "2억5000만원 대출받았더니 月이자 125만원으로 뛰었다…전세대출 금리도 6% 돌파[머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002678270"
     },
     {
-      "title": "\"이제야 알겠다\"…270% 벌던 20대 투자 천재, 반도체주 급등락 원인이었나",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797499"
+      "title": "롯데마트, 베트남 박장시에 17호점 개점…북부 공략 본격화",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228562"
     },
     {
-      "title": "해수부 부산 신청사 부지 경쟁 4파전…내달 7일 발표",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797493"
+      "title": "7년 만에 출산율 0.9명대 보나…고령화는 여전히 ‘경고등’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715370"
     },
     {
-      "title": "환경 관련 '고의 회계부정' 의혹 영풍, 당국과 법정다툼…증선위 “정화명령 무시하고 오염 방치”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003453261"
+      "title": "최윤범 “글로벌 핵심광물 기업 도약”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147881"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4049.1,
-    "price_krw": 5816937,
-    "change": -51.0,
-    "change_pct": -1.24
+    "price_usd": 4107.0,
+    "price_krw": 5900116,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-02 06:59",
+  "updated": "2026-08-03 06:58",
   "error": null
 }
