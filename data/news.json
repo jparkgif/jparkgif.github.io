@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "전국 평균은 ‘바닥’, 서울 핵심지는 ‘세계 2위’… 집값 통계의 반전",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040112"
+      "title": "현대차·기아, 7월 美 판매량 16만5284대…전년比 5% ↑ '역대 최다'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394624"
     },
     {
-      "title": "9월부터 KTX·SRT 통합...3년간 요금 10%↓",
-      "url": "https://n.news.naver.com/mnews/article/052/0002387793"
+      "title": "반포자이, 내년 공시가 절반만 올라도 보유세 1600만원…현행대비 1.2배↑[2026 세제개편]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798294"
     },
     {
-      "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228551"
+      "title": "빗썸 \"2028년 기업공개 목표…투명한 지배구조 구축할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016231484"
     },
     {
-      "title": "튀르키예 찾은 정의선 회장, 아이오닉3 양산 점검…\"안전·품질 최우선\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000521000"
+      "title": "‘PBR 하위 25%’ 코스피 상장사, 상속·증여세 최소 30% 할증된다[세제 개편안]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001184074"
     },
     {
-      "title": "삼성전자 65만원 vs 36만원...'역대급 폭등' 뒤 가려진 극과 극 전망",
-      "url": "https://n.news.naver.com/mnews/article/014/0005556176"
+      "title": "R&D세액공제 등 지방 우대…청년 근소세 최대 10년 감면[세제개편]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014105775"
     },
     {
-      "title": "“8% 적금부터 항공권 경품까지”…하나금융, 청라 이전 기념 이벤트",
-      "url": "https://n.news.naver.com/mnews/article/009/0005715439"
+      "title": "차 안에 둔 생수병이 폭탄으로…폭염 속 차량 관리 비상",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316957"
     },
     {
-      "title": "2억5000만원 대출받았더니 月이자 125만원으로 뛰었다…전세대출 금리도 6% 돌파[머니뭐니]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678270"
+      "title": "“파업 여파로 국내 판매 14.4%↓”…현대차, 7월 판매량 31만8454대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715982"
     },
     {
-      "title": "롯데마트, 베트남 박장시에 17호점 개점…북부 공략 본격화",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228562"
+      "title": "공시가 유지돼도…시가 60억 반포자이 실거주 1주택, 종부세 年 1100만원 더 내야 [2026 세제개편안]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648120"
     },
     {
-      "title": "7년 만에 출산율 0.9명대 보나…고령화는 여전히 ‘경고등’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005715370"
+      "title": "한화에어로, 사업 우선순위 조정…4천억원 UAM 부품 공급 중단",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525340"
     },
     {
-      "title": "최윤범 “글로벌 핵심광물 기업 도약”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147881"
+      "title": "“보유시대 가고 실거주시대로 전환”…전문가들 세제개편안 의견 보니",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716093"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6595.45,
-      "change": 1001.89,
-      "change_pct": 17.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 719.76,
-      "change": 74.98,
-      "change_pct": 11.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25373.85,
-      "change": 251.67,
-      "change_pct": 1.0
+      "value": 25913.9,
+      "change": 540.05,
+      "change_pct": 2.13
     },
     "usdkrw": {
-      "value": 1436.6,
-      "change": 16.0,
-      "change_pct": 1.13
+      "value": 1428.67,
+      "change": 8.07,
+      "change_pct": 0.57
     }
   },
   "gold": {
-    "price_usd": 4107.0,
-    "price_krw": 5900116,
+    "price_usd": 4108.2,
+    "price_krw": 5869262,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-03 06:58",
+  "updated": "2026-08-04 07:11",
   "error": null
 }
