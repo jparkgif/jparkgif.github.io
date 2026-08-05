@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "중기부, 5대 신성장기업 투자·도약기업 육성…자영업자 육아지원금 도입[하반기 업무보고]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798856"
+      "title": "고령 취업자 첫 1000만명 돌파…“은퇴 희망 연령 73.6세”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679925"
     },
     {
-      "title": "삼성 2분기 글로벌 D램 1위 유지‥마이크론, 하이닉스 바짝 추격",
-      "url": "https://n.news.naver.com/mnews/article/214/0001515827"
+      "title": "\"K-컬처 타고 온 방한객, 부가가치 높이려면…체류 일수·지출 늘릴 정책 펴야\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799221"
     },
     {
-      "title": "제주항공, 고유가에 2분기 영업손실 확대…\"비용 절감 집중\"",
-      "url": "https://n.news.naver.com/mnews/article/138/0002236577"
+      "title": "하나금융, 업계 최초 ‘포용금융최고책임자’ 선임",
+      "url": "https://n.news.naver.com/mnews/article/032/0003462560"
     },
     {
-      "title": "“허위매물 피해 없도록” 모아·신통 후보지 취소 알린다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667601"
+      "title": "“4월엔 결혼식 못하겠네요” 결혼비용 2238만원…1월은 1913만원, 월별 차이",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716935"
     },
     {
-      "title": "담합 반복·시장 지위남용에 매각·양도명령...강력 대응",
-      "url": "https://n.news.naver.com/mnews/article/052/0002388869"
+      "title": "기술주 약세 속 다우지수만 사상 최고 행진…스페이스X, 14% 폭락[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557868"
     },
     {
-      "title": "7월 물가상승률 2.8%로 둔화…정부 “석유류 진정에도 하반기 변수 여전”",
-      "url": "https://n.news.naver.com/mnews/article/119/0003117868"
+      "title": "쿠팡, 2분기 8350억 영업손실… 최대 분기 적자",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738988"
     },
     {
-      "title": "교통사고 ‘나이롱환자’ 걸러낸다…8주 초과 치료시 전문의 심사 거쳐야",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648378"
+      "title": "스페이스X 매출 92% 늘었는데...AI 투자 부담에 시간외거래서 주가 ‘뚝’",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991412"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000892301"
+      "title": "'2000억 긴급수혈' 홈플러스, 다시 문 연다…영업 정상화 속도",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317628"
     },
     {
-      "title": "‘만장일치 인상’ 한은 금통위원들 “성장·물가 경로 상응토록 금리 인상해야”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679468"
+      "title": "현대차, '디 올뉴 아반떼' 계약 돌입…가격은 2398만원부터",
+      "url": "https://n.news.naver.com/mnews/article/030/0003454353"
     },
     {
-      "title": "계열사 누락 대기업 총수 과징금 부과... 공시의무 위반 제재 강화",
-      "url": "https://n.news.naver.com/mnews/article/469/0000946213"
+      "title": "5대 은행 '회수 포기' 대출 1조2천억…7년 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/422/0000892642"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6257.45,
+      "value": 6358.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 737.35,
+      "value": 780.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26584.99,
-      "change": 671.09,
-      "change_pct": 2.59
+      "value": 26363.44,
+      "change": -221.55,
+      "change_pct": -0.83
     },
     "usdkrw": {
-      "value": 1429.43,
-      "change": -6.27,
-      "change_pct": -0.44
+      "value": 1421.74,
+      "change": -6.76,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4134.3,
-    "price_krw": 5909692,
-    "change": 100.6,
-    "change_pct": 2.49
+    "price_usd": 4308.2,
+    "price_krw": 6125140,
+    "change": 212.8,
+    "change_pct": 5.2
   },
-  "updated": "2026-08-05 07:16",
+  "updated": "2026-08-06 07:14",
   "error": null
 }
