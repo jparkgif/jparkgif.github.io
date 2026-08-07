@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "고령 취업자 첫 1000만명 돌파…“은퇴 희망 연령 73.6세”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679925"
+      "title": "CJ온스타일, 서울경제진흥원과 K라이프스타일 브랜드 육성 맞손",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345551"
     },
     {
-      "title": "\"K-컬처 타고 온 방한객, 부가가치 높이려면…체류 일수·지출 늘릴 정책 펴야\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799221"
+      "title": "골드만삭스 \"7월 코스피 급락은 강세장 내 조정…1만2000 목표 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318049"
     },
     {
-      "title": "하나금융, 업계 최초 ‘포용금융최고책임자’ 선임",
-      "url": "https://n.news.naver.com/mnews/article/032/0003462560"
+      "title": "\"일할 의지 막아선 안 돼\"vs\"지금도 엄청난 이익\"···'52시간제' 두고 양金장관 갈려",
+      "url": "https://n.news.naver.com/mnews/article/050/0000109384"
     },
     {
-      "title": "“4월엔 결혼식 못하겠네요” 결혼비용 2238만원…1월은 1913만원, 월별 차이",
-      "url": "https://n.news.naver.com/mnews/article/009/0005716935"
+      "title": "신협, 고창 해상풍력에 1000억 규모 금융지원",
+      "url": "https://n.news.naver.com/mnews/article/138/0002236951"
     },
     {
-      "title": "기술주 약세 속 다우지수만 사상 최고 행진…스페이스X, 14% 폭락[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557868"
+      "title": "한투증권 상반기 영업익, 2조원 돌파[Biz & Now]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542851"
     },
     {
-      "title": "쿠팡, 2분기 8350억 영업손실… 최대 분기 적자",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738988"
+      "title": "이성훈 LH 사장 “강남 사옥, 청년 주택 부지로”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003041146"
     },
     {
-      "title": "스페이스X 매출 92% 늘었는데...AI 투자 부담에 시간외거래서 주가 ‘뚝’",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991412"
+      "title": "삼성전자, ‘FMS 어워드’서 V낸드·AI 메모리로 2개 부문 수상",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717324"
     },
     {
-      "title": "'2000억 긴급수혈' 홈플러스, 다시 문 연다…영업 정상화 속도",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317628"
+      "title": "무신사 킥스, 봄·여름 슈즈 총결산 '킥스위크'…최대 70% 할인",
+      "url": "https://n.news.naver.com/mnews/article/001/0016236351"
     },
     {
-      "title": "현대차, '디 올뉴 아반떼' 계약 돌입…가격은 2398만원부터",
-      "url": "https://n.news.naver.com/mnews/article/030/0003454353"
+      "title": "이스타항공, 상반기 탑승률 93%로 국적 항공사 1위",
+      "url": "https://n.news.naver.com/mnews/article/421/0009101372"
     },
     {
-      "title": "5대 은행 '회수 포기' 대출 1조2천억…7년 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/422/0000892642"
+      "title": "스페이스X 9억주 풀렸다…보호예수 기간 종료",
+      "url": "https://n.news.naver.com/mnews/article/422/0000893279"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6264.0,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 799.94,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1421.74,
-      "change": -6.76,
-      "change_pct": -0.47
+      "value": 1420.88,
+      "change": -0.28,
+      "change_pct": -0.02
     }
   },
   "gold": {
-    "price_usd": 4308.2,
-    "price_krw": 6125140,
-    "change": 212.8,
-    "change_pct": 5.2
+    "price_usd": 4291.8,
+    "price_krw": 6098132,
+    "change": 46.0,
+    "change_pct": 1.08
   },
-  "updated": "2026-08-06 07:14",
+  "updated": "2026-08-07 10:01",
   "error": null
 }
