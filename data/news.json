@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "CJ온스타일, 서울경제진흥원과 K라이프스타일 브랜드 육성 맞손",
-      "url": "https://n.news.naver.com/mnews/article/018/0006345551"
+      "title": "KDB생명 본입찰, 한화·흥국·한투 3파전…삼성·교보 '불참'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800403"
     },
     {
-      "title": "골드만삭스 \"7월 코스피 급락은 강세장 내 조정…1만2000 목표 유지\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318049"
+      "title": "최진식 중견련 회장, 김영훈 장관 만나 노동규제 개선 건의",
+      "url": "https://n.news.naver.com/mnews/article/366/0001184965"
     },
     {
-      "title": "\"일할 의지 막아선 안 돼\"vs\"지금도 엄청난 이익\"···'52시간제' 두고 양金장관 갈려",
-      "url": "https://n.news.naver.com/mnews/article/050/0000109384"
+      "title": "반도체·재생e·AI로봇 '국내생산세액공제'…지방엔 더 큰 혜택",
+      "url": "https://n.news.naver.com/mnews/article/008/0005396953"
     },
     {
-      "title": "신협, 고창 해상풍력에 1000억 규모 금융지원",
-      "url": "https://n.news.naver.com/mnews/article/138/0002236951"
+      "title": "롯데케미칼, 2개 분기 연속 흑자…“사업재편으로 경쟁력 강화 지속”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002681019"
     },
     {
-      "title": "한투증권 상반기 영업익, 2조원 돌파[Biz & Now]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542851"
+      "title": "6% 넘은 금리에 전세 매물은 ‘품귀’…전세대출 올해만 2조원 줄어",
+      "url": "https://n.news.naver.com/mnews/article/022/0004149118"
     },
     {
-      "title": "이성훈 LH 사장 “강남 사옥, 청년 주택 부지로”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003041146"
+      "title": "한미 \"전문경영인 체제 구축으로 분기 실적 경신\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014115020"
     },
     {
-      "title": "삼성전자, ‘FMS 어워드’서 V낸드·AI 메모리로 2개 부문 수상",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717324"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/660/0000114752"
     },
     {
-      "title": "무신사 킥스, 봄·여름 슈즈 총결산 '킥스위크'…최대 70% 할인",
-      "url": "https://n.news.naver.com/mnews/article/001/0016236351"
+      "title": "씨젠, 2분기 영업이익 216억원…전년比 586%↑",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346983"
     },
     {
-      "title": "이스타항공, 상반기 탑승률 93%로 국적 항공사 1위",
-      "url": "https://n.news.naver.com/mnews/article/421/0009101372"
+      "title": "SK하이닉스, 용인·청주 팹에 54조 투자…D램·낸드 동시 증설",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088775"
     },
     {
-      "title": "스페이스X 9억주 풀렸다…보호예수 기간 종료",
-      "url": "https://n.news.naver.com/mnews/article/422/0000893279"
+      "title": "서울시 \"정비사업 순증효과 40%\"…대통령실에 공급 백서 전달(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009102997"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6264.0,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 799.94,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26348.35,
-      "change": -15.09,
-      "change_pct": -0.06
+      "value": 26690.62,
+      "change": 342.27,
+      "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1420.88,
-      "change": -0.28,
-      "change_pct": -0.02
+      "value": 1407.45,
+      "change": -13.71,
+      "change_pct": -0.96
     }
   },
   "gold": {
-    "price_usd": 4291.8,
-    "price_krw": 6098132,
-    "change": 46.0,
-    "change_pct": 1.08
+    "price_usd": 4401.3,
+    "price_krw": 6194609,
+    "change": 159.3,
+    "change_pct": 3.76
   },
-  "updated": "2026-08-07 10:01",
+  "updated": "2026-08-08 06:42",
   "error": null
 }
