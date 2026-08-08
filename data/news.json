@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "KDB생명 본입찰, 한화·흥국·한투 3파전…삼성·교보 '불참'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800403"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012233701"
     },
     {
-      "title": "최진식 중견련 회장, 김영훈 장관 만나 노동규제 개선 건의",
-      "url": "https://n.news.naver.com/mnews/article/366/0001184965"
+      "title": "기름값 12주 연속 하락…휘발유·경유 1800원대",
+      "url": "https://n.news.naver.com/mnews/article/005/0001865642"
     },
     {
-      "title": "반도체·재생e·AI로봇 '국내생산세액공제'…지방엔 더 큰 혜택",
-      "url": "https://n.news.naver.com/mnews/article/008/0005396953"
+      "title": "국장 떠난 서학개미…'속슬' 팔고 담은 종목은?",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261629"
     },
     {
-      "title": "롯데케미칼, 2개 분기 연속 흑자…“사업재편으로 경쟁력 강화 지속”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002681019"
+      "title": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화",
+      "url": "https://n.news.naver.com/mnews/article/001/0016240061"
     },
     {
-      "title": "6% 넘은 금리에 전세 매물은 ‘품귀’…전세대출 올해만 2조원 줄어",
-      "url": "https://n.news.naver.com/mnews/article/022/0004149118"
+      "title": "\"반도체 근원 경쟁력 회복 신호탄\"…삼성, 3D HBM 승부수 [강경주의 테크X]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318708"
     },
     {
-      "title": "한미 \"전문경영인 체제 구축으로 분기 실적 경신\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014115020"
+      "title": "SK하이닉스, 용인 반도체에 54조 베팅…대규모 투자 나선다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649779"
+    },
+    {
+      "title": "美 7월 고용 충격에…\"인상 어렵다\" 월가 시각 급선회(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006347347"
+    },
+    {
+      "title": "SK하이닉스 \"2031년까지 청주 신규 팹에 19조 투자 확정\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004176686"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/660/0000114752"
+      "url": "https://n.news.naver.com/mnews/article/052/0002390461"
     },
     {
-      "title": "씨젠, 2분기 영업이익 216억원…전년比 586%↑",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346983"
-    },
-    {
-      "title": "SK하이닉스, 용인·청주 팹에 54조 투자…D램·낸드 동시 증설",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088775"
-    },
-    {
-      "title": "서울시 \"정비사업 순증효과 40%\"…대통령실에 공급 백서 전달(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009102997"
+      "title": "구윤철 '비거주 1주택 예외 유연화'…세제개편안 보완 시사",
+      "url": "https://n.news.naver.com/mnews/article/014/0005558830"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6258.77,
+      "change": -37.61,
+      "change_pct": -0.6
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 798.81,
+      "change": -2.86,
+      "change_pct": -0.36
     },
     "nasdaq": {
       "value": 26690.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4401.3,
-    "price_krw": 6194609,
-    "change": 159.3,
-    "change_pct": 3.76
+    "price_usd": 4340.7,
+    "price_krw": 6109318,
+    "change": 98.7,
+    "change_pct": 2.33
   },
-  "updated": "2026-08-08 06:42",
+  "updated": "2026-08-09 06:34",
   "error": null
 }

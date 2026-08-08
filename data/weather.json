@@ -1,10 +1,10 @@
 {
-  "temp": 29.2,
-  "condition": "30.0°",
-  "high": 35.0,
-  "low": 27.0,
+  "temp": 24.6,
+  "condition": "25.2°",
+  "high": 34.0,
+  "low": 26.0,
   "wind": "풍속m/s",
   "city": "서울",
-  "updated": "2026-08-08 06:42",
+  "updated": "2026-08-09 06:34",
   "error": null
 }
