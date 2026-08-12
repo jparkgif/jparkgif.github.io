@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894811"
+      "title": "수에즈 대신 북극항로…中, 20일 만에 컨테이너선 유럽행",
+      "url": "https://n.news.naver.com/mnews/article/422/0000895041"
     },
     {
-      "title": "함영주 하나금융 회장, 보훈장관과 현충원 참배",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669596"
+      "title": "한화손보, 2분기 매출 1조9774억·15.4%↑…분기최대 CSM 달성",
+      "url": "https://n.news.naver.com/mnews/article/277/0005802100"
     },
     {
-      "title": "한국타이어, 2분기 영업익 58% 증가…고부가 타이어 성장",
-      "url": "https://n.news.naver.com/mnews/article/029/0003041803"
+      "title": "\"주주환원 이르면 이달 발표\"…'삼전닉스' 주가 반등할까",
+      "url": "https://n.news.naver.com/mnews/article/003/0014122029"
     },
     {
-      "title": "엔비디아·월가, AI 인프라 투자 위해 '710조 원' 뭉칫돈 푼다",
-      "url": "https://n.news.naver.com/mnews/article/052/0002391593"
+      "title": "19일부터 ETF 괴리율 관리 강화…단일종목 레버리지 모의거래 의무화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005560686"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002391473"
+      "title": "국민은행, 36억 규모 금융사고…신한·우리·IBK 등 총 490억 피해",
+      "url": "https://n.news.naver.com/mnews/article/008/0005399243"
     },
     {
-      "title": "“내 주식 어떡하나” 키움證, 삼전·닉스 목표가 함께 낮춰",
-      "url": "https://n.news.naver.com/mnews/article/021/0002810536"
+      "title": "부실기업 퇴출 본격화… 30개 종목에 ‘1차 경고장’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001866585"
     },
     {
-      "title": "롯데그룹, 롯데카드 영업정지에 “고객불편 없어야”…브랜드 오인피해 방지협력",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740105"
+      "title": "‘수출 훈풍’ 한국콜마 영업익 50% 급증",
+      "url": "https://n.news.naver.com/mnews/article/016/0002682834"
     },
     {
-      "title": "삼성SDI, GM과 차세대 각형 배터리 공동 개발 나선다…“ESS 수요 적극 대응”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002682381"
+      "title": "금융지주도 제친 미래에셋증권…분기 연속 '순이익 1조' 달성(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006350394"
     },
     {
-      "title": "한은 부총재 “고물가 오래 지속 가능성…금리 인상 기조 지속해야”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543667"
+      "title": "“많이 이용해주세요”…홈플러스 67개 매장, 13일 다시 문연다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004150356"
     },
     {
-      "title": "GS 2분기 영업이익 253% 증가…\"GS칼텍스 호실적이 견인\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894634"
+      "title": "호남에 2029년부터 3GW 전력 우선 공급...정부-기업 맞손",
+      "url": "https://n.news.naver.com/mnews/article/215/0001262125"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6299.66,
+      "value": 6345.53,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 854.47,
+      "value": 857.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6
+      "value": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54
     },
     "usdkrw": {
-      "value": 1412.28,
-      "change": 5.28,
-      "change_pct": 0.38
+      "value": 1416.8,
+      "change": -0.51,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4427.8,
-    "price_krw": 6253293,
-    "change": 66.0,
-    "change_pct": 1.51
+    "price_usd": 4469.0,
+    "price_krw": 6331679,
+    "change": 86.0,
+    "change_pct": 1.96
   },
-  "updated": "2026-08-12 06:53",
+  "updated": "2026-08-13 06:51",
   "error": null
 }
