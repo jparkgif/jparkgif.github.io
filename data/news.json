@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000506088"
+      "title": "한 총리, 빌 게이츠 접견…한미 차세대 SMR 협력 논의",
+      "url": "https://n.news.naver.com/mnews/article/422/0000895875"
     },
     {
-      "title": "'영업 재개' 홈플러스 관계인집회 다음달 2일 실시...수정 계획안 가결될까",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561142"
+      "title": "코리아세븐, 올 2분기 영업익 41억원…11분기 만에 흑자전환",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237922"
     },
     {
-      "title": "스타벅스 ‘마케팅 논란’ 여파…국내 진출 27년 만에 ‘첫 분기 적자’",
-      "url": "https://n.news.naver.com/mnews/article/662/0000101861"
+      "title": "세아제강지주, 2분기 매출 23%↑…해상풍력 비용에 적자전환",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803374"
     },
     {
-      "title": "F&F, ‘디스커버리 익스페디션’ 글로벌 상표권 8000만달러에 인수",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186125"
+      "title": "PF 건전성 규제 오락가락, 금투업계 '당혹'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005400004"
     },
     {
-      "title": "국가연구소 딥테크 창업 첫 발…'2026년 UST 창업트랙' 발대식",
-      "url": "https://n.news.naver.com/mnews/article/079/0004178559"
+      "title": "서울대·한화, 국방AI 연구 협력한다… '한화 AI 프런티어관' 건립",
+      "url": "https://n.news.naver.com/mnews/article/469/0000948068"
     },
     {
-      "title": "착공 속도전…강서 염창공원 2029년·남양주 와부 2030년 첫삽",
-      "url": "https://n.news.naver.com/mnews/article/015/0005320686"
+      "title": "주담대 ‘오픈런’ 끝날까…이억원, 은행장에 “실수요 자금 공급”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006351696"
     },
     {
-      "title": "한은 \"금 ETF 3천500억 원어치 보유\"…13년 만의 금 투자",
-      "url": "https://n.news.naver.com/mnews/article/055/0001380308"
+      "title": "최태원 \"메모리는 전쟁\"…CNBC가 본 SK하이닉스 '1000조원 베팅'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006351409"
     },
     {
-      "title": "반도체도, 가전도 아니다…삼성, 인도 HVAC 공장 준공",
-      "url": "https://n.news.naver.com/mnews/article/015/0005320368"
+      "title": "빗썸, 코인 한파에 상반기 적자…영업익 83% 급감",
+      "url": "https://n.news.naver.com/mnews/article/119/0003121985"
     },
     {
-      "title": "\"정비사업 1년 이상 앞당긴다\" 조합 설립 동의율 75→70%로",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561362"
+      "title": "LS전선 자회사 3사, 상반기 역대 최대 실적 행진",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561732"
     },
     {
-      "title": "BNK부산은행, ‘LP성장펀드’에 100억원 출자",
-      "url": "https://n.news.naver.com/mnews/article/016/0002683582"
+      "title": "'청년은 빌라 사라?'…금융위 \"비아파트 구입할 추가 기회 제공\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000895882"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6579.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 858.91,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26803.03,
-      "change": 214.54,
-      "change_pct": 0.81
+      "value": 26729.16,
+      "change": -73.87,
+      "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1418.21,
-      "change": 6.03,
-      "change_pct": 0.43
+      "value": 1416.48,
+      "change": 0.02,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4407.1,
-    "price_krw": 6250193,
-    "change": -1.8,
-    "change_pct": -0.04
+    "price_usd": 4432.0,
+    "price_krw": 6277839,
+    "change": 68.4,
+    "change_pct": 1.57
   },
-  "updated": "2026-08-14 06:50",
+  "updated": "2026-08-15 06:28",
   "error": null
 }
