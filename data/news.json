@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "한 총리, 빌 게이츠 접견…한미 차세대 SMR 협력 논의",
-      "url": "https://n.news.naver.com/mnews/article/422/0000895875"
+      "title": "엔비디아 두뇌-LG 몸체… 이족보행 합작 로봇 내년 나온다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741030"
     },
     {
-      "title": "코리아세븐, 올 2분기 영업익 41억원…11분기 만에 흑자전환",
-      "url": "https://n.news.naver.com/mnews/article/138/0002237922"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001380863"
     },
     {
-      "title": "세아제강지주, 2분기 매출 23%↑…해상풍력 비용에 적자전환",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803374"
+      "title": "‘낙동강 카드뮴 오염 의혹’ 석포제련소…警, 영풍 고문 재수사로 새국면..지역사회 갈등도↑",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811596"
     },
     {
-      "title": "PF 건전성 규제 오락가락, 금투업계 '당혹'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400004"
+      "title": "금융위, '청년 비아파트 유도' 비판에 \"틈새 시장 배려‥아파트 매수 혜택은 그대로\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001517998"
     },
     {
-      "title": "서울대·한화, 국방AI 연구 협력한다… '한화 AI 프런티어관' 건립",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948068"
+      "title": "기름값 13주 연속 하락…휘발유·경유 1800원대 중반 유지",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561948"
     },
     {
-      "title": "주담대 ‘오픈런’ 끝날까…이억원, 은행장에 “실수요 자금 공급”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006351696"
+      "title": "\"장중 26% 폭등\"...5만원→1만4000원 급락했던 백종원 회사, 갑자기 무슨 일 [주주클럽]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562002"
     },
     {
-      "title": "최태원 \"메모리는 전쟁\"…CNBC가 본 SK하이닉스 '1000조원 베팅'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006351409"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896061"
     },
     {
-      "title": "빗썸, 코인 한파에 상반기 적자…영업익 83% 급감",
-      "url": "https://n.news.naver.com/mnews/article/119/0003121985"
+      "title": "'삼전 주주' 800만명 육박…역대급 투자에 D램 점유율 39.4%",
+      "url": "https://n.news.naver.com/mnews/article/008/0005400454"
     },
     {
-      "title": "LS전선 자회사 3사, 상반기 역대 최대 실적 행진",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561732"
+      "title": "집단대출 별도 관리로 '한도 제로' 상호금융도 여력 생긴다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253452"
     },
     {
-      "title": "'청년은 빌라 사라?'…금융위 \"비아파트 구입할 추가 기회 제공\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000895882"
+      "title": "예전엔 이러면 올랐는데…비트코인에 무슨 일이[주간코인]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003122091"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6977.94,
+      "change": 164.6,
+      "change_pct": 2.42
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 864.65,
+      "change": 3.28,
+      "change_pct": 0.38
     },
     "nasdaq": {
       "value": 26729.16,
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": 0.02,
-      "change_pct": 0.0
+      "value": 1412.0,
+      "change": -4.85,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4432.0,
-    "price_krw": 6277839,
-    "change": 68.4,
-    "change_pct": 1.57
+    "price_usd": 4380.4,
+    "price_krw": 6185124,
+    "change": 16.8,
+    "change_pct": 0.39
   },
-  "updated": "2026-08-15 06:28",
+  "updated": "2026-08-16 06:25",
   "error": null
 }
