@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "엔비디아 두뇌-LG 몸체… 이족보행 합작 로봇 내년 나온다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741030"
+      "title": "대한항공·아시아나 통합 후 노선·마일리지 어떻게?",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527747"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001380863"
+      "title": "“주식만 믿다간 거지꼴 못면한다”…은행 특판예금으로 머니무브",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721807"
     },
     {
-      "title": "‘낙동강 카드뮴 오염 의혹’ 석포제련소…警, 영풍 고문 재수사로 새국면..지역사회 갈등도↑",
-      "url": "https://n.news.naver.com/mnews/article/021/0002811596"
+      "title": "김정관 산업부 장관, 통상 현안 논의차 긴급 미국행",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803614"
     },
     {
-      "title": "금융위, '청년 비아파트 유도' 비판에 \"틈새 시장 배려‥아파트 매수 혜택은 그대로\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001517998"
+      "title": "“닥치고 공급” 정부 방침에…서울시 이어 용산구도 “아니올시다”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721513"
     },
     {
-      "title": "기름값 13주 연속 하락…휘발유·경유 1800원대 중반 유지",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561948"
+      "title": "LG·엔비디아 AI 동맹 \"로봇·AI팩토리·모빌리티 3대 협력\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562200"
     },
     {
-      "title": "\"장중 26% 폭등\"...5만원→1만4000원 급락했던 백종원 회사, 갑자기 무슨 일 [주주클럽]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562002"
+      "title": "글로벌 수익률 1위 코스닥…‘삼전닉스’ 급반등에 수급 쏠림 재현되나",
+      "url": "https://n.news.naver.com/mnews/article/243/0000101741"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000896061"
+      "title": "서울 그린벨트 풀리나…7.3만호+α 신규택지, 이르면 내달 발표",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721594"
     },
     {
-      "title": "'삼전 주주' 800만명 육박…역대급 투자에 D램 점유율 39.4%",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400454"
+      "title": "'통상 사령탑' 여한구 전격 경질 …\"대미협상과 무관\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721718"
     },
     {
-      "title": "집단대출 별도 관리로 '한도 제로' 상호금융도 여력 생긴다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253452"
+      "title": "올리브영 오픈런, 비비고 브런치… 美 본토 일상 스며든 ‘K라이프’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003670886"
     },
     {
-      "title": "예전엔 이러면 올랐는데…비트코인에 무슨 일이[주간코인]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003122091"
+      "title": "세븐일레븐 가성비 위스키 '블랙서클' 2종 100만병 판매",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253569"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1412.0,
-      "change": -4.85,
-      "change_pct": -0.34
+      "value": 1416.48,
+      "change": -0.37,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4380.4,
-    "price_krw": 6185124,
-    "change": 16.8,
-    "change_pct": 0.39
+    "price_usd": 4437.3,
+    "price_krw": 6285346,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-16 06:25",
+  "updated": "2026-08-17 06:24",
   "error": null
 }
