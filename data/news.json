@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "대한항공·아시아나 통합 후 노선·마일리지 어떻게?",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527747"
+      "title": "\"대출 여력 확대? 남 얘기\"…6억에 꽉 막힌 실수요자",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352783"
     },
     {
-      "title": "“주식만 믿다간 거지꼴 못면한다”…은행 특판예금으로 머니무브",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721807"
+      "title": "삼성, 국제올림피아드 수상자 15명에 장학금…이공계 인재 키운다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000948412"
     },
     {
-      "title": "김정관 산업부 장관, 통상 현안 논의차 긴급 미국행",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803614"
+      "title": "\"한 줄 4천 원 육박\"…쌀·계란값 상승에 김밥 가격도 부담",
+      "url": "https://n.news.naver.com/mnews/article/055/0001381147"
     },
     {
-      "title": "“닥치고 공급” 정부 방침에…서울시 이어 용산구도 “아니올시다”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721513"
+      "title": "‘용산어린이정원 주택 공급’ 타협안 관측에… 서울시 “녹지 지켜야”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867154"
     },
     {
-      "title": "LG·엔비디아 AI 동맹 \"로봇·AI팩토리·모빌리티 3대 협력\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562200"
+      "title": "“20년 전 목표가 현실로”…CJ, 2028년 북미 매출 12조 정조준",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811807"
     },
     {
-      "title": "글로벌 수익률 1위 코스닥…‘삼전닉스’ 급반등에 수급 쏠림 재현되나",
-      "url": "https://n.news.naver.com/mnews/article/243/0000101741"
+      "title": "원유 수급은 돌아왔는데…중동 '비상조치' 언제 풀리나",
+      "url": "https://n.news.naver.com/mnews/article/003/0014130553"
     },
     {
-      "title": "서울 그린벨트 풀리나…7.3만호+α 신규택지, 이르면 내달 발표",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721594"
+      "title": "금값 반등에 돌아온 개미들⋯4개월 만에 \"다시 사자\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001050204"
     },
     {
-      "title": "'통상 사령탑' 여한구 전격 경질 …\"대미협상과 무관\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721718"
+      "title": "개미만 털렸다 … 5대증권 4조 수수료 잔치[기획]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042712"
     },
     {
-      "title": "올리브영 오픈런, 비비고 브런치… 美 본토 일상 스며든 ‘K라이프’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003670886"
+      "title": "“찜통 승강기 사라진다”…LH, 신규 아파트 승강기 에어컨 의무화",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042622"
     },
     {
-      "title": "세븐일레븐 가성비 위스키 '블랙서클' 2종 100만병 판매",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253569"
+      "title": "美국채 매도세에 30년물 금리 5.31%…2007년 이후 최고치",
+      "url": "https://n.news.naver.com/mnews/article/001/0016255211"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.38
     },
     "nasdaq": {
-      "value": 26729.16,
-      "change": -73.87,
-      "change_pct": -0.28
+      "value": 26644.91,
+      "change": -84.25,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": -0.37,
-      "change_pct": -0.03
+      "value": 1414.91,
+      "change": -1.94,
+      "change_pct": -0.14
     }
   },
   "gold": {
-    "price_usd": 4437.3,
-    "price_krw": 6285346,
+    "price_usd": 4473.1,
+    "price_krw": 6329034,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-17 06:24",
+  "updated": "2026-08-18 06:28",
   "error": null
 }
