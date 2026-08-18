@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"대출 여력 확대? 남 얘기\"…6억에 꽉 막힌 실수요자",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352783"
+      "title": "4년새 청년 일자리 28만 5천개 '뚝'…한은 \"94%가 'AI 고노출' 업종\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896833"
     },
     {
-      "title": "삼성, 국제올림피아드 수상자 15명에 장학금…이공계 인재 키운다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948412"
+      "title": "\"을지연습 축소, 3500억弗 대미투자 지연 탓\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722553"
     },
     {
-      "title": "\"한 줄 4천 원 육박\"…쌀·계란값 상승에 김밥 가격도 부담",
-      "url": "https://n.news.naver.com/mnews/article/055/0001381147"
+      "title": "현대건설, 美테라파워와 ‘원전 동맹’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151922"
     },
     {
-      "title": "‘용산어린이정원 주택 공급’ 타협안 관측에… 서울시 “녹지 지켜야”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867154"
+      "title": "무섭게 사던 외인 어디에…7200피 찍고 주르륵, 이것에 '반등' 달렸다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005401484"
     },
     {
-      "title": "“20년 전 목표가 현실로”…CJ, 2028년 북미 매출 12조 정조준",
-      "url": "https://n.news.naver.com/mnews/article/021/0002811807"
+      "title": "“수익률 36% 냈더니 상폐”…레버리지에 밀린 액티브ETF 규제 [쩐널리즘]",
+      "url": "https://n.news.naver.com/mnews/article/215/0001262764"
     },
     {
-      "title": "원유 수급은 돌아왔는데…중동 '비상조치' 언제 풀리나",
-      "url": "https://n.news.naver.com/mnews/article/003/0014130553"
+      "title": "대기업 청년 신규채용 14% 감소…82명→1명 뽑은 곳도",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741473"
     },
     {
-      "title": "금값 반등에 돌아온 개미들⋯4개월 만에 \"다시 사자\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001050204"
+      "title": "서울시의회 국민의힘, ‘용산공원 주택화’ 추진 전면 재검토 촉구",
+      "url": "https://n.news.naver.com/mnews/article/081/0003671291"
     },
     {
-      "title": "개미만 털렸다 … 5대증권 4조 수수료 잔치[기획]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042712"
+      "title": "김윤 삼양그룹 회장 “AX·글로벌·스페셜티로 목표 달성”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002685142"
     },
     {
-      "title": "“찜통 승강기 사라진다”…LH, 신규 아파트 승강기 에어컨 의무화",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042622"
+      "title": "에쓰오일 \"샤힌프로젝트, 내년 가동…석유화학 글로벌 경쟁력↑\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016255708"
     },
     {
-      "title": "美국채 매도세에 30년물 금리 5.31%…2007년 이후 최고치",
-      "url": "https://n.news.naver.com/mnews/article/001/0016255211"
+      "title": "토요타·유럽연합 수소차 맹추격…갈길 바쁜 현대차 “지원정책 시급”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741515"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6977.94,
-      "change": 164.6,
-      "change_pct": 2.42
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 864.65,
-      "change": 3.28,
-      "change_pct": 0.38
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26644.91,
-      "change": -84.25,
-      "change_pct": -0.32
+      "value": 26289.71,
+      "change": -355.2,
+      "change_pct": -1.33
     },
     "usdkrw": {
-      "value": 1414.91,
-      "change": -1.94,
-      "change_pct": -0.14
+      "value": 1412.32,
+      "change": -3.05,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4473.1,
-    "price_krw": 6329034,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4389.5,
+    "price_krw": 6199378,
+    "change": -28.3,
+    "change_pct": -0.64
   },
-  "updated": "2026-08-18 06:28",
+  "updated": "2026-08-19 06:28",
   "error": null
 }
