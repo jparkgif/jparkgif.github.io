@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "4년새 청년 일자리 28만 5천개 '뚝'…한은 \"94%가 'AI 고노출' 업종\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000896833"
+      "title": "LG엔솔, 美 랜싱 공장 가동…북미 ESS 5대 생산 거점",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186994"
     },
     {
-      "title": "\"을지연습 축소, 3500억弗 대미투자 지연 탓\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722553"
+      "title": "노태문 “메모리값 부담, 경쟁사도 같다”…점유율 확대로 돌파",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867847"
     },
     {
-      "title": "현대건설, 美테라파워와 ‘원전 동맹’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151922"
+      "title": "메가MGC커피, 7월 '월간 앱' 사용자 역대 최대치",
+      "url": "https://n.news.naver.com/mnews/article/119/0003123222"
     },
     {
-      "title": "무섭게 사던 외인 어디에…7200피 찍고 주르륵, 이것에 '반등' 달렸다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005401484"
+      "title": "가계빚 사상 첫 2000조…주택대출에 빚투도 급증",
+      "url": "https://n.news.naver.com/mnews/article/018/0006354489"
     },
     {
-      "title": "“수익률 36% 냈더니 상폐”…레버리지에 밀린 액티브ETF 규제 [쩐널리즘]",
-      "url": "https://n.news.naver.com/mnews/article/215/0001262764"
+      "title": "한화 'K9 자주포' 최강 美도 뚫었다… 美 육군 시제품 제작 단독 선정",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042986"
     },
     {
-      "title": "대기업 청년 신규채용 14% 감소…82명→1명 뽑은 곳도",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741473"
+      "title": "SK하이닉스 -9% ‘털썩’…코스피 -5.8% 급락",
+      "url": "https://n.news.naver.com/mnews/article/081/0003671676"
     },
     {
-      "title": "서울시의회 국민의힘, ‘용산공원 주택화’ 추진 전면 재검토 촉구",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671291"
+      "title": "코스피 하루 새 7000→6400… 美 장기금리 충격, 왜 한국이 더 아플까",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187146"
     },
     {
-      "title": "김윤 삼양그룹 회장 “AX·글로벌·스페셜티로 목표 달성”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002685142"
+      "title": "환율, 장중 1300원 대로 하락…10개월 반 만에 처음",
+      "url": "https://n.news.naver.com/mnews/article/057/0001964428"
     },
     {
-      "title": "에쓰오일 \"샤힌프로젝트, 내년 가동…석유화학 글로벌 경쟁력↑\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016255708"
+      "title": "장기채 '매수 실종'에 美 재무부 개입…바이백 2배 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005563768"
     },
     {
-      "title": "토요타·유럽연합 수소차 맹추격…갈길 바쁜 현대차 “지원정책 시급”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741515"
+      "title": "\"삼성전자, 파운드리 단가 최대 15% 인상…내년 흑자 가능성\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402127"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6977.94,
+      "value": 6869.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 864.65,
+      "value": 834.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33
+      "value": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16
     },
     "usdkrw": {
-      "value": 1412.32,
-      "change": -3.05,
-      "change_pct": -0.22
+      "value": 1386.28,
+      "change": -28.45,
+      "change_pct": -2.01
     }
   },
   "gold": {
-    "price_usd": 4389.5,
-    "price_krw": 6199378,
-    "change": -28.3,
-    "change_pct": -0.64
+    "price_usd": 4580.7,
+    "price_krw": 6350133,
+    "change": 214.7,
+    "change_pct": 4.92
   },
-  "updated": "2026-08-19 06:28",
+  "updated": "2026-08-20 06:28",
   "error": null
 }
