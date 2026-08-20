@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG엔솔, 美 랜싱 공장 가동…북미 ESS 5대 생산 거점",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186994"
+      "title": "보이스피싱 정보공유 9개월간 7천건 지급정지·660억원 차단",
+      "url": "https://n.news.naver.com/mnews/article/001/0016260405"
     },
     {
-      "title": "노태문 “메모리값 부담, 경쟁사도 같다”…점유율 확대로 돌파",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867847"
+      "title": "100세 넘는 초고령자 8600명 돌파",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402758"
     },
     {
-      "title": "메가MGC커피, 7월 '월간 앱' 사용자 역대 최대치",
-      "url": "https://n.news.naver.com/mnews/article/119/0003123222"
+      "title": "\"4대 은행 금융사고 10년간 5,500억…사기가 절반 이상\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000897502"
     },
     {
-      "title": "가계빚 사상 첫 2000조…주택대출에 빚투도 급증",
-      "url": "https://n.news.naver.com/mnews/article/018/0006354489"
+      "title": "세 부담 우려에 급매 속출…강남·서초 집값 2주째 하락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564084"
     },
     {
-      "title": "한화 'K9 자주포' 최강 美도 뚫었다… 美 육군 시제품 제작 단독 선정",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042986"
+      "title": "제네시스, 초대형 플래그십 전동 SUV ‘GV90’ 공개",
+      "url": "https://n.news.naver.com/mnews/article/082/0001394771"
     },
     {
-      "title": "SK하이닉스 -9% ‘털썩’…코스피 -5.8% 급락",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671676"
+      "title": "삼성전자 반도체 중심 초기업노조 \"DX와 공동교섭단 구성 안 한다\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519079"
     },
     {
-      "title": "코스피 하루 새 7000→6400… 美 장기금리 충격, 왜 한국이 더 아플까",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187146"
+      "title": "북극항로 컨테이너선, 화물 싣고 22일 대장정 오른다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564326"
     },
     {
-      "title": "환율, 장중 1300원 대로 하락…10개월 반 만에 처음",
-      "url": "https://n.news.naver.com/mnews/article/057/0001964428"
+      "title": "은행 연체율 0.56%로 ‘뚝’…숫자 뒤엔 5.3조 부실채권 정리",
+      "url": "https://n.news.naver.com/mnews/article/123/0002388744"
     },
     {
-      "title": "장기채 '매수 실종'에 美 재무부 개입…바이백 2배 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005563768"
+      "title": "모더나 잭팟에 K바이오주도 훈풍…\"추격매수는 유의해야\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005322883"
     },
     {
-      "title": "\"삼성전자, 파운드리 단가 최대 15% 인상…내년 흑자 가능성\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005402127"
+      "title": "의결권자문사 서스틴베스트, 고려아연 손 들어줬다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050017"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6869.83,
+      "value": 6471.17,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.2,
+      "value": 824.46,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26331.09,
-      "change": 41.38,
-      "change_pct": 0.16
+      "value": 26067.17,
+      "change": -263.92,
+      "change_pct": -1.0
     },
     "usdkrw": {
-      "value": 1386.28,
-      "change": -28.45,
-      "change_pct": -2.01
+      "value": 1393.96,
+      "change": -19.62,
+      "change_pct": -1.39
     }
   },
   "gold": {
-    "price_usd": 4580.7,
-    "price_krw": 6350133,
-    "change": 214.7,
-    "change_pct": 4.92
+    "price_usd": 4575.1,
+    "price_krw": 6377506,
+    "change": 85.7,
+    "change_pct": 1.91
   },
-  "updated": "2026-08-20 06:28",
+  "updated": "2026-08-21 06:31",
   "error": null
 }
