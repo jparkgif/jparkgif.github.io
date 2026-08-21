@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "보이스피싱 정보공유 9개월간 7천건 지급정지·660억원 차단",
-      "url": "https://n.news.naver.com/mnews/article/001/0016260405"
+      "title": "역대급 실적에도 멈춰 선 공장…'기준 없는 성과급'이 부른 파행[N% 성과급 하투(夏鬪)①]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014141469"
     },
     {
-      "title": "100세 넘는 초고령자 8600명 돌파",
-      "url": "https://n.news.naver.com/mnews/article/008/0005402758"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528675"
     },
     {
-      "title": "\"4대 은행 금융사고 10년간 5,500억…사기가 절반 이상\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000897502"
+      "title": "원·달러 환율 1386.5원 마감…11개월 만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/656/0000184669"
     },
     {
-      "title": "세 부담 우려에 급매 속출…강남·서초 집값 2주째 하락",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564084"
+      "title": "코웨이, '3대 디자인상' 석권…\"글로벌 역량 인정\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014139788"
     },
     {
-      "title": "제네시스, 초대형 플래그십 전동 SUV ‘GV90’ 공개",
-      "url": "https://n.news.naver.com/mnews/article/082/0001394771"
+      "title": "방산기업에 뇌물 받고 ‘최고점’‥LIG D&A 임직원·방사청 공무원 기소",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653619"
     },
     {
-      "title": "삼성전자 반도체 중심 초기업노조 \"DX와 공동교섭단 구성 안 한다\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519079"
+      "title": "뉴욕증시, 저가 매수세에 반등…국채금리 숨 고르기",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187673"
     },
     {
-      "title": "북극항로 컨테이너선, 화물 싣고 22일 대장정 오른다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564326"
+      "title": "\"10만달러 간다\" 파격 전망까지…비트코인 '깜짝 폭등'에 들썩",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323024"
     },
     {
-      "title": "은행 연체율 0.56%로 ‘뚝’…숫자 뒤엔 5.3조 부실채권 정리",
-      "url": "https://n.news.naver.com/mnews/article/123/0002388744"
+      "title": "'세 낀 집' 매수 허용해놓고…비거주 1주택자, 내년 종부세 부담 어쩌나",
+      "url": "https://n.news.naver.com/mnews/article/586/0000136450"
     },
     {
-      "title": "모더나 잭팟에 K바이오주도 훈풍…\"추격매수는 유의해야\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005322883"
+      "title": "진에어·에어부산·에어서울, 합병계약 체결…'통합 진에어' 내년 3월 출범",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323315"
     },
     {
-      "title": "의결권자문사 서스틴베스트, 고려아연 손 들어줬다",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050017"
+      "title": "“제네시스 GV90, ‘K-럭셔리’ 알리는 마중물이 될 것입니다” [인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002686640"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6471.17,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 824.46,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26067.17,
-      "change": -263.92,
-      "change_pct": -1.0
+      "value": 26180.46,
+      "change": 113.29,
+      "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1393.96,
-      "change": -19.62,
-      "change_pct": -1.39
+      "value": 1385.98,
+      "change": -3.42,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 4575.1,
-    "price_krw": 6377506,
-    "change": 85.7,
-    "change_pct": 1.91
+    "price_usd": 4661.6,
+    "price_krw": 6460884,
+    "change": 145.3,
+    "change_pct": 3.22
   },
-  "updated": "2026-08-21 06:31",
+  "updated": "2026-08-22 06:28",
   "error": null
 }
