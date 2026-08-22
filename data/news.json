@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "역대급 실적에도 멈춰 선 공장…'기준 없는 성과급'이 부른 파행[N% 성과급 하투(夏鬪)①]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014141469"
+      "title": "CXMT에 이어 YMTC도 IPO 본격화…6.8조 조달",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564912"
+    },
+    {
+      "title": "비트코인 3년여 만에 최대 상승…“10만달러 돌파 전망”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356036"
+    },
+    {
+      "title": "“고시원 호텔 만들 셈?” 반발에…국토부, 욕조 허용 규정 재검토",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355931"
+    },
+    {
+      "title": "mRNA 암 백신 시대 ‘성큼’…네오이뮨텍 첫 기술수출로 주목 [바이오 주간 결산]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356033"
+    },
+    {
+      "title": "전국 기름값 동반 하락…휘발유 14주 연속 내림세",
+      "url": "https://n.news.naver.com/mnews/article/448/0000635084"
+    },
+    {
+      "title": "잦아든 단일 레버리지 소란…간만에 금가격 급등[ETF워치]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050048"
+    },
+    {
+      "title": "9차 석유 최고가격 동결…휘발유 1,784원 경유 1,773원",
+      "url": "https://n.news.naver.com/mnews/article/056/0012242173"
+    },
+    {
+      "title": "\"처서 매직\" 일교차 큰 가을... 한우로 챙기는 영양과 입맛 [트렌드 레시피]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564895"
+    },
+    {
+      "title": "삼성전자, 최대 110조 원 사상 최대 주주환원…3분기 30조 원 현금배당",
+      "url": "https://n.news.naver.com/mnews/article/469/0000949379"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000528675"
-    },
-    {
-      "title": "원·달러 환율 1386.5원 마감…11개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/656/0000184669"
-    },
-    {
-      "title": "코웨이, '3대 디자인상' 석권…\"글로벌 역량 인정\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014139788"
-    },
-    {
-      "title": "방산기업에 뇌물 받고 ‘최고점’‥LIG D&A 임직원·방사청 공무원 기소",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653619"
-    },
-    {
-      "title": "뉴욕증시, 저가 매수세에 반등…국채금리 숨 고르기",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187673"
-    },
-    {
-      "title": "\"10만달러 간다\" 파격 전망까지…비트코인 '깜짝 폭등'에 들썩",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323024"
-    },
-    {
-      "title": "'세 낀 집' 매수 허용해놓고…비거주 1주택자, 내년 종부세 부담 어쩌나",
-      "url": "https://n.news.naver.com/mnews/article/586/0000136450"
-    },
-    {
-      "title": "진에어·에어부산·에어서울, 합병계약 체결…'통합 진에어' 내년 3월 출범",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323315"
-    },
-    {
-      "title": "“제네시스 GV90, ‘K-럭셔리’ 알리는 마중물이 될 것입니다” [인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002686640"
+      "url": "https://n.news.naver.com/mnews/article/214/0001519358"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:28",
+  "updated": "2026-08-23 06:25",
   "error": null
 }
