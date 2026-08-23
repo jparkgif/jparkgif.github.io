@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "CXMT에 이어 YMTC도 IPO 본격화…6.8조 조달",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564912"
+      "title": "서울시, 모아주택 2031년까지 4만가구 착공…모아통합기획 도입",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323591"
     },
     {
-      "title": "비트코인 3년여 만에 최대 상승…“10만달러 돌파 전망”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006356036"
+      "title": "임광현 \"고가 법인주택 42%는 '황제사택'…최고가 200억 넘어\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001382689"
     },
     {
-      "title": "“고시원 호텔 만들 셈?” 반발에…국토부, 욕조 허용 규정 재검토",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355931"
+      "title": "달러예금·골드 구매 증가… 주식 매매는 연중 최저",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152990"
     },
     {
-      "title": "mRNA 암 백신 시대 ‘성큼’…네오이뮨텍 첫 기술수출로 주목 [바이오 주간 결산]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006356033"
+      "title": "금융위 등 이전 내주 국무회의 심의 가능성…공공기관 반발 고조",
+      "url": "https://n.news.naver.com/mnews/article/001/0016265003"
     },
     {
-      "title": "전국 기름값 동반 하락…휘발유 14주 연속 내림세",
-      "url": "https://n.news.naver.com/mnews/article/448/0000635084"
+      "title": "‘갑 중의 갑’ 엔비디아도 못 버틴 메모리값…AI 서버 가격 15% 이상 올린다 [비즈360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687164"
     },
     {
-      "title": "잦아든 단일 레버리지 소란…간만에 금가격 급등[ETF워치]",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050048"
+      "title": "민주 \"북극항로 시범 운항 환영…해운·조선·물류 새 성장 동력 될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/057/0001965025"
     },
     {
-      "title": "9차 석유 최고가격 동결…휘발유 1,784원 경유 1,773원",
-      "url": "https://n.news.naver.com/mnews/article/056/0012242173"
+      "title": "“요새 누가 술 마시나요”…주류출고량, 외환위기 이후 27년 만에 ‘최저’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005724437"
     },
     {
-      "title": "\"처서 매직\" 일교차 큰 가을... 한우로 챙기는 영양과 입맛 [트렌드 레시피]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564895"
+      "title": "혁신도시에 6만명 내려보냈지만 … 충북만 GRDP 증가 효과",
+      "url": "https://n.news.naver.com/mnews/article/009/0005724577"
     },
     {
-      "title": "삼성전자, 최대 110조 원 사상 최대 주주환원…3분기 30조 원 현금배당",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949379"
+      "title": "서울시 \"김영배 '서리풀지구' 언급, 사실과 달라\" 반박",
+      "url": "https://n.news.naver.com/mnews/article/003/0014141814"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519358"
+      "title": "\"변동성 장세 지속…엔비디아 실적·잭슨홀 미팅 주목\" [주간전망]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323550"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1383.9,
-      "change": -6.89,
-      "change_pct": -0.5
+      "value": 1385.89,
+      "change": -4.9,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4624.1,
-    "price_krw": 6399292,
-    "change": 107.8,
-    "change_pct": 2.39
+    "price_usd": 4680.6,
+    "price_krw": 6486796,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-23 06:25",
+  "updated": "2026-08-24 06:25",
   "error": null
 }
