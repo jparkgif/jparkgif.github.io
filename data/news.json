@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "서울시, 모아주택 2031년까지 4만가구 착공…모아통합기획 도입",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323591"
+      "title": "LS일렉, 美 AI센터 2300억 전력설비 공급",
+      "url": "https://n.news.naver.com/mnews/article/015/0005324104"
     },
     {
-      "title": "임광현 \"고가 법인주택 42%는 '황제사택'…최고가 200억 넘어\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001382689"
+      "title": "이름·주민번호 바꾸셨어요? 금융사 1곳만 방문하면 OK",
+      "url": "https://n.news.naver.com/mnews/article/079/0004181369"
     },
     {
-      "title": "달러예금·골드 구매 증가… 주식 매매는 연중 최저",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152990"
+      "title": "재개발·재건축 권한 자치구 이양안에 서울시 “난개발 불보듯”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868741"
     },
     {
-      "title": "금융위 등 이전 내주 국무회의 심의 가능성…공공기관 반발 고조",
-      "url": "https://n.news.naver.com/mnews/article/001/0016265003"
+      "title": "박정성 신임 통상교섭본부장 \"한미FTA 버금가는 협력 판 만들 것\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519632"
     },
     {
-      "title": "‘갑 중의 갑’ 엔비디아도 못 버틴 메모리값…AI 서버 가격 15% 이상 올린다 [비즈360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687164"
+      "title": "디지털엑스 “1년 간 거래수수료 무료”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654341"
     },
     {
-      "title": "민주 \"북극항로 시범 운항 환영…해운·조선·물류 새 성장 동력 될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/057/0001965025"
+      "title": "삼성전자 7% '나홀로 급락'... \"주주환원 600조 전망\"까지 나왔는데, 왜",
+      "url": "https://n.news.naver.com/mnews/article/014/0005565382"
     },
     {
-      "title": "“요새 누가 술 마시나요”…주류출고량, 외환위기 이후 27년 만에 ‘최저’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005724437"
+      "title": "금감원·예보 노조 “조선소가 바다에 있어야 하듯 금융도 현장에 있어야···지방이전 안돼”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003466089"
     },
     {
-      "title": "혁신도시에 6만명 내려보냈지만 … 충북만 GRDP 증가 효과",
-      "url": "https://n.news.naver.com/mnews/article/009/0005724577"
+      "title": "서울시 \"시민 3명 중 2명 꼴 용산공원 내 공공주택 공급 반대\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016266510"
     },
     {
-      "title": "서울시 \"김영배 '서리풀지구' 언급, 사실과 달라\" 반박",
-      "url": "https://n.news.naver.com/mnews/article/003/0014141814"
+      "title": "원화 실질가치는 여전히 금융위기 수준",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868433"
     },
     {
-      "title": "\"변동성 장세 지속…엔비디아 실적·잭슨홀 미팅 주목\" [주간전망]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323550"
+      "title": "대한상의 초대 경제연구총괄에 이시욱 前 대외연 원장",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654616"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6912.95,
-      "change": 60.37,
-      "change_pct": 0.88
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 801.94,
-      "change": -38.95,
-      "change_pct": -4.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26180.46,
-      "change": 113.29,
-      "change_pct": 0.43
+      "value": 25980.19,
+      "change": -200.27,
+      "change_pct": -0.76
     },
     "usdkrw": {
-      "value": 1385.89,
-      "change": -4.9,
-      "change_pct": -0.35
+      "value": 1382.82,
+      "change": -7.97,
+      "change_pct": -0.57
     }
   },
   "gold": {
-    "price_usd": 4680.6,
-    "price_krw": 6486796,
+    "price_usd": 4710.0,
+    "price_krw": 6513082,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-24 06:25",
+  "updated": "2026-08-25 06:33",
   "error": null
 }
