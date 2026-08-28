@@ -1,10 +1,10 @@
 {
-  "temp": 24.9,
-  "condition": "27.2°",
-  "high": 31.0,
-  "low": 25.0,
+  "temp": 29.1,
+  "condition": "30.2°",
+  "high": 32.0,
+  "low": 26.0,
   "wind": "풍속m/s",
   "city": "서울",
-  "updated": "2026-08-27 09:34",
-  "error": "403 Client Error: Forbidden for url: https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+  "updated": "2026-08-28 14:09",
+  "error": null
 }

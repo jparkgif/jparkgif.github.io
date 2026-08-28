@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "근육량 지키고 감량 효과 오래가는 '비만치료제' 부상",
-      "url": "https://n.news.naver.com/mnews/article/014/0005566880"
+      "title": "‘네팔로 급파’ 두산에너빌리티 대표 “직원 구조에 최선 다하겠다”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188727"
     },
     {
-      "title": "\"공정위 기습조사, 적법절차 결여\" 美 하원 보고서에서 자신감 얻었나…법정으로 치닫는 쿠팡 vs 공정위[Why&Next]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005807525"
+      "title": "정부, 코로나 피해 소상공인 채무조정…“공동체가 재기 기회 줘야”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003547451"
     },
     {
-      "title": "\"아기 울음소리 늘었다\"…합계출산율 0.80명, 2년 연속 반등",
-      "url": "https://n.news.naver.com/mnews/article/277/0005807585"
+      "title": "SK하이닉스 “인디애나 팹, 'Made in USA' HBM 거점 될 것”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003461163"
     },
     {
-      "title": "7월 은행 주담대금리 4.48%…2년 8개월만 최고",
-      "url": "https://n.news.naver.com/mnews/article/003/0014149175"
+      "title": "서울시 '신통기획' 주민 참여·소통 강화…후속절차 신속 지원",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808424"
     },
     {
-      "title": "“디지털자산 150조원으로 키운다”…박현주 회장이 그린 ‘미래에셋 3.0’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005726351"
+      "title": "현대모비스, 5000억 상생보증",
+      "url": "https://n.news.naver.com/mnews/article/021/0002814663"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012245035"
+      "title": "FORHU·METACOM 'AI 동맹'… 여행·의료·법률·엔터 4대 AI플랫폼 상용화 협력",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567756"
     },
     {
-      "title": "카카오뱅크 노조, 총파업 철회…“주요 쟁점서 사측과 공감대”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003466727"
+      "title": "SSG닷컴, '신세계몰' 신설…인적분할로 사업 재편",
+      "url": "https://n.news.naver.com/mnews/article/421/0009135722"
     },
     {
-      "title": "산업 전기료 10% 내리면 지방갈까…실효성 없으면 한전 부담만↑(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016272633"
+      "title": "한은 \"7월 외화예금 150억 달러↑...역대 최대\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002399452"
     },
     {
-      "title": "엔비디아, AI 열풍에 또 최대 실적…분기 매출 962억 달러",
-      "url": "https://n.news.naver.com/mnews/article/025/0003547127"
+      "title": "건설사 폐업 3년새 24% 증가...‘금리 3%시대’ 줄도산 공포",
+      "url": "https://n.news.naver.com/mnews/article/016/0002689782"
     },
     {
-      "title": "SK바이오팜, 美뇌전증 신약에 1.1조 베팅…직판 다품목 체제 시동",
-      "url": "https://n.news.naver.com/mnews/article/008/0005405118"
+      "title": "삼성전자, '디지털고객경험지수' 종합가전 4년 연속 1위",
+      "url": "https://n.news.naver.com/mnews/article/001/0016275883"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6962.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 6821.28,
+      "change": -91.09,
+      "change_pct": -1.32
     },
     "kosdaq": {
-      "value": 831.62,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 839.92,
+      "change": 2.27,
+      "change_pct": 0.27
     },
     "nasdaq": {
-      "value": 26130.2,
-      "change": -21.1,
-      "change_pct": -0.08
+      "value": 26541.35,
+      "change": 411.15,
+      "change_pct": 1.57
     },
     "usdkrw": {
-      "value": 1379.68,
-      "change": -1.81,
-      "change_pct": -0.13
+      "value": 1376.18,
+      "change": -7.31,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4673.2,
-    "price_krw": 6447520,
-    "change": 35.1,
-    "change_pct": 0.76
+    "price_usd": 4636.6,
+    "price_krw": 6380796,
+    "change": 26.9,
+    "change_pct": 0.58
   },
-  "updated": "2026-08-27 09:34",
+  "updated": "2026-08-28 14:09",
   "error": null
 }
