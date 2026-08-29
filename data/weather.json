@@ -5,6 +5,6 @@
   "low": 26.0,
   "wind": "풍속m/s",
   "city": "서울",
-  "updated": "2026-08-28 14:09",
-  "error": null
+  "updated": "2026-08-29 12:06",
+  "error": "403 Client Error: Forbidden for url: https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
 }
