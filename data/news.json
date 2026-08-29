@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "삼성전자에 실망한 시장? 3분기 30조원 현금배당 뜯어보니[사이드B]",
-      "url": "https://n.news.naver.com/mnews/article/031/0001053476"
+      "title": "두산 박정원 회장, 현장 구조 지원 네팔로 출국",
+      "url": "https://n.news.naver.com/mnews/article/079/0004183756"
     },
     {
-      "title": "SK그룹, 집중호우 피해 복구에 성금 20억원 지원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005808779"
+      "title": "‘0세부터 34세까지’ 아이 한 명당 최대 약 2억 지원…정부, 청년 정책에 43조 쓴다 [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656345"
     },
     {
-      "title": "“호미로 막겠다” 한은, 금리 3%로 물가·집값 선제 대응 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656044"
+      "title": "보유만 해도 최대 70% 깎아준다?…강남 들썩이게 한 파격혜택 [안장원의 부동산 노트]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003547593"
     },
     {
-      "title": "두산·남동발전 대응팀, 네팔 도착…사고현장수색·직원귀환 '투트랙' 지원",
-      "url": "https://n.news.naver.com/mnews/article/082/0001395873"
+      "title": "5000만원 이하·7년 이상 채권 소각·조정… 20년 넘은 빚은 일괄 소각",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154613"
     },
     {
-      "title": "국민연금 국내주식 평가액, 두 달 만에 100조 줄었다…“진작에 리밸런싱 했으면”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003467045"
+      "title": "나혼자 산다 기타법인, 자사주 매입으로 홀로 코스피 지지",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727474"
     },
     {
-      "title": "韓총리 \"신속 해결 가능 규제는 리스트업해 즉시 해소할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016276236"
+      "title": "워시 연준의장, “미국 물가 우려”…추가 긴축 시사에 뉴욕증시 하락세",
+      "url": "https://n.news.naver.com/mnews/article/032/0003467131"
     },
     {
-      "title": "삼성바이오로직스, 3조원 유상 증자...스위스 기업 인수해 ‘펩타이드 의약품’ 시장 진출",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995406"
+      "title": "'이번 주말 나들이 갈 때 가득 채우세요'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000530039"
     },
     {
-      "title": "삼성, 경상권 수해 복구에 30억 지원…9개 계열사 동참",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656105"
+      "title": "빙하호·언색호·돌발홍수 뭐길래…네팔 덮친 '기후재난 도미노'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014155841"
     },
     {
-      "title": "비트코인, 8만달러 회복…피델리티 \"더 상승할 여력 충분\"[코인브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009137667"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002399885"
     },
     {
-      "title": "②빚 상환 어쩌나…취약차주 압박, 2금융권은 부실 '경고등'[금리 3% 후폭풍]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005808679"
+      "title": "대출 받았더니 신용점수 40점 넘게 올라…‘인뱅 갈아타기’ 놀라운 결과 [머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002690056"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 838.41,
+      "change": 0.76,
+      "change_pct": 0.09
     },
     "nasdaq": {
       "value": 26402.42,
@@ -58,9 +58,9 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1375.67,
-      "change": -7.82,
-      "change_pct": -0.57
+      "value": 1371.5,
+      "change": -8.95,
+      "change_pct": -0.65
     }
   },
   "gold": {
@@ -69,6 +69,6 @@
     "change": -105.6,
     "change_pct": -2.29
   },
-  "updated": "2026-08-29 12:06",
+  "updated": "2026-08-30 08:07",
   "error": null
 }
