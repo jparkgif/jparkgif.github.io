@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "두산 박정원 회장, 현장 구조 지원 네팔로 출국",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183756"
-    },
-    {
-      "title": "‘0세부터 34세까지’ 아이 한 명당 최대 약 2억 지원…정부, 청년 정책에 43조 쓴다 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656345"
-    },
-    {
-      "title": "보유만 해도 최대 70% 깎아준다?…강남 들썩이게 한 파격혜택 [안장원의 부동산 노트]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003547593"
-    },
-    {
-      "title": "5000만원 이하·7년 이상 채권 소각·조정… 20년 넘은 빚은 일괄 소각",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154613"
-    },
-    {
-      "title": "나혼자 산다 기타법인, 자사주 매입으로 홀로 코스피 지지",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727474"
-    },
-    {
-      "title": "워시 연준의장, “미국 물가 우려”…추가 긴축 시사에 뉴욕증시 하락세",
-      "url": "https://n.news.naver.com/mnews/article/032/0003467131"
-    },
-    {
-      "title": "'이번 주말 나들이 갈 때 가득 채우세요'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530039"
-    },
-    {
-      "title": "빙하호·언색호·돌발홍수 뭐길래…네팔 덮친 '기후재난 도미노'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014155841"
+      "title": "다시 긴축…한·일·유럽 이어 美도 금리인상 임박",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360583"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002399885"
+      "url": "https://n.news.naver.com/mnews/article/052/0002400047"
     },
     {
-      "title": "대출 받았더니 신용점수 40점 넘게 올라…‘인뱅 갈아타기’ 놀라운 결과 [머니뭐니]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690056"
+      "title": "한일 경제계, 저출산 해법 같이 찾는다… 최태원 등 센다이 집결",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995663"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000900765"
+    },
+    {
+      "title": "올해 20·30세대 신규일자리 역대 최소…취업해도 '월급 감소'",
+      "url": "https://n.news.naver.com/mnews/article/658/0000153859"
+    },
+    {
+      "title": "中CXMT, 美국방부에 소송…\"우린 군사기업 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360576"
+    },
+    {
+      "title": "\"내년 금리 3.5% 유의\"…李 대통령, 부동산에 '한은 카드' 꺼낸 까닭",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406741"
+    },
+    {
+      "title": "삼전닉스 상반기 법인세 11조 넘었다… 전년 대비 167%↑",
+      "url": "https://n.news.naver.com/mnews/article/656/0000185346"
+    },
+    {
+      "title": "식비가 더 뛰어… 저소득층에 더 가혹한 물가 상승",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154891"
+    },
+    {
+      "title": "\"우주산업 이끌 '한국판 스페이스X' 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326416"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1371.5,
-      "change": -8.95,
-      "change_pct": -0.65
+      "value": 1377.66,
+      "change": -2.79,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4515.9,
+    "price_krw": 6221374,
+    "change": 37.8,
+    "change_pct": 0.84
   },
-  "updated": "2026-08-30 08:07",
+  "updated": "2026-08-31 08:18",
   "error": null
 }
