@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "다시 긴축…한·일·유럽 이어 美도 금리인상 임박",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360583"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000901173"
+    },
+    {
+      "title": "비트코인, 1억800만원선…워시 발언에 상승세 '주춤'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014157531"
+    },
+    {
+      "title": "\"한화, KAI 15.89% 확보…의무공개매수 앞두고 추가 매수 전망\"-LS",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326992"
+    },
+    {
+      "title": "SK온, 美서 ESS용 배터리 1.5조원 규모 수주",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995931"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002400047"
+      "url": "https://n.news.naver.com/mnews/article/437/0000508670"
     },
     {
-      "title": "한일 경제계, 저출산 해법 같이 찾는다… 최태원 등 센다이 집결",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995663"
+      "title": "7월 생산·소비 주춤… 설비투자 홀로 뜀박질",
+      "url": "https://n.news.naver.com/mnews/article/008/0005407392"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900765"
+      "title": "홈플러스, 8월 재개장 후 매출 1164억… \"납품 제한에도 매출 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000951233"
     },
     {
-      "title": "올해 20·30세대 신규일자리 역대 최소…취업해도 '월급 감소'",
-      "url": "https://n.news.naver.com/mnews/article/658/0000153859"
+      "title": "코레일·SR 기관통합 마무리…내일 KTX·SRT 통합 운행 시작",
+      "url": "https://n.news.naver.com/mnews/article/001/0016279873"
     },
     {
-      "title": "中CXMT, 美국방부에 소송…\"우린 군사기업 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360576"
+      "title": "LG엔솔, 10년간 美 탄산리튬 8만톤 확보…북미 LFP 공급망 강화",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089821"
     },
     {
-      "title": "\"내년 금리 3.5% 유의\"…李 대통령, 부동산에 '한은 카드' 꺼낸 까닭",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406741"
-    },
-    {
-      "title": "삼전닉스 상반기 법인세 11조 넘었다… 전년 대비 167%↑",
-      "url": "https://n.news.naver.com/mnews/article/656/0000185346"
-    },
-    {
-      "title": "식비가 더 뛰어… 저소득층에 더 가혹한 물가 상승",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154891"
-    },
-    {
-      "title": "\"우주산업 이끌 '한국판 스페이스X' 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326416"
+      "title": "현대차 노조, 임금협상 합의안 찬반투표 돌입",
+      "url": "https://n.news.naver.com/mnews/article/422/0000901105"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6788.88,
-      "change": -123.49,
-      "change_pct": -1.79
+      "value": 6766.31,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 838.41,
-      "change": 0.76,
-      "change_pct": 0.09
+      "value": 826.74,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26402.42,
-      "change": -138.93,
-      "change_pct": -0.52
+      "value": 26370.89,
+      "change": -31.53,
+      "change_pct": -0.12
     },
     "usdkrw": {
-      "value": 1377.66,
-      "change": -2.79,
-      "change_pct": -0.2
+      "value": 1364.68,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4515.9,
-    "price_krw": 6221374,
-    "change": 37.8,
-    "change_pct": 0.84
+    "price_usd": 4502.3,
+    "price_krw": 6144198,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-31 08:18",
+  "updated": "2026-09-01 09:27",
   "error": null
 }
