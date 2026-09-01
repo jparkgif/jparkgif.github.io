@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "파업 여파에 현대차 8월 실적 ‘급감’… 기아는 ‘고공행진’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001870343"
+    },
+    {
+      "title": "국토부, 내년 예산 69조…'보편형 임대' 6조 신설 [2027년 예산안]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327158"
+    },
+    {
+      "title": "공정위 '빈손 철수' 일주일 만에 쿠팡 현장조사…가처분 심문 하루 전 10년 치 자료 요구",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810285"
+    },
+    {
+      "title": "美 멕시칸 음식 전문점 치폴레 아시아 첫 매장 강남에 열어",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728907"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901173"
+      "url": "https://n.news.naver.com/mnews/article/055/0001385051"
     },
     {
-      "title": "비트코인, 1억800만원선…워시 발언에 상승세 '주춤'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014157531"
+      "title": "‘칩만 잘 만드는 시대’는 끝… 곧 2조 달러 판 커진 반도체 전쟁",
+      "url": "https://n.news.naver.com/mnews/article/025/0003548319"
     },
     {
-      "title": "\"한화, KAI 15.89% 확보…의무공개매수 앞두고 추가 매수 전망\"-LS",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326992"
+      "title": "비거주 1주택 종부세 공제 9억원→12억원으로 다시 높여…세 부담 상한선도 200%로 올리기로 했던 계획 수정해 현재의 150% 유지",
+      "url": "https://n.news.naver.com/mnews/article/087/0001214893"
     },
     {
-      "title": "SK온, 美서 ESS용 배터리 1.5조원 규모 수주",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995931"
+      "title": "개인 주춤한 자리에 55조 자사주…9월 증시 큰 손 '기타법인'이 받칠까",
+      "url": "https://n.news.naver.com/mnews/article/088/0001026090"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000508670"
+      "title": "뉴욕증시, 유가·국채금리 급등에 일제히 하락 마감…나스닥 1.03%↓",
+      "url": "https://n.news.naver.com/mnews/article/123/0002389432"
     },
     {
-      "title": "7월 생산·소비 주춤… 설비투자 홀로 뜀박질",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407392"
-    },
-    {
-      "title": "홈플러스, 8월 재개장 후 매출 1164억… \"납품 제한에도 매출 유지\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000951233"
-    },
-    {
-      "title": "코레일·SR 기관통합 마무리…내일 KTX·SRT 통합 운행 시작",
-      "url": "https://n.news.naver.com/mnews/article/001/0016279873"
-    },
-    {
-      "title": "LG엔솔, 10년간 美 탄산리튬 8만톤 확보…북미 LFP 공급망 강화",
-      "url": "https://n.news.naver.com/mnews/article/293/0000089821"
-    },
-    {
-      "title": "현대차 노조, 임금협상 합의안 찬반투표 돌입",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901105"
+      "title": "홈플러스 회생안, 내일 표결…'납품대금 변제'가 최대 변수",
+      "url": "https://n.news.naver.com/mnews/article/422/0000901483"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6766.31,
+      "value": 6820.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 826.74,
+      "value": 834.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26370.89,
-      "change": -31.53,
-      "change_pct": -0.12
+      "value": 26099.77,
+      "change": -271.12,
+      "change_pct": -1.03
     },
     "usdkrw": {
-      "value": 1364.68,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1374.59,
+      "change": 7.97,
+      "change_pct": 0.58
     }
   },
   "gold": {
-    "price_usd": 4502.3,
-    "price_krw": 6144198,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4375.7,
+    "price_krw": 6014793,
+    "change": -55.4,
+    "change_pct": -1.25
   },
-  "updated": "2026-09-01 09:27",
+  "updated": "2026-09-02 08:09",
   "error": null
 }
