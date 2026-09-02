@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "파업 여파에 현대차 8월 실적 ‘급감’… 기아는 ‘고공행진’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001870343"
+      "title": "뉴욕증시, 국채금리 상승세 진정에 반등…다우 0.56%↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014165561"
     },
     {
-      "title": "국토부, 내년 예산 69조…'보편형 임대' 6조 신설 [2027년 예산안]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327158"
+      "title": "알테오젠, 노바티스와 최대 4.4조원 규모 피하주사 개발 계약",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996276"
     },
     {
-      "title": "공정위 '빈손 철수' 일주일 만에 쿠팡 현장조사…가처분 심문 하루 전 10년 치 자료 요구",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810285"
+      "title": "'12% 급락' 4만원도 내줬다…美진출 호재 불구 두산퓨얼셀↓",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264564"
     },
     {
-      "title": "美 멕시칸 음식 전문점 치폴레 아시아 첫 매장 강남에 열어",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728907"
+      "title": "법원, 홈플러스 회생계획안 인가",
+      "url": "https://n.news.naver.com/mnews/article/009/0005729576"
+    },
+    {
+      "title": "8월 물가, 두달만에 3%대…SKT ‘반값 요금’ 기저효과",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745153"
+    },
+    {
+      "title": "IR임원이 미공개 ‘신약 호재’로 2000만 원 벌어…증선위, 수사기관 통보",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657986"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385051"
+      "url": "https://n.news.naver.com/mnews/article/422/0000902014"
     },
     {
-      "title": "‘칩만 잘 만드는 시대’는 끝… 곧 2조 달러 판 커진 반도체 전쟁",
-      "url": "https://n.news.naver.com/mnews/article/025/0003548319"
+      "title": "고속철도 통합 첫날 21.3만명 이용…수서축 좌석 30.5%↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009147223"
     },
     {
-      "title": "비거주 1주택 종부세 공제 9억원→12억원으로 다시 높여…세 부담 상한선도 200%로 올리기로 했던 계획 수정해 현재의 150% 유지",
-      "url": "https://n.news.naver.com/mnews/article/087/0001214893"
+      "title": "정용진 \"청담동 '아만 서울', 호텔 넘어 하이엔드의 새 이정표\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004185201"
     },
     {
-      "title": "개인 주춤한 자리에 55조 자사주…9월 증시 큰 손 '기타법인'이 받칠까",
-      "url": "https://n.news.naver.com/mnews/article/088/0001026090"
-    },
-    {
-      "title": "뉴욕증시, 유가·국채금리 급등에 일제히 하락 마감…나스닥 1.03%↓",
-      "url": "https://n.news.naver.com/mnews/article/123/0002389432"
-    },
-    {
-      "title": "홈플러스 회생안, 내일 표결…'납품대금 변제'가 최대 변수",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901483"
+      "title": "“한국이 수소차 선도”…국회 수소경제포럼, 현대차·기아 남양연구소 방문",
+      "url": "https://n.news.naver.com/mnews/article/009/0005729314"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.59,
-      "change": 7.97,
-      "change_pct": 0.58
+      "value": 1359.18,
+      "change": -13.68,
+      "change_pct": -1.0
     }
   },
   "gold": {
-    "price_usd": 4375.7,
-    "price_krw": 6014793,
-    "change": -55.4,
-    "change_pct": -1.25
+    "price_usd": 4429.8,
+    "price_krw": 6020895,
+    "change": 81.8,
+    "change_pct": 1.88
   },
-  "updated": "2026-09-02 08:09",
+  "updated": "2026-09-03 08:08",
   "error": null
 }
