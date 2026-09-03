@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "뉴욕증시, 국채금리 상승세 진정에 반등…다우 0.56%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014165561"
+      "title": "금리인상 우려 완화에 뉴욕증시 3대 지수 1%대 상승",
+      "url": "https://n.news.naver.com/mnews/article/031/0001055333"
     },
     {
-      "title": "알테오젠, 노바티스와 최대 4.4조원 규모 피하주사 개발 계약",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996276"
+      "title": "정부 \"영업이익 N% 성과급, 노동쟁의 대상 아냐\"…노사 자율협의는 가능",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811551"
     },
     {
-      "title": "'12% 급락' 4만원도 내줬다…美진출 호재 불구 두산퓨얼셀↓",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264564"
+      "title": "투썸플레이스 ‘스초생’ 들고 미국 간다…다음 달 첫 매장",
+      "url": "https://n.news.naver.com/mnews/article/082/0001396744"
     },
     {
-      "title": "법원, 홈플러스 회생계획안 인가",
-      "url": "https://n.news.naver.com/mnews/article/009/0005729576"
+      "title": "부채 20조 석유公 안은 가스公… 발전 5사는 통폐합",
+      "url": "https://n.news.naver.com/mnews/article/005/0001870798"
     },
     {
-      "title": "8월 물가, 두달만에 3%대…SKT ‘반값 요금’ 기저효과",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745153"
+      "title": "원·달러, 1359.3원 마감…14개월여만 최저(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014167795"
     },
     {
-      "title": "IR임원이 미공개 ‘신약 호재’로 2000만 원 벌어…증선위, 수사기관 통보",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657986"
+      "title": "산불 피해복구 ‘유령 입찰’ 10곳 세무조사",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658276"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000902014"
+      "title": "산업부 \"미국 4개 기업 20억 달러 투자 유치\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002402491"
     },
     {
-      "title": "고속철도 통합 첫날 21.3만명 이용…수서축 좌석 30.5%↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009147223"
+      "title": "\"이 시간에 충전해야겠네\"…전기차 오너들 솔깃할 소식",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328297"
     },
     {
-      "title": "정용진 \"청담동 '아만 서울', 호텔 넘어 하이엔드의 새 이정표\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004185201"
+      "title": "LG전자, IFA서 'AI홈' 확장…가전 넘어 집 전체 연결",
+      "url": "https://n.news.naver.com/mnews/article/031/0001055052"
     },
     {
-      "title": "“한국이 수소차 선도”…국회 수소경제포럼, 현대차·기아 남양연구소 방문",
-      "url": "https://n.news.naver.com/mnews/article/009/0005729314"
+      "title": "발전·항만·에너지 공공기관 대대적 통폐합…LH는 '개발·주거' 분리",
+      "url": "https://n.news.naver.com/mnews/article/055/0001385637"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6835.8,
+      "value": 6562.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 821.25,
+      "value": 803.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45
+      "value": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4
     },
     "usdkrw": {
-      "value": 1359.18,
-      "change": -13.68,
-      "change_pct": -1.0
+      "value": 1356.14,
+      "change": -2.25,
+      "change_pct": -0.17
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 6020895,
-    "change": 81.8,
-    "change_pct": 1.88
+    "price_usd": 4521.4,
+    "price_krw": 6131651,
+    "change": 155.1,
+    "change_pct": 3.55
   },
-  "updated": "2026-09-03 08:08",
+  "updated": "2026-09-04 08:05",
   "error": null
 }
