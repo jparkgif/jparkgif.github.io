@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "금리인상 우려 완화에 뉴욕증시 3대 지수 1%대 상승",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055333"
+      "title": "불꽃축제 앞두고 여의도·한강 일대 배달 제한…배달앱 3사 서비스 조정",
+      "url": "https://n.news.naver.com/mnews/article/018/0006363941"
     },
     {
-      "title": "정부 \"영업이익 N% 성과급, 노동쟁의 대상 아냐\"…노사 자율협의는 가능",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811551"
+      "title": "\"나 이제 퇴근해\" 카톡 보내면…AI 비서 \"에어컨 26도로 켜둘게요\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328673"
     },
     {
-      "title": "투썸플레이스 ‘스초생’ 들고 미국 간다…다음 달 첫 매장",
-      "url": "https://n.news.naver.com/mnews/article/082/0001396744"
+      "title": "중기부, 제조AI 실무인력 1600명으로…\"지역 청년 유입 늘린다\"",
+      "url": "https://n.news.naver.com/mnews/article/138/0002240213"
     },
     {
-      "title": "부채 20조 석유公 안은 가스公… 발전 5사는 통폐합",
-      "url": "https://n.news.naver.com/mnews/article/005/0001870798"
+      "title": "금감원 노조 \"금융중심지 서울에 남아야\"…청와대에 탄원서 제출",
+      "url": "https://n.news.naver.com/mnews/article/055/0001385951"
     },
     {
-      "title": "원·달러, 1359.3원 마감…14개월여만 최저(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014167795"
+      "title": "상폐기준 강화 늦춘다...'코스피 500억·코스닥 300억'은 내년 7월부터",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050484"
     },
     {
-      "title": "산불 피해복구 ‘유령 입찰’ 10곳 세무조사",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658276"
+      "title": "월러 연준 이사 \"물가 이변 없으면 동결\"…美연준 9월 금리 셈법 복잡",
+      "url": "https://n.news.naver.com/mnews/article/014/0005570909"
     },
     {
-      "title": "산업부 \"미국 4개 기업 20억 달러 투자 유치\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002402491"
+      "title": "“내년 주식·채권·펀드까지 토큰화”…토큰증권 3단계 로드맵 공개",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730314"
     },
     {
-      "title": "\"이 시간에 충전해야겠네\"…전기차 오너들 솔깃할 소식",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328297"
+      "title": "'지방 이전 반대'…금융노조, 오늘 광화문서 총파업 집회",
+      "url": "https://n.news.naver.com/mnews/article/421/0009150527"
     },
     {
-      "title": "LG전자, IFA서 'AI홈' 확장…가전 넘어 집 전체 연결",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055052"
+      "title": "7월 경상수지 421억弗 흑자…상반기 세계 2위",
+      "url": "https://n.news.naver.com/mnews/article/016/0002692856"
     },
     {
-      "title": "발전·항만·에너지 공공기관 대대적 통폐합…LH는 '개발·주거' 분리",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385637"
+      "title": "HD현대·롯데 통합 ‘H＆L 어드밴스드’ 출범… 석화 사업재편 첫 결실",
+      "url": "https://n.news.naver.com/mnews/article/081/0003676813"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1356.14,
-      "change": -2.25,
-      "change_pct": -0.17
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4521.4,
-    "price_krw": 6131651,
-    "change": 155.1,
-    "change_pct": 3.55
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 08:05",
+  "updated": "2026-09-05 07:53",
   "error": null
 }
