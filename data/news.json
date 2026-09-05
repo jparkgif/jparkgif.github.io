@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "불꽃축제 앞두고 여의도·한강 일대 배달 제한…배달앱 3사 서비스 조정",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363941"
+      "title": "“노사 합의 끝났는데 또 집회”…삼성전자 DX 노조, 이재용 자택 앞 장기전 예고",
+      "url": "https://n.news.naver.com/mnews/article/029/0003046226"
     },
     {
-      "title": "\"나 이제 퇴근해\" 카톡 보내면…AI 비서 \"에어컨 26도로 켜둘게요\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328673"
+      "title": "“주식이랑 완전히 반대로 가는건가요?”…비트코인, 최근 상승세 봤더니",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730747"
     },
     {
-      "title": "중기부, 제조AI 실무인력 1600명으로…\"지역 청년 유입 늘린다\"",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240213"
+      "title": "기름값 하락세 언제까지…국제유가 급등 '변수'",
+      "url": "https://n.news.naver.com/mnews/article/422/0000903031"
     },
     {
-      "title": "금감원 노조 \"금융중심지 서울에 남아야\"…청와대에 탄원서 제출",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385951"
+      "title": "\"벌써 작년 연간 수출액 넘어\"…李 대통령, 관세청장 보고 전달",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329001"
     },
     {
-      "title": "상폐기준 강화 늦춘다...'코스피 500억·코스닥 300억'은 내년 7월부터",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050484"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/057/0001967415"
     },
     {
-      "title": "월러 연준 이사 \"물가 이변 없으면 동결\"…美연준 9월 금리 셈법 복잡",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570909"
+      "title": "‘농심 3세’ 신상열 부사장, SK텔레콤 직원과 13일 결혼",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190488"
     },
     {
-      "title": "“내년 주식·채권·펀드까지 토큰화”…토큰증권 3단계 로드맵 공개",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730314"
+      "title": "김정관 \"루이지애나 제철소, 한미 산업협력 상징\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000637611"
     },
     {
-      "title": "'지방 이전 반대'…금융노조, 오늘 광화문서 총파업 집회",
-      "url": "https://n.news.naver.com/mnews/article/421/0009150527"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000903188"
     },
     {
-      "title": "7월 경상수지 421억弗 흑자…상반기 세계 2위",
-      "url": "https://n.news.naver.com/mnews/article/016/0002692856"
+      "title": "서학개미, 9월 개별 반도체주 대거 매도…'3배' 속슬은 매수",
+      "url": "https://n.news.naver.com/mnews/article/001/0016292044"
     },
     {
-      "title": "HD현대·롯데 통합 ‘H＆L 어드밴스드’ 출범… 석화 사업재편 첫 결실",
-      "url": "https://n.news.naver.com/mnews/article/081/0003676813"
+      "title": "\"하룻밤 불꽃에 130억\"…한화가 20년 넘게 축제 여는 이유",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329023"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6687.21,
+      "change": 107.73,
+      "change_pct": 1.64
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 813.5,
+      "change": 23.29,
+      "change_pct": 2.95
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.99,
-      "change": -12.4,
-      "change_pct": -0.91
+      "value": 1351.1,
+      "change": -4.31,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4477.2,
-    "price_krw": 6026266,
-    "change": -14.5,
-    "change_pct": -0.32
+    "price_usd": 4429.8,
+    "price_krw": 5985102,
+    "change": -61.9,
+    "change_pct": -1.38
   },
-  "updated": "2026-09-05 07:53",
+  "updated": "2026-09-06 07:42",
   "error": null
 }
