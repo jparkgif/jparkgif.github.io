@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "“노사 합의 끝났는데 또 집회”…삼성전자 DX 노조, 이재용 자택 앞 장기전 예고",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046226"
+      "title": "美 빅테크 만난다...LG전자, 로봇 부품 수주전 본격화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658966"
     },
     {
-      "title": "“주식이랑 완전히 반대로 가는건가요?”…비트코인, 최근 상승세 봤더니",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730747"
+      "title": "“1600원에 1만 달러 샀다면 두 달 새 254만원 손실”…환율 급락에도 달러예금 ‘역대 최대’ [뭐니머니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002693389"
     },
     {
-      "title": "기름값 하락세 언제까지…국제유가 급등 '변수'",
-      "url": "https://n.news.naver.com/mnews/article/422/0000903031"
+      "title": "수도권 공공기관 168곳 지방행…떠난 자리 ‘주택 공급’ 카드 되나",
+      "url": "https://n.news.naver.com/mnews/article/081/0003677186"
     },
     {
-      "title": "\"벌써 작년 연간 수출액 넘어\"…李 대통령, 관세청장 보고 전달",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329001"
+      "title": "가계대출 반년 만에 줄어…정책대출 빼면 증가세 지속",
+      "url": "https://n.news.naver.com/mnews/article/374/0000531385"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/057/0001967415"
+      "title": "코트라, 프랑크푸르트서 K컬처 축제…1만명 다녀가",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468797"
     },
     {
-      "title": "‘농심 3세’ 신상열 부사장, SK텔레콤 직원과 13일 결혼",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190488"
+      "title": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 맞손",
+      "url": "https://n.news.naver.com/mnews/article/001/0016292165"
     },
     {
-      "title": "김정관 \"루이지애나 제철소, 한미 산업협력 상징\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000637611"
+      "title": "추석 맞아 원산지 표시 집중단속…갈비·과일·나물류 점검",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409941"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000903188"
+      "title": "LH 쪼개는 시기에 착공 2배로…‘연 10만가구’ 속도전 변수",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364606"
     },
     {
-      "title": "서학개미, 9월 개별 반도체주 대거 매도…'3배' 속슬은 매수",
-      "url": "https://n.news.naver.com/mnews/article/001/0016292044"
+      "title": "집값 계속 오르면 2030년 서울 22개구 종부세 과세권",
+      "url": "https://n.news.naver.com/mnews/article/003/0014171944"
     },
     {
-      "title": "\"하룻밤 불꽃에 130억\"…한화가 20년 넘게 축제 여는 이유",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329023"
+      "title": "\"야구장 가면 치맥\"이 아니라고?…치킨 제치고 1위 오른 '이 음식'",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061294"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1351.1,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1345.48,
+      "change": -9.93,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 5985102,
-    "change": -61.9,
-    "change_pct": -1.38
+    "price_usd": 4476.6,
+    "price_krw": 6023175,
+    "change": 46.8,
+    "change_pct": 1.06
   },
-  "updated": "2026-09-06 07:42",
+  "updated": "2026-09-07 07:48",
   "error": null
 }
