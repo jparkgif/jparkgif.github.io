@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“삼전닉스, 메모리 재고 10일치도 안돼”…KB증권 “강력한 재평가 기대”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731469"
+      "title": "장기전세 연장 요구, 오세훈 \"비양심적 억지\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000531765"
     },
     {
-      "title": "쿠팡이츠 손잡은 롯데슈퍼 “주문후 1시간 안에 배송”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693477"
+      "title": "영끌족 한계 왔나…주담대 연체 3년반 만에 2.2배",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871569"
     },
     {
-      "title": "직방 \"최근 1년간 아파트값 가장 많이 오른 지역은 분당\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403609"
+      "title": "HMM, 브라질 ‘발레’와 4.7조 규모 장기운송계약 체결…“성장 중심 사업 확대”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002694241"
     },
     {
-      "title": "“달러 강세도 눌렀다”…원·달러 1340.5원, 23개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240490"
+      "title": "“1~2년 만에 입주 가능”…이성훈 LH 사장, 서울 도심 신축매입 공급 속도전",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732168"
     },
     {
-      "title": "현대위아, 기아 공장 완전 무인지게차 투입…내년 5월",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531484"
+      "title": "달러당 153엔 진입…캐리 청산 겹쳐 엔화 7개월래 최강세 지속",
+      "url": "https://n.news.naver.com/mnews/article/421/0009157056"
     },
     {
-      "title": "나이키 주가 최고점 대비 78% 하락…S&P100 지수에서도 제외",
-      "url": "https://n.news.naver.com/mnews/article/056/0012252764"
+      "title": "한투증권, 퇴직연금 개인투자용 국채 출시…9일부터 판매",
+      "url": "https://n.news.naver.com/mnews/article/003/0014176067"
     },
     {
-      "title": "KB국민·신한·하나·우리은행, 역대급 실적에도 신입은 안 뽑는 이유",
-      "url": "https://n.news.naver.com/mnews/article/005/0001871289"
+      "title": "식약처, 안구건조증 치료제 ‘라티카점안액’ 국산 44호 신약 허가",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191116"
     },
     {
-      "title": "보증3사, 전세금 떼먹은 집주인 10월부터 ‘전세보증 발급’ 금지",
-      "url": "https://n.news.naver.com/mnews/article/028/0002821923"
+      "title": "주총 하루 앞…8개 자문사, 고려아연 추천 감사위원 찬성 의견",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746479"
     },
     {
-      "title": "현대제철 美 제철소 수장 \"5.4조 매출 목표…140만톤 수요 확보\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005410122"
+      "title": "농식품부·식품업계, 추석 전 라면·만두 등 식품 최대 64% 할인",
+      "url": "https://n.news.naver.com/mnews/article/656/0000186264"
     },
     {
-      "title": "한화, 폴란드 방산展 MSPO 참가…\"육해공·우주 토탈 설루션 제시\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009154977"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386824"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6687.21,
+      "value": 6995.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.5,
+      "value": 822.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29
+      "value": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1344.75,
-      "change": -0.31,
-      "change_pct": -0.02
+      "value": 1340.55,
+      "change": -3.02,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4456.1,
-    "price_krw": 5992340,
-    "change": 26.3,
-    "change_pct": 0.59
+    "price_usd": 4396.4,
+    "price_krw": 5893593,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-08 08:21",
+  "updated": "2026-09-09 08:15",
   "error": null
 }
