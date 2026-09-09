@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "장기전세 연장 요구, 오세훈 \"비양심적 억지\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531765"
+      "title": "고려아연 감사위원, 최윤범 측 선임…이사회 격차 벌려(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005814036"
     },
     {
-      "title": "영끌족 한계 왔나…주담대 연체 3년반 만에 2.2배",
-      "url": "https://n.news.naver.com/mnews/article/005/0001871569"
+      "title": "LG이노텍, KPCA쇼서 AI 반도체 기판 기술 공개…FC-BGA 내년 양산",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573280"
     },
     {
-      "title": "HMM, 브라질 ‘발레’와 4.7조 규모 장기운송계약 체결…“성장 중심 사업 확대”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002694241"
-    },
-    {
-      "title": "“1~2년 만에 입주 가능”…이성훈 LH 사장, 서울 도심 신축매입 공급 속도전",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732168"
-    },
-    {
-      "title": "달러당 153엔 진입…캐리 청산 겹쳐 엔화 7개월래 최강세 지속",
-      "url": "https://n.news.naver.com/mnews/article/421/0009157056"
-    },
-    {
-      "title": "한투증권, 퇴직연금 개인투자용 국채 출시…9일부터 판매",
-      "url": "https://n.news.naver.com/mnews/article/003/0014176067"
-    },
-    {
-      "title": "식약처, 안구건조증 치료제 ‘라티카점안액’ 국산 44호 신약 허가",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191116"
-    },
-    {
-      "title": "주총 하루 앞…8개 자문사, 고려아연 추천 감사위원 찬성 의견",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746479"
-    },
-    {
-      "title": "농식품부·식품업계, 추석 전 라면·만두 등 식품 최대 64% 할인",
-      "url": "https://n.news.naver.com/mnews/article/656/0000186264"
+      "title": "33거래일만에 7000피…중동 악재 걷어찬 ‘아스트라’[마켓뷰]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191349"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386824"
+      "url": "https://n.news.naver.com/mnews/article/214/0001522925"
+    },
+    {
+      "title": "“추석 물가 잡아라”... 농축수산물 할인예산 2배로 확대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732730"
+    },
+    {
+      "title": "2분기 기업 성장성·수익성 역대 최고…안정성도 개선",
+      "url": "https://n.news.naver.com/mnews/article/003/0014179304"
+    },
+    {
+      "title": "삼전노조, 위원장 장인회사 계약 논란…최승호 \"부당이익 없다\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000904418"
+    },
+    {
+      "title": "경찰 압수수색 영장 받고도 몰랐다…기업은행, 182억 대출사기 눈뜨고 당해",
+      "url": "https://n.news.naver.com/mnews/article/022/0004157569"
+    },
+    {
+      "title": "조정식·최태원 손잡고 경제대도약委 출범…현안 상시 협력",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659999"
+    },
+    {
+      "title": "가계대출 진정되나 했더니…주담대 다시 4조원 늘며 ‘꿈틀’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550165"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.55,
-      "change": -3.02,
-      "change_pct": -0.22
+      "value": 1339.46,
+      "change": 0.25,
+      "change_pct": 0.02
     }
   },
   "gold": {
-    "price_usd": 4396.4,
-    "price_krw": 5893593,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4443.0,
+    "price_krw": 5951220,
+    "change": 49.1,
+    "change_pct": 1.12
   },
-  "updated": "2026-09-09 08:15",
+  "updated": "2026-09-10 08:04",
   "error": null
 }
