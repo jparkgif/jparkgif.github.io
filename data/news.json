@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "고려아연 감사위원, 최윤범 측 선임…이사회 격차 벌려(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005814036"
+      "title": "방미 김정관 산업부 장관 \"대미투자 최종 서명 전까지 협상\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412309"
     },
     {
-      "title": "LG이노텍, KPCA쇼서 AI 반도체 기판 기술 공개…FC-BGA 내년 양산",
-      "url": "https://n.news.naver.com/mnews/article/014/0005573280"
+      "title": "노조원들 반발 줄어들까… SK하이닉스 노조 수정 잠정합의안 다시 도출",
+      "url": "https://n.news.naver.com/mnews/article/022/0004157940"
     },
     {
-      "title": "33거래일만에 7000피…중동 악재 걷어찬 ‘아스트라’[마켓뷰]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191349"
+      "title": "기아, 대형 PBV ‘PV7’ 출격…유럽서 최초 공개",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660426"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001522925"
+      "title": "공실률 43.5% 지식산업센터…청년 임대주택으로",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047359"
     },
     {
-      "title": "“추석 물가 잡아라”... 농축수산물 할인예산 2배로 확대",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732730"
+      "title": "KB금융, 블룸버그와 맞손…글로벌 경쟁력 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412233"
     },
     {
-      "title": "2분기 기업 성장성·수익성 역대 최고…안정성도 개선",
-      "url": "https://n.news.naver.com/mnews/article/003/0014179304"
+      "title": "농협, 추석 앞두고 할인행사에 877억 투입한다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005574049"
     },
     {
-      "title": "삼전노조, 위원장 장인회사 계약 논란…최승호 \"부당이익 없다\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000904418"
+      "title": "[속보]美30년물 국채금리 5.35%…10년물도 4.9% 돌파",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265593"
     },
     {
-      "title": "경찰 압수수색 영장 받고도 몰랐다…기업은행, 182억 대출사기 눈뜨고 당해",
-      "url": "https://n.news.naver.com/mnews/article/022/0004157569"
+      "title": "초기업노조, DS 노조로 전환 투표…DX와 분리수순",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550340"
     },
     {
-      "title": "조정식·최태원 손잡고 경제대도약委 출범…현안 상시 협력",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659999"
+      "title": "한국거래소, 14일부터 '애프터마켓'…넥스트레이드와 야간 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/018/0006367162"
     },
     {
-      "title": "가계대출 진정되나 했더니…주담대 다시 4조원 늘며 ‘꿈틀’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550165"
+      "title": "양치부터 치간 세정까지…다이슨 '카메라젯' 국내 첫 공개",
+      "url": "https://n.news.naver.com/mnews/article/421/0009162151"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6954.52,
+      "value": 7051.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 811.88,
+      "value": 830.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26253.34,
-      "change": -168.07,
-      "change_pct": -0.64
+      "value": 26081.72,
+      "change": -171.62,
+      "change_pct": -0.65
     },
     "usdkrw": {
-      "value": 1339.46,
-      "change": 0.25,
-      "change_pct": 0.02
+      "value": 1349.3,
+      "change": 10.13,
+      "change_pct": 0.76
     }
   },
   "gold": {
-    "price_usd": 4443.0,
-    "price_krw": 5951220,
-    "change": 49.1,
-    "change_pct": 1.12
+    "price_usd": 4359.1,
+    "price_krw": 5881733,
+    "change": -56.9,
+    "change_pct": -1.29
   },
-  "updated": "2026-09-10 08:04",
+  "updated": "2026-09-11 08:00",
   "error": null
 }
