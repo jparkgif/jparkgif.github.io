@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "유가·美 국채금리 급등…원·달러, 1340원대 후반 등락",
-      "url": "https://n.news.naver.com/mnews/article/003/0014183849"
+      "title": "삼성 따라 ‘여권형’으로 접은 애플…100만원 비싼 배짱 통할까 [정길준의 위클리 성지]",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102952"
     },
     {
-      "title": "국토차관 \"LH 조직 분리돼도 본사는 진주…직원 불이익 없어야\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265692"
+      "title": "뉴욕증시, 5일 만에 숨통…엔비디아 등 반도체는 약세",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047532"
     },
     {
-      "title": "\"중복사업 많고 국회 통제 느슨\"…미래대응기금 비판한 KDI·학계",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331345"
+      "title": "추석 앞두고 배 공급 3.5배 확대…농축산물 할인에 1490억원 투입",
+      "url": "https://n.news.naver.com/mnews/article/016/0002696340"
     },
     {
-      "title": "LG AI연구원, 국민연금공단과 '기금운용 특화 AI' 공동 개발",
-      "url": "https://n.news.naver.com/mnews/article/119/0003131801"
+      "title": "노란봉투법 가장 비싼 청구서, 임금도 성과급도 아니다",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102975"
     },
     {
-      "title": "삼성E&A, '4.7조 규모' 사우디 비료 플랜트 프로젝트 수주",
-      "url": "https://n.news.naver.com/mnews/article/079/0004188545"
+      "title": "“빚뿐이라더니?”…상속포기 되돌릴 수 있나요 [상속리포트]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003747635"
     },
     {
-      "title": "통상본부장, 영국에 러시아LNG 수입제재·신철강조치 개선 요청",
-      "url": "https://n.news.naver.com/mnews/article/056/0012255746"
+      "title": "\"호르무즈 뚫리나\" 숨고르기 들어간 기름값…그래도 배럴당 100달러",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412727"
     },
     {
-      "title": "애플, 첫 폴더블 아이폰 들고 \"혁신\"…갤럭시와 비교하니 '글쎄'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004188230"
+      "title": "무언의 경고 있었다?…‘CEO 현직 불패’ 공식 깬 KB 반전 배경",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550841"
     },
     {
-      "title": "'1000가구 건설' 염창공원 주민설명회, 주민 반발로 무산…서울 유일 신규택지 공급 '삐걱'",
-      "url": "https://n.news.naver.com/mnews/article/437/0000510777"
+      "title": "\"환율 내렸는데 왜?\"…미장서 발 빼는 서학개미",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265763"
     },
     {
-      "title": "'41년 장학사업' 귀뚜라미, 과학기술원에 2억",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331446"
+      "title": "김정관 산업부 장관 오늘 귀국...대미투자 협상 결과 주목",
+      "url": "https://n.news.naver.com/mnews/article/052/0002406253"
     },
     {
-      "title": "대한항공 타면 공짜로 넷플릭스…스타링크 와이파이 무료로 푼다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003131532"
+      "title": "이형일 \"재정 적극적 역할 필요…지속 가능성에도 공감\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306194"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6909.91,
+      "change": -124.01,
+      "change_pct": -1.76
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 820.64,
+      "change": -16.28,
+      "change_pct": -1.95
     },
     "nasdaq": {
       "value": 26333.04,
-      "change": 251.31,
+      "change": 251.32,
       "change_pct": 0.96
     },
     "usdkrw": {
       "value": 1341.05,
-      "change": 1.88,
-      "change_pct": 0.14
+      "change": -7.12,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4390.0,
-    "price_krw": 5887209,
-    "change": 25.5,
-    "change_pct": 0.58
+    "price_usd": 4366.2,
+    "price_krw": 5855292,
+    "change": 1.7,
+    "change_pct": 0.04
   },
-  "updated": "2026-09-12 08:04",
+  "updated": "2026-09-13 07:54",
   "error": null
 }
