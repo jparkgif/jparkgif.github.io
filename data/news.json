@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대산산단 전기료 6~10% 낮출 수 있을까…LNG 발전소 본격 가동",
-      "url": "https://n.news.naver.com/mnews/article/028/0002823011"
+      "title": "거래소 애프터마켓 첫날 거래대금 1.8조…개인거래가 93%",
+      "url": "https://n.news.naver.com/mnews/article/366/0001192358"
     },
     {
-      "title": "“엄마, 내 주식 얼마됐어?”…1억 넘는 ‘꼬마 큰손’ 1년 새 93%↑",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047984"
+      "title": "역삼동은 ‘성장’ · 창동은 ‘생활’… 서울시, 다핵도시 6곳 선정",
+      "url": "https://n.news.naver.com/mnews/article/021/0002818847"
     },
     {
-      "title": "덩치는 카니발 급인데 쓰임새는 23종…기아 PV7 글로벌 첫선",
-      "url": "https://n.news.naver.com/mnews/article/008/0005413557"
+      "title": "환율 6% 넘게 내리자 8월 수출물가 3.7%↓… 3년 8개월 만에 최대 하락",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998483"
     },
     {
-      "title": "환율 하락에 8월 수출입물가 모두 내림세",
-      "url": "https://n.news.naver.com/mnews/article/028/0002823109"
+      "title": "현대엔지니어링·카자흐 국영기업, 대형 가스처리시설 사업 이행 합의",
+      "url": "https://n.news.naver.com/mnews/article/081/0003680637"
     },
     {
-      "title": "美 금리 인상 경계에 달러·원 3거래일 연속 상승…1347.3원 마감(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009169304"
+      "title": "조현준 “5년 내 글로벌 톱3”…효성重, 美 빅테크서 3865억원 수주",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369476"
     },
     {
-      "title": "\"1% 오차도 허용 않는다\"… LG, AI로 산업난제 해결",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047848"
+      "title": "추석 전 타결이냐 공동파업이냐…조선업계 '운명의 일주일'",
+      "url": "https://n.news.naver.com/mnews/article/629/0000533737"
     },
     {
-      "title": "GTX-C 노선 드디어 첫 삽…“덕정역~삼성역 80분→30분”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012256630"
+      "title": "KAI, 유럽 위성기업 ASL과 맞손…차세대 상용 통신위성 공동 개발",
+      "url": "https://n.news.naver.com/mnews/article/421/0009172112"
     },
     {
-      "title": "홍지선 “용산공원 부수공간 중심 주택공급 가능성 살펴볼 것”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661545"
+      "title": "\"30만원도 모자라요\"…추석 앞두고 '장보기' 겁나는 이유",
+      "url": "https://n.news.naver.com/mnews/article/015/0005332771"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001388091"
+      "title": "아시아나 마일리지, 대한항공서 10년간 쓴다…보너스 좌석 확대",
+      "url": "https://n.news.naver.com/mnews/article/025/0003551478"
     },
     {
-      "title": "경기도 '반도체 두뇌' 美 '자동차 심장'과 손잡는다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005332242"
+      "title": "\"이자 부담 너무 커\"…고금리가 가계대출 증가세도 꺾었다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369803"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6909.91,
+      "value": 6684.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 820.64,
+      "value": 806.79,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26186.41,
-      "change": -146.62,
-      "change_pct": -0.56
+      "value": 25981.57,
+      "change": -204.84,
+      "change_pct": -0.78
     },
     "usdkrw": {
-      "value": 1346.9,
-      "change": 2.26,
-      "change_pct": 0.17
+      "value": 1363.29,
+      "change": 17.68,
+      "change_pct": 1.31
     }
   },
   "gold": {
-    "price_usd": 4331.5,
-    "price_krw": 5834097,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4326.3,
+    "price_krw": 5898001,
+    "change": -25.6,
+    "change_pct": -0.59
   },
-  "updated": "2026-09-15 08:45",
+  "updated": "2026-09-16 08:27",
   "error": null
 }
