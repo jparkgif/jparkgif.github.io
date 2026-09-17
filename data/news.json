@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스 성과급, 현금·자사주 5:5 지급 확정",
-      "url": "https://n.news.naver.com/mnews/article/028/0002823402"
+      "title": "3기 소부장 특화단지 거제·대전·군산·천안…민관 7.8조 투자",
+      "url": "https://n.news.naver.com/mnews/article/001/0016318910"
     },
     {
-      "title": "한때 7.5만명 ‘삼성 초기업노조’… 넉달 만에 왜 싸움판 됐나",
-      "url": "https://n.news.naver.com/mnews/article/366/0001192645"
+      "title": "추석 나흘 쉬는 기업 77%… 상여금 주는 곳은 줄어",
+      "url": "https://n.news.naver.com/mnews/article/020/0003749072"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001388783"
-    },
-    {
-      "title": "인텔 CEO \"5∼7배 가격 급등한 메모리, 내년에 더 부족해질 것\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016314040"
-    },
-    {
-      "title": "‘이재명정부 부동산 정책’ 여야 대리전된 홍지선 국토부 장관 후보자 인사청문회",
-      "url": "https://n.news.naver.com/mnews/article/005/0001873415"
+      "title": "AI 붐 올라탄 두산, 반도체 소재에 1조 투자",
+      "url": "https://n.news.naver.com/mnews/article/015/0005333632"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266208"
+      "url": "https://n.news.naver.com/mnews/article/421/0009177573"
     },
     {
-      "title": "해태제과, 4년간 매출·원가 530억원 과대계상…재무책임자 등 검찰통보",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736340"
+      "title": "코스피, 美 금리인상에도 강보합…‘추가 긴축’ 경계는 커져[투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002698892"
     },
     {
-      "title": "지방공항서 중국 대도시 간다…저비용항공사 중심 운수권 배분",
-      "url": "https://n.news.naver.com/mnews/article/422/0000906828"
+      "title": "뉴욕증시, 국채 금리·유가 하락에 반등…나스닥 1.69%↑",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999171"
     },
     {
-      "title": "신세계그룹, 2027년 신입사원 공개 채용…10개 계열사 대상",
-      "url": "https://n.news.naver.com/mnews/article/421/0009175246"
+      "title": "토허구역 내 실거주 유예, 내년 말까지로 연장",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662833"
     },
     {
-      "title": "목동에 ‘르엘 라운지’ 연 롯데건설… 2·7·11·14단지 정조준",
-      "url": "https://n.news.naver.com/mnews/article/366/0001192632"
+      "title": "구광모, 사장단과 8시간 AI 회의…“승부처는 빠르고 집요한 실행력”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003681468"
+    },
+    {
+      "title": "서울 집값 84주 연속 올랐다…문재인 정부 85주 기록 임박",
+      "url": "https://n.news.naver.com/mnews/article/014/0005577363"
+    },
+    {
+      "title": "신한은행, 15조 인천 1금고 수성…하나銀  '청라 승부수' 고배",
+      "url": "https://n.news.naver.com/mnews/article/031/0001059506"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6627.26,
+      "value": 6717.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 812.41,
+      "value": 815.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25978.42,
-      "change": -3.15,
-      "change_pct": -0.01
+      "value": 26418.3,
+      "change": 439.87,
+      "change_pct": 1.69
     },
     "usdkrw": {
-      "value": 1376.12,
-      "change": 12.55,
-      "change_pct": 0.92
+      "value": 1380.33,
+      "change": 3.73,
+      "change_pct": 0.27
     }
   },
   "gold": {
-    "price_usd": 4310.1,
-    "price_krw": 5931214,
-    "change": -22.7,
-    "change_pct": -0.52
+    "price_usd": 4382.5,
+    "price_krw": 6049296,
+    "change": -5.0,
+    "change_pct": -0.11
   },
-  "updated": "2026-09-17 08:35",
+  "updated": "2026-09-18 08:26",
   "error": null
 }
