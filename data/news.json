@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "3기 소부장 특화단지 거제·대전·군산·천안…민관 7.8조 투자",
-      "url": "https://n.news.naver.com/mnews/article/001/0016318910"
-    },
-    {
-      "title": "추석 나흘 쉬는 기업 77%… 상여금 주는 곳은 줄어",
-      "url": "https://n.news.naver.com/mnews/article/020/0003749072"
-    },
-    {
-      "title": "AI 붐 올라탄 두산, 반도체 소재에 1조 투자",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333632"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/421/0009177573"
+      "url": "https://n.news.naver.com/mnews/article/052/0002408981"
     },
     {
-      "title": "코스피, 美 금리인상에도 강보합…‘추가 긴축’ 경계는 커져[투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002698892"
+      "title": "한섬, 3년간 매년 100억 자사주 매입·소각…배당도 확대",
+      "url": "https://n.news.naver.com/mnews/article/003/0014199713"
     },
     {
       "title": "뉴욕증시, 국채 금리·유가 하락에 반등…나스닥 1.69%↑",
       "url": "https://n.news.naver.com/mnews/article/023/0003999171"
     },
     {
-      "title": "토허구역 내 실거주 유예, 내년 말까지로 연장",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662833"
+      "title": "김도읍 \"가덕도 신공항 사업추진협의체 가동...컨트롤타워 역할 기대\"",
+      "url": "https://n.news.naver.com/mnews/article/057/0001969742"
     },
     {
-      "title": "구광모, 사장단과 8시간 AI 회의…“승부처는 빠르고 집요한 실행력”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003681468"
+      "title": "HD현대중공업, 추석 전 임단협 타결 무산…장기전으로",
+      "url": "https://n.news.naver.com/mnews/article/629/0000535163"
     },
     {
-      "title": "서울 집값 84주 연속 올랐다…문재인 정부 85주 기록 임박",
-      "url": "https://n.news.naver.com/mnews/article/014/0005577363"
+      "title": "구윤철 “추석 연휴 고속도로 주유소 기름값 ℓ당 100원 인하”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552325"
     },
     {
-      "title": "신한은행, 15조 인천 1금고 수성…하나銀  '청라 승부수' 고배",
-      "url": "https://n.news.naver.com/mnews/article/031/0001059506"
+      "title": "SK 부회장 3명, SK하이닉스로 이동…글로벌 전략 역량 집중",
+      "url": "https://n.news.naver.com/mnews/article/081/0003681674"
+    },
+    {
+      "title": "금융노조, 유례 없는 2차 총파업… 對정부 투쟁 강화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001193284"
+    },
+    {
+      "title": "해태제과, 25개 브랜드 가격 인상…일부 제품은 중량 축소",
+      "url": "https://n.news.naver.com/mnews/article/422/0000907478"
+    },
+    {
+      "title": "中 전기차 공세에 국내 생산기반 ‘흔들’…“세액공제 지원 필요”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002699219"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6717.97,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 815.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69
+      "value": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1380.33,
-      "change": 3.73,
-      "change_pct": 0.27
+      "value": 1385.95,
+      "change": 9.35,
+      "change_pct": 0.68
     }
   },
   "gold": {
-    "price_usd": 4382.5,
-    "price_krw": 6049296,
-    "change": -5.0,
-    "change_pct": -0.11
+    "price_usd": 4415.9,
+    "price_krw": 6120216,
+    "change": 16.2,
+    "change_pct": 0.37
   },
-  "updated": "2026-09-18 08:26",
+  "updated": "2026-09-19 08:07",
   "error": null
 }
