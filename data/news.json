@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002408981"
+      "title": "\"국내은행 상반기 순익 줄어…이자이익 늘어도 부실 위험 커져\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016321979"
     },
     {
-      "title": "한섬, 3년간 매년 100억 자사주 매입·소각…배당도 확대",
-      "url": "https://n.news.naver.com/mnews/article/003/0014199713"
+      "title": "'엔비디아 투자' 엔스케일, 美 증시 상장 추진…기업가치 42조원 목표",
+      "url": "https://n.news.naver.com/mnews/article/014/0005578198"
     },
     {
-      "title": "뉴욕증시, 국채 금리·유가 하락에 반등…나스닥 1.69%↑",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999171"
+      "title": "추석 연휴 이틀 더 길어지자 \"일단 짐 싸, 어디라도 가자\"…국내여행 수요 '폭증'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818752"
     },
     {
-      "title": "김도읍 \"가덕도 신공항 사업추진협의체 가동...컨트롤타워 역할 기대\"",
-      "url": "https://n.news.naver.com/mnews/article/057/0001969742"
+      "title": "인천 강화서 3일 만에 구제역 추가 발생…방역 당국 긴급 백신 접종",
+      "url": "https://n.news.naver.com/mnews/article/666/0000124157"
     },
     {
-      "title": "HD현대중공업, 추석 전 임단협 타결 무산…장기전으로",
-      "url": "https://n.news.naver.com/mnews/article/629/0000535163"
+      "title": "국힘, 국감 앞두고 레버리지ETF·농지전수조사 부각…특검 추진도",
+      "url": "https://n.news.naver.com/mnews/article/003/0014201945"
     },
     {
-      "title": "구윤철 “추석 연휴 고속도로 주유소 기름값 ℓ당 100원 인하”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552325"
+      "title": "삼성전자 초기업노조, DS 중심 재편…DX 간부 2명 불신임",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818708"
     },
     {
-      "title": "SK 부회장 3명, SK하이닉스로 이동…글로벌 전략 역량 집중",
-      "url": "https://n.news.naver.com/mnews/article/081/0003681674"
+      "title": "69만원 한우 세트 사러 백화점 갔다가…'이럴 수가' 화들짝 [류은혁의 유통기한]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334171"
     },
     {
-      "title": "금융노조, 유례 없는 2차 총파업… 對정부 투쟁 강화",
-      "url": "https://n.news.naver.com/mnews/article/366/0001193284"
+      "title": "10주년 대구신세계 확 바꾼다…해외패션 6개 브랜드 첫선",
+      "url": "https://n.news.naver.com/mnews/article/119/0003134601"
     },
     {
-      "title": "해태제과, 25개 브랜드 가격 인상…일부 제품은 중량 축소",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907478"
+      "title": "\"고령 세대는 혜택, 젊은층은 부담 커질 것\"…日 금리결정 파장",
+      "url": "https://n.news.naver.com/mnews/article/215/0001266559"
     },
     {
-      "title": "中 전기차 공세에 국내 생산기반 ‘흔들’…“세액공제 지원 필요”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002699219"
+      "title": "‘최고가격제’ 주유소 기름값 18주째 하락세…추석까지 이어질 듯",
+      "url": "https://n.news.naver.com/mnews/article/028/0002823819"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6894.23,
+      "change": 178.82,
+      "change_pct": 2.66
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 827.12,
+      "change": 4.94,
+      "change_pct": 0.6
     },
     "nasdaq": {
       "value": 26522.54,
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.95,
-      "change": 9.35,
-      "change_pct": 0.68
+      "value": 1385.0,
+      "change": 5.47,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4415.9,
-    "price_krw": 6120216,
-    "change": 16.2,
-    "change_pct": 0.37
+    "price_usd": 4424.9,
+    "price_krw": 6128486,
+    "change": 25.2,
+    "change_pct": 0.57
   },
-  "updated": "2026-09-19 08:07",
+  "updated": "2026-09-20 07:46",
   "error": null
 }
