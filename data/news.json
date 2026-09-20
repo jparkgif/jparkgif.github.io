@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"국내은행 상반기 순익 줄어…이자이익 늘어도 부실 위험 커져\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016321979"
+      "title": "급여 꼬박 이체했는데 대출금리 왜 안 깎였지?…금감원 \"'이것' 확인하세요\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818945"
     },
     {
-      "title": "'엔비디아 투자' 엔스케일, 美 증시 상장 추진…기업가치 42조원 목표",
-      "url": "https://n.news.naver.com/mnews/article/014/0005578198"
+      "title": "추석 연휴 앞둔 코스피…美中 정상회담·유가·금리 주목[증시 예보]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002699886"
     },
     {
-      "title": "추석 연휴 이틀 더 길어지자 \"일단 짐 싸, 어디라도 가자\"…국내여행 수요 '폭증'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818752"
+      "title": "쿠팡, '물류센터 화재' 피해 주민 45억 원 지원‥1인당 5만 원",
+      "url": "https://n.news.naver.com/mnews/article/214/0001524976"
     },
     {
-      "title": "인천 강화서 3일 만에 구제역 추가 발생…방역 당국 긴급 백신 접종",
-      "url": "https://n.news.naver.com/mnews/article/666/0000124157"
+      "title": "DS·DX 노조 모두 내홍…삼성전자 노사관계 변수",
+      "url": "https://n.news.naver.com/mnews/article/422/0000907943"
     },
     {
-      "title": "국힘, 국감 앞두고 레버리지ETF·농지전수조사 부각…특검 추진도",
-      "url": "https://n.news.naver.com/mnews/article/003/0014201945"
+      "title": "한경협 “첨단산업 투자 지원 서둘러야”…정책과제 41건 건의",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049077"
     },
     {
-      "title": "삼성전자 초기업노조, DS 중심 재편…DX 간부 2명 불신임",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818708"
+      "title": "내 월급은 ‘찔끔’ 올랐는데 평균 임금 431만원…원인 봤더니",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552615"
     },
     {
-      "title": "69만원 한우 세트 사러 백화점 갔다가…'이럴 수가' 화들짝 [류은혁의 유통기한]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334171"
+      "title": "성북·동대문 국평 전세 '10억원' 등장…전세 누적 상승률 작년의 4.7배",
+      "url": "https://n.news.naver.com/mnews/article/422/0000907901"
     },
     {
-      "title": "10주년 대구신세계 확 바꾼다…해외패션 6개 브랜드 첫선",
-      "url": "https://n.news.naver.com/mnews/article/119/0003134601"
+      "title": "KTX 승차권, 10월부터 출발 두 달 전 예매 가능…외국인 서비스도 확대",
+      "url": "https://n.news.naver.com/mnews/article/119/0003134683"
     },
     {
-      "title": "\"고령 세대는 혜택, 젊은층은 부담 커질 것\"…日 금리결정 파장",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266559"
+      "title": "\"24일 오전·25일 오후 피하세요\"…추석 귀성·귀경길 최대 혼잡",
+      "url": "https://n.news.naver.com/mnews/article/003/0014202236"
     },
     {
-      "title": "‘최고가격제’ 주유소 기름값 18주째 하락세…추석까지 이어질 듯",
-      "url": "https://n.news.naver.com/mnews/article/028/0002823819"
+      "title": "매파적 연준에 10원 넘게 뛴 원·달러…향후 흐름은",
+      "url": "https://n.news.naver.com/mnews/article/003/0014201944"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.0,
-      "change": 5.47,
-      "change_pct": 0.4
+      "value": 1385.55,
+      "change": 6.02,
+      "change_pct": 0.44
     }
   },
   "gold": {
-    "price_usd": 4424.9,
-    "price_krw": 6128486,
-    "change": 25.2,
-    "change_pct": 0.57
+    "price_usd": 4413.8,
+    "price_krw": 6115540,
+    "change": -11.1,
+    "change_pct": -0.25
   },
-  "updated": "2026-09-20 07:46",
+  "updated": "2026-09-21 08:05",
   "error": null
 }
