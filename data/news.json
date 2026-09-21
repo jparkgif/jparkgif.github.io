@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "급여 꼬박 이체했는데 대출금리 왜 안 깎였지?…금감원 \"'이것' 확인하세요\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818945"
+      "title": "국민의힘 \"가상자산 과세 폐지해야\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334825"
     },
     {
-      "title": "추석 연휴 앞둔 코스피…美中 정상회담·유가·금리 주목[증시 예보]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002699886"
+      "title": "신한금융, 은행 임추위에 CEO 추천권 준다...\"공정성 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005579194"
     },
     {
-      "title": "쿠팡, '물류센터 화재' 피해 주민 45억 원 지원‥1인당 5만 원",
-      "url": "https://n.news.naver.com/mnews/article/214/0001524976"
+      "title": "명절엔 갈 때도 올 때도, 출발 전 완충[조현민의 전기차 생활문화]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005416949"
     },
     {
-      "title": "DS·DX 노조 모두 내홍…삼성전자 노사관계 변수",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907943"
+      "title": "셀트리온, 송도 25만ℓ 시설 유럽 GMP 갱신…연간 생산량 15% 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002700588"
     },
     {
-      "title": "한경협 “첨단산업 투자 지원 서둘러야”…정책과제 41건 건의",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049077"
+      "title": "HL만도, '평택공장 사망사고' 종합 안전 개선 대책 발표",
+      "url": "https://n.news.naver.com/mnews/article/018/0006373766"
     },
     {
-      "title": "내 월급은 ‘찔끔’ 올랐는데 평균 임금 431만원…원인 봤더니",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552615"
+      "title": "수소버스 연료보조금 ㎏당 6000원…3개월 한시 인상",
+      "url": "https://n.news.naver.com/mnews/article/119/0003135268"
     },
     {
-      "title": "성북·동대문 국평 전세 '10억원' 등장…전세 누적 상승률 작년의 4.7배",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907901"
+      "title": "원·달러 환율 2.3원 내린 1381.0원(오후 3시30분)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005819399"
     },
     {
-      "title": "KTX 승차권, 10월부터 출발 두 달 전 예매 가능…외국인 서비스도 확대",
-      "url": "https://n.news.naver.com/mnews/article/119/0003134683"
+      "title": "거래소, 연말까지 애프터마켓 특별감시 TF 운영…“변동성·불공정거래 예방”",
+      "url": "https://n.news.naver.com/mnews/article/277/0005819473"
     },
     {
-      "title": "\"24일 오전·25일 오후 피하세요\"…추석 귀성·귀경길 최대 혼잡",
-      "url": "https://n.news.naver.com/mnews/article/003/0014202236"
+      "title": "이재명표 ‘보편형 공공임대’ 2030년까지 19만가구…중산층도 최대 20년 산다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999682"
     },
     {
-      "title": "매파적 연준에 10원 넘게 뛴 원·달러…향후 흐름은",
-      "url": "https://n.news.naver.com/mnews/article/003/0014201944"
+      "title": "메타 ‘뮤즈’ 흥행에 AMD·인텔 급등…반도체주 랠리",
+      "url": "https://n.news.naver.com/mnews/article/018/0006373988"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6894.23,
-      "change": 178.82,
-      "change_pct": 2.66
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 827.12,
-      "change": 4.94,
-      "change_pct": 0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26522.54,
-      "change": 104.24,
-      "change_pct": 0.39
+      "value": 27122.09,
+      "change": 599.55,
+      "change_pct": 2.26
     },
     "usdkrw": {
-      "value": 1385.55,
-      "change": 6.02,
-      "change_pct": 0.44
+      "value": 1374.04,
+      "change": -10.82,
+      "change_pct": -0.78
     }
   },
   "gold": {
-    "price_usd": 4413.8,
-    "price_krw": 6115540,
-    "change": -11.1,
-    "change_pct": -0.25
+    "price_usd": 4405.1,
+    "price_krw": 6052783,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-21 08:05",
+  "updated": "2026-09-22 08:56",
   "error": null
 }
