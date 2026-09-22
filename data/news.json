@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국민의힘 \"가상자산 과세 폐지해야\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334825"
+      "title": "금감원장, 은행장 인사 또 경고…'지주의 낙점 관행' 콕 찍었다",
+      "url": "https://n.news.naver.com/mnews/article/079/0004192322"
     },
     {
-      "title": "신한금융, 은행 임추위에 CEO 추천권 준다...\"공정성 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005579194"
+      "title": "한화오션 임단협 결렬…K조선 공동파업 전선 장기화하나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006374502"
     },
     {
-      "title": "명절엔 갈 때도 올 때도, 출발 전 완충[조현민의 전기차 생활문화]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005416949"
+      "title": "서울시 ‘퇴짜’ 맞았던 목동 13단지…설계 바꿔 두달여만에 재심의 통과 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002700706"
     },
     {
-      "title": "셀트리온, 송도 25만ℓ 시설 유럽 GMP 갱신…연간 생산량 15% 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002700588"
+      "title": "이형일 부총리, 첫 메시지 \"성장 온기 국민 삶에 고르게\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006374151"
     },
     {
-      "title": "HL만도, '평택공장 사망사고' 종합 안전 개선 대책 발표",
-      "url": "https://n.news.naver.com/mnews/article/018/0006373766"
+      "title": "LG엔솔, 엔비디아 AI 팩토리 생태계 합류…국내 배터리사 유일",
+      "url": "https://n.news.naver.com/mnews/article/119/0003135310"
     },
     {
-      "title": "수소버스 연료보조금 ㎏당 6000원…3개월 한시 인상",
-      "url": "https://n.news.naver.com/mnews/article/119/0003135268"
+      "title": "CJ제일제당, 뉴욕서 K-증류주 '자리' 출시…\"K-푸드와 시너지\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016328407"
     },
     {
-      "title": "원·달러 환율 2.3원 내린 1381.0원(오후 3시30분)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005819399"
+      "title": "韓 사망원인 암·심장질환·폐렴順 … 10대~40대는 자살 압도적 1위",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739149"
     },
     {
-      "title": "거래소, 연말까지 애프터마켓 특별감시 TF 운영…“변동성·불공정거래 예방”",
-      "url": "https://n.news.naver.com/mnews/article/277/0005819473"
+      "title": "차기 수협은행장 선임 결론 못내...추후 재투표",
+      "url": "https://n.news.naver.com/mnews/article/215/0001266879"
     },
     {
-      "title": "이재명표 ‘보편형 공공임대’ 2030년까지 19만가구…중산층도 최대 20년 산다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999682"
+      "title": "연준 내부 '추가 인상' 목소리 커진다…\"더 일찍 금리 올려야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009185381"
     },
     {
-      "title": "메타 ‘뮤즈’ 흥행에 AMD·인텔 급등…반도체주 랠리",
-      "url": "https://n.news.naver.com/mnews/article/018/0006373988"
+      "title": "우버, 배민 인수 본격화…공정위 기업결합 사전심사 개시",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874526"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6894.23,
+      "value": 7007.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 827.12,
+      "value": 836.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27122.09,
-      "change": 599.55,
-      "change_pct": 2.26
+      "value": 27244.28,
+      "change": 122.19,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.04,
-      "change": -10.82,
-      "change_pct": -0.78
+      "value": 1355.2,
+      "change": -18.48,
+      "change_pct": -1.35
     }
   },
   "gold": {
-    "price_usd": 4405.1,
-    "price_krw": 6052783,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4403.0,
+    "price_krw": 5966945,
+    "change": 19.1,
+    "change_pct": 0.44
   },
-  "updated": "2026-09-22 08:56",
+  "updated": "2026-09-23 08:32",
   "error": null
 }
