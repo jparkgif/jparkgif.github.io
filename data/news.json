@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "금감원장, 은행장 인사 또 경고…'지주의 낙점 관행' 콕 찍었다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004192322"
+      "title": "ADB, 올해 韓 성장률 3.2%로 상향…“AI 반도체 수출 호조”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004664836"
     },
     {
-      "title": "한화오션 임단협 결렬…K조선 공동파업 전선 장기화하나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006374502"
+      "title": "자동매매로 코인 시세조종…거래량 90% 이상 부풀린 운영사도 덜미",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739710"
     },
     {
-      "title": "서울시 ‘퇴짜’ 맞았던 목동 13단지…설계 바꿔 두달여만에 재심의 통과 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002700706"
+      "title": "코레일 자회사 5곳→3곳 역 편의점 할인행사 확대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739607"
     },
     {
-      "title": "이형일 부총리, 첫 메시지 \"성장 온기 국민 삶에 고르게\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006374151"
+      "title": "메리츠증권, 단기금융업 인가…9번째 발행어음 사업자",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194220"
     },
     {
-      "title": "LG엔솔, 엔비디아 AI 팩토리 생태계 합류…국내 배터리사 유일",
-      "url": "https://n.news.naver.com/mnews/article/119/0003135310"
+      "title": "중기 장관 취임 첫날 시장 방문…“온누리상품권 혜택 더 늘릴 것”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004664959"
     },
     {
-      "title": "CJ제일제당, 뉴욕서 K-증류주 '자리' 출시…\"K-푸드와 시너지\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016328407"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001525630"
     },
     {
-      "title": "韓 사망원인 암·심장질환·폐렴順 … 10대~40대는 자살 압도적 1위",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739149"
+      "title": "LG전자·SK엔무브, AI 데이터센터 차세대 열관리 소재 공동 개발",
+      "url": "https://n.news.naver.com/mnews/article/001/0016331733"
     },
     {
-      "title": "차기 수협은행장 선임 결론 못내...추후 재투표",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266879"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002410657"
     },
     {
-      "title": "연준 내부 '추가 인상' 목소리 커진다…\"더 일찍 금리 올려야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009185381"
+      "title": "[단독] 추석 연휴 고속도로 전기차 90만대 몰리는데 충전기 '1844개'뿐",
+      "url": "https://n.news.naver.com/mnews/article/119/0003135971"
     },
     {
-      "title": "우버, 배민 인수 본격화…공정위 기업결합 사전심사 개시",
-      "url": "https://n.news.naver.com/mnews/article/005/0001874526"
+      "title": "고유가에 다급한 트럼프 \"디젤 수출 금지할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739558"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7007.72,
+      "value": 7080.92,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 836.27,
+      "value": 844.48,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27244.28,
-      "change": 122.19,
-      "change_pct": 0.45
+      "value": 26936.04,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "usdkrw": {
-      "value": 1355.2,
-      "change": -18.48,
-      "change_pct": -1.35
+      "value": 1365.05,
+      "change": 14.69,
+      "change_pct": 1.09
     }
   },
   "gold": {
-    "price_usd": 4403.0,
-    "price_krw": 5966945,
-    "change": 19.1,
-    "change_pct": 0.44
+    "price_usd": 4325.4,
+    "price_krw": 5904387,
+    "change": -51.0,
+    "change_pct": -1.17
   },
-  "updated": "2026-09-23 08:32",
+  "updated": "2026-09-24 08:29",
   "error": null
 }
