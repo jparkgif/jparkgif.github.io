@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "ADB, 올해 韓 성장률 3.2%로 상향…“AI 반도체 수출 호조”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004664836"
+      "title": "“엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375224"
     },
     {
-      "title": "자동매매로 코인 시세조종…거래량 90% 이상 부풀린 운영사도 덜미",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739710"
+      "title": "\"1000주 사면 무려\"…28일까지 사야 '막차 탄다' 개미들 놀랄 전망",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267080"
     },
     {
-      "title": "코레일 자회사 5곳→3곳 역 편의점 할인행사 확대",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739607"
+      "title": "최태원·구광모 등 李대통령 멕시코 간담회 참석…관세·사업 논의 주목",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375415"
     },
     {
-      "title": "메리츠증권, 단기금융업 인가…9번째 발행어음 사업자",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194220"
+      "title": "추석 연휴 귀성·귀경길, ‘이것’만 챙기면 교통비 반으로 준다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002701754"
     },
     {
-      "title": "중기 장관 취임 첫날 시장 방문…“온누리상품권 혜택 더 늘릴 것”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004664959"
+      "title": "전월세난도 서러운데… “전세대출 못 갚는 서민 급증”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049788"
+    },
+    {
+      "title": "서울 아파트값 또 올라 85주 연속 상승... '역대 최장' 문재인 정부와 같은 기록",
+      "url": "https://n.news.naver.com/mnews/article/469/0000955883"
+    },
+    {
+      "title": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335963"
+    },
+    {
+      "title": "'D램 모듈' 시장도 59% 성장…\"D램 공급 증가, 2028년 가야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009190011"
+    },
+    {
+      "title": "코인 과세에 자산 유출 본격화?…유예·보완 목소리 커져",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213055"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001525630"
-    },
-    {
-      "title": "LG전자·SK엔무브, AI 데이터센터 차세대 열관리 소재 공동 개발",
-      "url": "https://n.news.naver.com/mnews/article/001/0016331733"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002410657"
-    },
-    {
-      "title": "[단독] 추석 연휴 고속도로 전기차 90만대 몰리는데 충전기 '1844개'뿐",
-      "url": "https://n.news.naver.com/mnews/article/119/0003135971"
-    },
-    {
-      "title": "고유가에 다급한 트럼프 \"디젤 수출 금지할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739558"
+      "url": "https://n.news.naver.com/mnews/article/056/0012262947"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26936.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 26939.37,
+      "change": 3.33,
+      "change_pct": 0.01
     },
     "usdkrw": {
-      "value": 1365.05,
-      "change": 14.69,
-      "change_pct": 1.09
+      "value": 1367.57,
+      "change": 5.07,
+      "change_pct": 0.37
     }
   },
   "gold": {
-    "price_usd": 4325.4,
-    "price_krw": 5904387,
-    "change": -51.0,
-    "change_pct": -1.17
+    "price_usd": 4308.9,
+    "price_krw": 5892722,
+    "change": -9.5,
+    "change_pct": -0.22
   },
-  "updated": "2026-09-24 08:29",
+  "updated": "2026-09-25 08:48",
   "error": null
 }
