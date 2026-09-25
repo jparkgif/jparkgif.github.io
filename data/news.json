@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375224"
+      "title": "시총 미달 코스닥 8곳 퇴출…내달부터 동전주 줄상폐 위기",
+      "url": "https://n.news.naver.com/mnews/article/031/0001061224"
     },
     {
-      "title": "\"1000주 사면 무려\"…28일까지 사야 '막차 탄다' 개미들 놀랄 전망",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267080"
+      "title": "\"귀성길 대신 출근길\"…반도체·제철·석화공장 추석에도 24시간 가동",
+      "url": "https://n.news.naver.com/mnews/article/421/0009191019"
     },
     {
-      "title": "최태원·구광모 등 李대통령 멕시코 간담회 참석…관세·사업 논의 주목",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375415"
+      "title": "“집에서 지하철까지 바로 연결”... 아크메르 동탄, ‘제로미터’ 역세권 눈길",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683456"
     },
     {
-      "title": "추석 연휴 귀성·귀경길, ‘이것’만 챙기면 교통비 반으로 준다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002701754"
+      "title": "AI·반도체에 전력수요 폭증…'탄소중립' 방정식 풀 수 있나",
+      "url": "https://n.news.naver.com/mnews/article/079/0004192922"
     },
     {
-      "title": "전월세난도 서러운데… “전세대출 못 갚는 서민 급증”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049788"
+      "title": "“상단 막혀” vs “공급 절벽”… 개미들 꿈인 30만전자는 언제? [반도체 투자 리포트]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161808"
     },
     {
-      "title": "서울 아파트값 또 올라 85주 연속 상승... '역대 최장' 문재인 정부와 같은 기록",
-      "url": "https://n.news.naver.com/mnews/article/469/0000955883"
+      "title": "아파트 청약 당첨됐다가 취소…6년간 5만4000명",
+      "url": "https://n.news.naver.com/mnews/article/014/0005580778"
     },
     {
-      "title": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335963"
+      "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335942"
     },
     {
-      "title": "'D램 모듈' 시장도 59% 성장…\"D램 공급 증가, 2028년 가야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009190011"
+      "title": "40만 전자·300만 닉스 ‘희망고문’…삼전닉스, 3분기 실적이 슈퍼사이클 진짜 시험대[biz-플러스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665347"
     },
     {
-      "title": "코인 과세에 자산 유출 본격화?…유예·보완 목소리 커져",
-      "url": "https://n.news.naver.com/mnews/article/003/0014213055"
+      "title": "소득 다 털어도 빚 갚기 빠듯한 차주, 3년 반 만에 반등",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411074"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012262947"
+      "title": "서울 아파트값 상승 신기록 코앞, 물량은 11% ‘뚝’[李 정부의 부동산 역설②]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136285"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7080.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 63.01,
+      "change_pct": 0.9
     },
     "kosdaq": {
       "value": 844.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 10.1,
+      "change_pct": 1.21
     },
     "nasdaq": {
-      "value": 26939.37,
-      "change": 3.33,
-      "change_pct": 0.01
+      "value": 27068.72,
+      "change": 129.35,
+      "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1367.57,
-      "change": 5.07,
-      "change_pct": 0.37
+      "value": 1355.28,
+      "change": -7.22,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4308.9,
-    "price_krw": 5892722,
-    "change": -9.5,
-    "change_pct": -0.22
+    "price_usd": 4320.5,
+    "price_krw": 5855487,
+    "change": 22.5,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-25 08:48",
+  "updated": "2026-09-26 08:53",
   "error": null
 }
