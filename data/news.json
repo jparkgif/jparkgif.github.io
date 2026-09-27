@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "전세사기 예방 '구멍'…공인중개사 설명의무 위반 3년 새 4배",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136431"
+      "title": "올 2분기 건설공사 계약액 80.9조원…민간반도체 생산·주택사업 증가",
+      "url": "https://n.news.naver.com/mnews/article/003/0014216404"
     },
     {
-      "title": "이번주 공모주 청약, 멜콘·진코스텍 2개사",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136379"
+      "title": "“같은 코인인데 해외선 7229억·국내선 5827만원”…거래규모 1만2400배 차이 왜? [크립토360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002702178"
     },
     {
-      "title": "\"배달 가지러 왔다\"…기사인 척 4만5000원어치 회 챙겨 달아난 여성",
-      "url": "https://n.news.naver.com/mnews/article/014/0005581022"
+      "title": "올 수익률 1위 ‘코스피200 ETF’, 정기예금의 40.6배",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750853"
     },
     {
-      "title": "“팔수록 남는다”… 삼성전자, 3분기 100조 영업익 노린다 ‘D램 이익률 80%’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049905"
+      "title": "\"한 푼이라도 아끼려고 했더니\"…대환대출 금리 이게 대체 무슨 일",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267251"
     },
     {
-      "title": "김재섭 “누가 레버리지 ETF 제안·결정했는지 밝혀야”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194461"
+      "title": "한은 직원 개인정보 무더기 유출…5년여간 해킹 시도 2천번",
+      "url": "https://n.news.naver.com/mnews/article/001/0016339471"
     },
     {
-      "title": "\"64조 위안 만기 몰려온다\"…발등에 불 떨어진 은행들 '비상' [차이나 워치]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336079"
+      "title": "메타 '뮤즈', 악성 링크 하나로 개인 클라우드 노출 위험…경고 표시 강화",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136536"
     },
     {
-      "title": "“추석 선물 팔았다가 3000만 원 날릴 수도”…중고거래 가능한 품목 따져보니",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665466"
+      "title": "삼성전자 30조 규모 배당, 마지막 매수일 'D-1'",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136618"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909893"
+      "title": "“성과급 놓칠라” 삼전닉스 육아휴직률 첫 동반하락",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750846"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909784"
+      "title": "상의, 멕시코서 비즈니스 포럼…최태원 \"새로운 성장 첫걸음\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016338043"
     },
     {
-      "title": "매물 품귀에 서울 아파트 전세보증금 2년전보다 8천만원 상승",
-      "url": "https://n.news.naver.com/mnews/article/001/0016337720"
+      "title": "반도체 초호황에 올해 초과세수 ‘50조원+α’…내년 미래대응기금 200조원 ‘훌쩍’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002702122"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1354.4,
-      "change": -12.96,
-      "change_pct": -0.95
+      "value": 1354.9,
+      "change": -12.46,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4321.2,
-    "price_krw": 5852633,
-    "change": 23.2,
-    "change_pct": 0.54
+    "price_usd": 4297.4,
+    "price_krw": 5822547,
+    "change": -23.8,
+    "change_pct": -0.55
   },
-  "updated": "2026-09-27 08:26",
+  "updated": "2026-09-28 08:42",
   "error": null
 }
