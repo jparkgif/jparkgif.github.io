@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "올 2분기 건설공사 계약액 80.9조원…민간반도체 생산·주택사업 증가",
-      "url": "https://n.news.naver.com/mnews/article/003/0014216404"
+      "title": "가전 구독 매출 1조 눈앞…삼성전자, B2B 시장으로 판 키운다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376455"
     },
     {
-      "title": "“같은 코인인데 해외선 7229억·국내선 5827만원”…거래규모 1만2400배 차이 왜? [크립토360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002702178"
+      "title": "송미령 \"관행적 농지 임대차, 처분 불필요...오해 재생산\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411976"
     },
     {
-      "title": "올 수익률 1위 ‘코스피200 ETF’, 정기예금의 40.6배",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750853"
+      "title": "고유가·국채금리 급등에 하락…나스닥 0.92%↓[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009196557"
     },
     {
-      "title": "\"한 푼이라도 아끼려고 했더니\"…대환대출 금리 이게 대체 무슨 일",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267251"
+      "title": "美 경기 호조에 인플레 우려… 시장 ‘금리인하 기대’ 꺾였다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002821779"
     },
     {
-      "title": "한은 직원 개인정보 무더기 유출…5년여간 해킹 시도 2천번",
-      "url": "https://n.news.naver.com/mnews/article/001/0016339471"
+      "title": "은행 점포 내년 4월부터 30분 늦게 문 연다…노사 잠정 합의外 [한강로 경제브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004162530"
     },
     {
-      "title": "메타 '뮤즈', 악성 링크 하나로 개인 클라우드 노출 위험…경고 표시 강화",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136536"
+      "title": "결혼 시작부터 빚더미…신혼부부 대출 중간값 8년새 130% 증가",
+      "url": "https://n.news.naver.com/mnews/article/001/0016339469"
     },
     {
-      "title": "삼성전자 30조 규모 배당, 마지막 매수일 'D-1'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136618"
+      "title": "세종에 4.3조, 베트남에 2.5조…삼성전기, 역대급 기판 투자",
+      "url": "https://n.news.naver.com/mnews/article/025/0003554303"
     },
     {
-      "title": "“성과급 놓칠라” 삼전닉스 육아휴직률 첫 동반하락",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750846"
+      "title": "은행 점포 내년 4월부터 오전 9시 30분 개점…노사 잠정 합의",
+      "url": "https://n.news.naver.com/mnews/article/055/0001391618"
     },
     {
-      "title": "상의, 멕시코서 비즈니스 포럼…최태원 \"새로운 성장 첫걸음\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016338043"
+      "title": "李대통령, CPTPP 직접 언급…“농수축산업은 안보전략산업”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666245"
     },
     {
-      "title": "반도체 초호황에 올해 초과세수 ‘50조원+α’…내년 미래대응기금 200조원 ‘훌쩍’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002702122"
+      "title": "\"결혼하면 손해? 이젠 아니다\"…신혼부부 대출 '결혼 페널티' 없어진다",
+      "url": "https://n.news.naver.com/mnews/article/437/0000513172"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9
+      "value": 6886.74,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.48,
-      "change": 10.1,
-      "change_pct": 1.21
+      "value": 844.21,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48
+      "value": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92
     },
     "usdkrw": {
-      "value": 1354.9,
-      "change": -12.46,
-      "change_pct": -0.91
+      "value": 1360.78,
+      "change": 6.27,
+      "change_pct": 0.46
     }
   },
   "gold": {
-    "price_usd": 4297.4,
-    "price_krw": 5822547,
-    "change": -23.8,
-    "change_pct": -0.55
+    "price_usd": 4154.3,
+    "price_krw": 5653088,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-28 08:42",
+  "updated": "2026-09-29 09:52",
   "error": null
 }
