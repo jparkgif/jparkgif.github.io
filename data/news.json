@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "가전 구독 매출 1조 눈앞…삼성전자, B2B 시장으로 판 키운다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006376455"
+      "title": "반도체 훈풍에 충북 11.9% 성장…서울은 금융 호조에 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376965"
     },
     {
-      "title": "송미령 \"관행적 농지 임대차, 처분 불필요...오해 재생산\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411976"
+      "title": "작년 늘어난 건축물 연면적 6004만㎡…축구장 8400개",
+      "url": "https://n.news.naver.com/mnews/article/277/0005822436"
     },
     {
-      "title": "고유가·국채금리 급등에 하락…나스닥 0.92%↓[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009196557"
+      "title": "거래 줄고 공급 선행지표는 개선…서울 아파트 거래 30%↓·인허가 40%↑",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582613"
     },
     {
-      "title": "美 경기 호조에 인플레 우려… 시장 ‘금리인하 기대’ 꺾였다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002821779"
+      "title": "서울대 경영동아리 인맥 뭉친 비밀방…미공개정보로 200억 챙겼다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003554459"
     },
     {
-      "title": "은행 점포 내년 4월부터 30분 늦게 문 연다…노사 잠정 합의外 [한강로 경제브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004162530"
+      "title": "다시 만난 최태원·젠슨황…\"엔비디아는 두뇌, SK는 기억\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267523"
     },
     {
-      "title": "결혼 시작부터 빚더미…신혼부부 대출 중간값 8년새 130% 증가",
-      "url": "https://n.news.naver.com/mnews/article/001/0016339469"
+      "title": "셀트리온, 1000억 규모 자사주 매입…올해 누적 4000억",
+      "url": "https://n.news.naver.com/mnews/article/277/0005822136"
     },
     {
-      "title": "세종에 4.3조, 베트남에 2.5조…삼성전기, 역대급 기판 투자",
-      "url": "https://n.news.naver.com/mnews/article/025/0003554303"
+      "title": "삼성은 반도체만?..계열사 총동원 AI 시대 '인프라' 잡는다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005419809"
     },
     {
-      "title": "은행 점포 내년 4월부터 오전 9시 30분 개점…노사 잠정 합의",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391618"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001392024"
     },
     {
-      "title": "李대통령, CPTPP 직접 언급…“농수축산업은 안보전략산업”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666245"
+      "title": "재생에너지 발목 잡던 전력망... 정부, 한전 선투자로 돌파",
+      "url": "https://n.news.naver.com/mnews/article/047/0002530615"
     },
     {
-      "title": "\"결혼하면 손해? 이젠 아니다\"…신혼부부 대출 '결혼 페널티' 없어진다",
-      "url": "https://n.news.naver.com/mnews/article/437/0000513172"
+      "title": "조정지역 '일시적 2주택자' 주택처분기한 2년으로 단축한다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005419652"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6886.74,
+      "value": 6870.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.21,
+      "value": 849.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26820.38,
-      "change": -248.34,
-      "change_pct": -0.92
+      "value": 26797.54,
+      "change": -22.84,
+      "change_pct": -0.09
     },
     "usdkrw": {
-      "value": 1360.78,
-      "change": 6.27,
-      "change_pct": 0.46
+      "value": 1352.55,
+      "change": -7.01,
+      "change_pct": -0.52
     }
   },
   "gold": {
-    "price_usd": 4154.3,
-    "price_krw": 5653088,
+    "price_usd": 4218.2,
+    "price_krw": 5705326,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-09-29 09:52",
+  "updated": "2026-09-30 09:10",
   "error": null
 }
