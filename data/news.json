@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "반도체 훈풍에 충북 11.9% 성장…서울은 금융 호조에 '역대 최대'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006376965"
+      "title": "현대제철, 양궁 꿈나무 발굴 지원 사격",
+      "url": "https://n.news.naver.com/mnews/article/629/0000538330"
     },
     {
-      "title": "작년 늘어난 건축물 연면적 6004만㎡…축구장 8400개",
-      "url": "https://n.news.naver.com/mnews/article/277/0005822436"
+      "title": "한화생명, 애큐온캐피탈·저축은행 인수…\"종합금융그룹 도약\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005420550"
     },
     {
-      "title": "거래 줄고 공급 선행지표는 개선…서울 아파트 거래 30%↓·인허가 40%↑",
-      "url": "https://n.news.naver.com/mnews/article/014/0005582613"
+      "title": "\"현대모비스, 액츄에이터 대량양산 시차 반영…목표가↓\"-대신",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337938"
     },
     {
-      "title": "서울대 경영동아리 인맥 뭉친 비밀방…미공개정보로 200억 챙겼다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003554459"
+      "title": "아시아나항공, 일본·중국·동남아 노선에 마일리지 특별기 운항",
+      "url": "https://n.news.naver.com/mnews/article/366/0001195225"
     },
     {
-      "title": "다시 만난 최태원·젠슨황…\"엔비디아는 두뇌, SK는 기억\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267523"
+      "title": "내연차→전기차 생산 조기전환 지원..반도체 공장 설립도 속도 높인다",
+      "url": "https://n.news.naver.com/mnews/article/082/0001400632"
     },
     {
-      "title": "셀트리온, 1000억 규모 자사주 매입…올해 누적 4000억",
-      "url": "https://n.news.naver.com/mnews/article/277/0005822136"
+      "title": "분기매출 73.5조원 ‘사상최대’ 기록 마이크론…“내년 실적 더 강력 기대”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822355"
     },
     {
-      "title": "삼성은 반도체만?..계열사 총동원 AI 시대 '인프라' 잡는다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005419809"
+      "title": "쿠팡 홀린 SFA 물류로봇, 휴머노이드 진화",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337738"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392024"
+      "title": "\"호르무즈·홍해 막혀도 LNG 공급한다\" 자원 위기서 빛난 SK이노베이션",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956950"
     },
     {
-      "title": "재생에너지 발목 잡던 전력망... 정부, 한전 선투자로 돌파",
-      "url": "https://n.news.naver.com/mnews/article/047/0002530615"
+      "title": "치솟는 주담대 금리 … 3년9개월來 최고",
+      "url": "https://n.news.naver.com/mnews/article/009/0005742220"
     },
     {
-      "title": "조정지역 '일시적 2주택자' 주택처분기한 2년으로 단축한다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005419652"
+      "title": "한미 전략투자 첫 공식 발표…텍사스 발전·미국 원전·알래스카 LNG 추진",
+      "url": "https://n.news.naver.com/mnews/article/009/0005742393"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6870.81,
+      "value": 6787.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 849.8,
+      "value": 855.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09
+      "value": 26861.06,
+      "change": 63.53,
+      "change_pct": 0.24
     },
     "usdkrw": {
-      "value": 1352.55,
-      "change": -7.01,
-      "change_pct": -0.52
+      "value": 1358.68,
+      "change": 8.18,
+      "change_pct": 0.61
     }
   },
   "gold": {
-    "price_usd": 4218.2,
-    "price_krw": 5705326,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4181.4,
+    "price_krw": 5681184,
+    "change": 1.7,
+    "change_pct": 0.04
   },
-  "updated": "2026-09-30 09:10",
+  "updated": "2026-10-01 09:25",
   "error": null
 }
