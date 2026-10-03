@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "해킹 사고 잇따르자…당국 “외부 노출 전산시스템 빠짐없이 점검하라”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003685718"
+      "title": "외인, 한달간 코스피서 20조 '팔자'…삼전 비중 46%·닉스 49%대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016356214"
     },
     {
-      "title": "미 무역대표 \"과잉생산 안 돼...수주 내 대응조치 발표\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414144"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001392798"
     },
     {
-      "title": "은행 줄줄이 뚫은 AI 에이전트…해킹 자동화의 그림자(종합)[AI프리즘]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016354735"
+      "title": "“메모리 가격 상승 가속구간 진입…‘삼전닉스’ 최선호” KB證",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822864"
     },
     {
-      "title": "나스닥 장중 사상 최고...엔비디아·AMD 사상 최고[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584499"
+      "title": "美 싱크탱크 “美 전투함 한국 건조, 정치적으로 어려워”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001947"
     },
     {
-      "title": "아틀라스, 美 생산 현장 내 로봇 학교서 맹연습…사람 같은 훈련 공개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006379596"
+      "title": "10개월 매달려 美 자존심 뚫고 원전 빗장 열었지만… 남은 협상 첩첩산중",
+      "url": "https://n.news.naver.com/mnews/article/469/0000957497"
     },
     {
-      "title": "시총 미달 기업 퇴출…법원 '거래소 규정' 제동",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338802"
+      "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743485"
     },
     {
-      "title": "1조9000억원 투입되는 KF-21 공대공 미사일, LIG·한화 공동개발 유력",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001909"
+      "title": "암살자(들) 300억 투자 논란에…기업·산업은행 \"외부 요청 없었다\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000642879"
     },
     {
-      "title": "신한 이어 KB·하나·부산銀까지…AI 해킹 포비아",
-      "url": "https://n.news.naver.com/mnews/article/011/0004667755"
+      "title": "하이브리드가 밀었다…현대차·기아, 美 분기 판매 첫 50만대",
+      "url": "https://n.news.naver.com/mnews/article/022/0004163788"
     },
     {
-      "title": "HD현대중 노조 찬반투표서 임단협 잠정합의안 부결",
-      "url": "https://n.news.naver.com/mnews/article/028/0002825815"
+      "title": "“월급 절반 은행 바친다”…서울서 ‘내 집 마련 부담’ 3년 반 만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668040"
     },
     {
-      "title": "삼성바이오 노조, 26일부터 3주간 2차 총파업 예고",
-      "url": "https://n.news.naver.com/mnews/article/056/0012267133"
+      "title": "공장 차지하는 휴머노이드, 내 일자리에 위협? 기회?",
+      "url": "https://n.news.naver.com/mnews/article/018/0006380001"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 893.29,
+      "change": -1.0,
+      "change_pct": -0.11
     },
     "nasdaq": {
       "value": 27190.86,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4172.1,
-    "price_krw": 5601086,
-    "change": -30.2,
-    "change_pct": -0.72
+    "price_usd": 4162.3,
+    "price_krw": 5587929,
+    "change": -40.0,
+    "change_pct": -0.95
   },
-  "updated": "2026-10-03 09:17",
+  "updated": "2026-10-04 08:37",
   "error": null
 }
