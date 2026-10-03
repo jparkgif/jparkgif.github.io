@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'자회사 상장설' 개미들 반발에…SK하닉 \"주주가치 우선시할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337947"
+      "title": "해킹 사고 잇따르자…당국 “외부 노출 전산시스템 빠짐없이 점검하라”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003685718"
     },
     {
-      "title": "삼성, 英박물관서 ‘이건희 컬렉션’ 갈라…영국 정재계·유럽 반도체 거물들 총출동",
-      "url": "https://n.news.naver.com/mnews/article/009/0005742501"
+      "title": "미 무역대표 \"과잉생산 안 돼...수주 내 대응조치 발표\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002414144"
     },
     {
-      "title": "9월 농산물 가격 전년 동월 대비 4% 하락…축산물은 3.7% 상승",
-      "url": "https://n.news.naver.com/mnews/article/001/0016352384"
+      "title": "은행 줄줄이 뚫은 AI 에이전트…해킹 자동화의 그림자(종합)[AI프리즘]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016354735"
     },
     {
-      "title": "상반기 파생결합증권·사채 잔액 100조 육박…3년만에 최고치",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338408"
+      "title": "나스닥 장중 사상 최고...엔비디아·AMD 사상 최고[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584499"
     },
     {
-      "title": "신한은행, 고객정보 유출에 사과…\"무거운 책임감, 손해 전액 보상\"(상보)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005823481"
+      "title": "아틀라스, 美 생산 현장 내 로봇 학교서 맹연습…사람 같은 훈련 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006379596"
     },
     {
-      "title": "9월 수출 1209억달러 '역대 최대'…반도체 첫 600억달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/079/0004194554"
+      "title": "시총 미달 기업 퇴출…법원 '거래소 규정' 제동",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338802"
     },
     {
-      "title": "미국에 첫 칠러 공장 짓고 투자처 발굴… AI 사업 영토 넓히는 LG",
-      "url": "https://n.news.naver.com/mnews/article/469/0000957103"
+      "title": "1조9000억원 투입되는 KF-21 공대공 미사일, LIG·한화 공동개발 유력",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001909"
     },
     {
-      "title": "투싼, 美·유럽 안전평가 최고등급 석권…‘수소차부터 하이브리드까지’ 22년 여정 [투싼 월드프리미어]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002704629"
+      "title": "신한 이어 KB·하나·부산銀까지…AI 해킹 포비아",
+      "url": "https://n.news.naver.com/mnews/article/011/0004667755"
     },
     {
-      "title": "\"9월엔 폭락\" 징크스도 깼다... 비트코인, 9월 수익률 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583376"
+      "title": "HD현대중 노조 찬반투표서 임단협 잠정합의안 부결",
+      "url": "https://n.news.naver.com/mnews/article/028/0002825815"
     },
     {
-      "title": "온누리상품권 알리페이서도…전통시장서 사용시 10% 혜택",
-      "url": "https://n.news.naver.com/mnews/article/056/0012266045"
+      "title": "삼성바이오 노조, 26일부터 3주간 2차 총파업 예고",
+      "url": "https://n.news.naver.com/mnews/article/056/0012267133"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6963.63,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 898.65,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26871.6,
-      "change": 10.54,
-      "change_pct": 0.04
+      "value": 27190.86,
+      "change": 319.26,
+      "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1364.58,
-      "change": 7.74,
-      "change_pct": 0.57
+      "value": 1342.51,
+      "change": -14.33,
+      "change_pct": -1.06
     }
   },
   "gold": {
-    "price_usd": 4195.7,
-    "price_krw": 5725368,
-    "change": 9.0,
-    "change_pct": 0.21
+    "price_usd": 4172.1,
+    "price_krw": 5601086,
+    "change": -30.2,
+    "change_pct": -0.72
   },
-  "updated": "2026-10-02 09:36",
+  "updated": "2026-10-03 09:17",
   "error": null
 }
