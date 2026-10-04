@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "외인, 한달간 코스피서 20조 '팔자'…삼전 비중 46%·닉스 49%대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356214"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000912504"
+    },
+    {
+      "title": "금융권 이어 한전까지…한전, 직원 2만4000여명 개인정보 노출",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705358"
+    },
+    {
+      "title": "“일단 내놓고 고친다? AI 재앙 부를 것”…오픈AI 안전 총괄  사임",
+      "url": "https://n.news.naver.com/mnews/article/018/0006380870"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392798"
+      "url": "https://n.news.naver.com/mnews/article/052/0002414452"
     },
     {
-      "title": "“메모리 가격 상승 가속구간 진입…‘삼전닉스’ 최선호” KB證",
-      "url": "https://n.news.naver.com/mnews/article/021/0002822864"
+      "title": "[속보] 이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743724"
     },
     {
-      "title": "美 싱크탱크 “美 전투함 한국 건조, 정치적으로 어려워”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001947"
+      "title": "금융사 7곳 뚫렸다… 개인 6만6천명·법인 2200건 정보 유출 [금융권 전방위 해킹]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584782"
     },
     {
-      "title": "10개월 매달려 美 자존심 뚫고 원전 빗장 열었지만… 남은 협상 첩첩산중",
-      "url": "https://n.news.naver.com/mnews/article/469/0000957497"
+      "title": "동시다발 해킹에 중국산AI 사용 정황…AX 금융시대, 보안 검증 고도화 필요 [금융권 AI 공격 속수무책 (상)]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584781"
     },
     {
-      "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743485"
+      "title": "3040男 편의점서 찾는다고...'혹시 이 빵 있나요?'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000536245"
     },
     {
-      "title": "암살자(들) 300억 투자 논란에…기업·산업은행 \"외부 요청 없었다\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000642879"
+      "title": "LG전자 노사, 아동시설서 가전 수리·AI 체험",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555609"
     },
     {
-      "title": "하이브리드가 밀었다…현대차·기아, 美 분기 판매 첫 50만대",
-      "url": "https://n.news.naver.com/mnews/article/022/0004163788"
-    },
-    {
-      "title": "“월급 절반 은행 바친다”…서울서 ‘내 집 마련 부담’ 3년 반 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668040"
-    },
-    {
-      "title": "공장 차지하는 휴머노이드, 내 일자리에 위협? 기회?",
-      "url": "https://n.news.naver.com/mnews/article/018/0006380001"
+      "title": "한 달 훌쩍 넘은 간병⋯80대 보호자의 약이 떨어졌다",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/296/0000105585?type=series&cid=2003322"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1342.51,
-      "change": -14.33,
-      "change_pct": -1.06
+      "value": 1343.0,
+      "change": -17.59,
+      "change_pct": -1.29
     }
   },
   "gold": {
-    "price_usd": 4162.3,
-    "price_krw": 5587929,
-    "change": -40.0,
-    "change_pct": -0.95
+    "price_usd": 4173.3,
+    "price_krw": 5604741,
+    "change": 11.0,
+    "change_pct": 0.26
   },
-  "updated": "2026-10-04 08:37",
+  "updated": "2026-10-05 08:52",
   "error": null
 }
