@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912504"
+      "title": "ABL·DB손보·KDB생명…주담대 연체율 2% 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051538"
     },
     {
-      "title": "금융권 이어 한전까지…한전, 직원 2만4000여명 개인정보 노출",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705358"
+      "title": "거제·통영 수해 소상공인, 최대 3억원 저금리 지원",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051418"
     },
     {
-      "title": "“일단 내놓고 고친다? AI 재앙 부를 것”…오픈AI 안전 총괄  사임",
-      "url": "https://n.news.naver.com/mnews/article/018/0006380870"
+      "title": "현대백화점, ‘더현대 글로벌’ 파리 상륙…2030년까지 해외매장 10곳 확장",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752961"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414452"
+      "title": "KB국민카드, 문페이·핑거와 손잡고 디지털자산 결제 실증",
+      "url": "https://n.news.naver.com/mnews/article/003/0014234765"
     },
     {
-      "title": "[속보] 이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743724"
+      "title": "김정관 장관 “1600조 지방투자 본격화…2030년 AI팩토리 500개 구축”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006381824"
     },
     {
-      "title": "금융사 7곳 뚫렸다… 개인 6만6천명·법인 2200건 정보 유출 [금융권 전방위 해킹]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584782"
+      "title": "한미반도체 수주공시 - AI 반도체 기판 제조용 대면적 micro SAW & VISION PLACEMENT(MSVP) 장비 수주 244.8억원 (매출액대비  4.24 %)",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339375"
     },
     {
-      "title": "동시다발 해킹에 중국산AI 사용 정황…AX 금융시대, 보안 검증 고도화 필요 [금융권 AI 공격 속수무책 (상)]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584781"
+      "title": "칠러도 장기계약…LG전자, 수조원 ‘잭팟’ 터트렸다[biz-플러스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668351"
     },
     {
-      "title": "3040男 편의점서 찾는다고...'혹시 이 빵 있나요?'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000536245"
+      "title": "LH, 서울대와 기숙사형 전세임대 공급…2030년까지 200가구",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358628"
     },
     {
-      "title": "LG전자 노사, 아동시설서 가전 수리·AI 체험",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555609"
+      "title": "교촌치킨, 일본 간다…\"2027년 상반기 도쿄 1호점 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422339"
     },
     {
-      "title": "한 달 훌쩍 넘은 간병⋯80대 보호자의 약이 떨어졌다",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/296/0000105585?type=series&cid=2003322"
+      "title": "국민은행, 네이버페이·한국정보통신·이지샵과 업무협약",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339440"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46
+      "value": 6981.61,
+      "change": -22.13,
+      "change_pct": -0.32
     },
     "kosdaq": {
-      "value": 893.29,
-      "change": -1.0,
-      "change_pct": -0.11
+      "value": 913.19,
+      "change": 19.9,
+      "change_pct": 2.23
     },
     "nasdaq": {
-      "value": 27190.86,
-      "change": 319.26,
-      "change_pct": 1.19
+      "value": 27477.31,
+      "change": 286.45,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1343.0,
-      "change": -17.59,
-      "change_pct": -1.29
+      "value": 1344.58,
+      "change": 2.02,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 4173.3,
-    "price_krw": 5604741,
-    "change": 11.0,
-    "change_pct": 0.26
+    "price_usd": 4162.7,
+    "price_krw": 5597083,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-05 08:52",
+  "updated": "2026-10-06 10:41",
   "error": null
 }
