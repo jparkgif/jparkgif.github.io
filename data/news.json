@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "강인하지만 부드럽다…현대차 '디 올 뉴 투싼'[시승기]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367250"
+      "title": "코스피 제친 코스닥…반도체 소부장發 랠리 이어질까[선데이머니카페]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669894"
     },
     {
-      "title": "전국 전통시장 공주에 모였다…‘전국 우수시장 박람회’ 개막",
-      "url": "https://n.news.naver.com/mnews/article/081/0003687616"
-    },
-    {
-      "title": "삼성전자 주가, 1월까지 기다려봐?…결국 믿을 건 ‘주주환원’ [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002707228"
+      "title": "年 5% 국채와 맞설 주식 조건은",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108825"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416667"
-    },
-    {
-      "title": "쿠팡 한밤 중 '먹통 사태'⋯슈퍼마켓연합회·택배노조, 대책 마련·보상 촉구",
-      "url": "https://n.news.naver.com/mnews/article/031/0001064741"
-    },
-    {
-      "title": "쿠팡 한밤 2시간여 접속 오류…\"서비스 업그레이드 과정서 발생\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367185"
-    },
-    {
-      "title": "전쟁에 치솟는 곡물가, 애그플레이션 우려 고조…국내 가공식품·서비스가격 자극할 수도",
-      "url": "https://n.news.naver.com/mnews/article/022/0004165408"
-    },
-    {
-      "title": "AI 타고 고도화된 해킹…상반기 사이버보험료 26% 껑충",
-      "url": "https://n.news.naver.com/mnews/article/003/0014243089"
-    },
-    {
-      "title": "경량패딩 아직 없다면…엄브로·파타고니아·미즈노 신상 출시[패션·뷰티 HOT신상]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014244096"
+      "url": "https://n.news.naver.com/mnews/article/448/0000644015"
     },
     {
       "title": "10월 첫째주 휘발유 평균 1857.6원…어느 주유소가 제일쌀까",
       "url": "https://n.news.naver.com/mnews/article/016/0002707451"
+    },
+    {
+      "title": "금융권 연쇄 해킹…굳게 닫힌 '정문' 대신 허술한 '옆문' 뚫었다",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139705"
+    },
+    {
+      "title": "“가짜 불닭볶음면 ‘딱’ 걸렸다”…이젠 지폐 보안기술로 ‘짝퉁 K브랜드’ 싹 잡아",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746511"
+    },
+    {
+      "title": "한국 금융권 노린 해커, 중국 디도스 대행 조직 정황",
+      "url": "https://n.news.naver.com/mnews/article/660/0000118762"
+    },
+    {
+      "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 ↑",
+      "url": "https://n.news.naver.com/mnews/article/422/0000914332"
+    },
+    {
+      "title": "‘삼전·닉스' 자사주 매입 막바지…외국인 매도까지 ‘첩첩산중’[주간증시전망]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197123"
+    },
+    {
+      "title": "\"어차피 아파트 당첨돼도 수십억 못내요\" 요즘 20·30대, 청약통장 깨서 '여기' 투자한다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587165"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:36",
+  "updated": "2026-10-11 09:09",
   "error": null
 }
