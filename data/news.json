@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "코스피 제친 코스닥…반도체 소부장發 랠리 이어질까[선데이머니카페]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669894"
+      "title": "HLB, 간암 신약 FDA 허가 네 번째 도전…제조시설 실사 마치고 재신청",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670156"
     },
     {
-      "title": "年 5% 국채와 맞설 주식 조건은",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108825"
+      "title": "“월 50만원 붓고 2255만원”…청년미래적금, 내일부터 출생연도 상관없이 신청",
+      "url": "https://n.news.naver.com/mnews/article/029/0003052340"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000644015"
+      "title": "중국어로 지시했는데 한국 금융권 공격…어떻게 가능했나",
+      "url": "https://n.news.naver.com/mnews/article/055/0001394633"
     },
     {
-      "title": "10월 첫째주 휘발유 평균 1857.6원…어느 주유소가 제일쌀까",
-      "url": "https://n.news.naver.com/mnews/article/016/0002707451"
+      "title": "정부, 내일부터 '농지 전수조사 상담센터' 운영...\"후속 조치 안내\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002417199"
     },
     {
-      "title": "금융권 연쇄 해킹…굳게 닫힌 '정문' 대신 허술한 '옆문' 뚫었다",
-      "url": "https://n.news.naver.com/mnews/article/586/0000139705"
+      "title": "롯데온, 연중 최대 쇼핑축제 '온쇼페' 연다…최대 84% 할인",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826692"
     },
     {
-      "title": "“가짜 불닭볶음면 ‘딱’ 걸렸다”…이젠 지폐 보안기술로 ‘짝퉁 K브랜드’ 싹 잡아",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746511"
+      "title": "김승연 한화 회장 \"낙관주의 설 자리 없어, 냉혹한 현실 직시해야\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000540864"
     },
     {
-      "title": "한국 금융권 노린 해커, 중국 디도스 대행 조직 정황",
-      "url": "https://n.news.naver.com/mnews/article/660/0000118762"
+      "title": "정년 60세로 유지·재고용 65세까지…경총, '일본식 고용 모델' 소개",
+      "url": "https://n.news.naver.com/mnews/article/119/0003141428"
     },
     {
-      "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 ↑",
-      "url": "https://n.news.naver.com/mnews/article/422/0000914332"
+      "title": "“휴머노이드 로봇 D램… 2030년 20배로 급증”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003754132"
     },
     {
-      "title": "‘삼전·닉스' 자사주 매입 막바지…외국인 매도까지 ‘첩첩산중’[주간증시전망]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197123"
+      "title": "\"6년 전 목표, 이젠 현실로\"..정의선이 이끈 현대차그룹의 '변신'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424417"
     },
     {
-      "title": "\"어차피 아파트 당첨돼도 수십억 못내요\" 요즘 20·30대, 청약통장 깨서 '여기' 투자한다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587165"
+      "title": "\"작년 한은 인수 위조지폐 9천700장…SNS엔 버젓이 판매글\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369646"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6625.93,
-      "change": -177.97,
-      "change_pct": -2.62
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 892.27,
-      "change": -6.16,
-      "change_pct": -0.69
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 27366.17,
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.9,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1338.38,
+      "change": -4.61,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5653636,
-    "change": 59.3,
-    "change_pct": 1.43
+    "price_usd": 4222.5,
+    "price_krw": 5651309,
+    "change": 6.2,
+    "change_pct": 0.15
   },
-  "updated": "2026-10-11 09:09",
+  "updated": "2026-10-12 09:19",
   "error": null
 }
