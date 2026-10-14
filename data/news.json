@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한울반도체, AI 서버용 MLCC 수요 증가 대응…후공정 장비 청사진 공개",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425286"
+      "title": "CXMT가 꺼낸 '4F² D램'에 \"성능은 미지수\"... 차세대 메모리 경쟁 격화",
+      "url": "https://n.news.naver.com/mnews/article/469/0000959247"
     },
     {
-      "title": "IMF, 올해 세계성장률 3.1%로 소폭 상향…\"AI 투자로 수요 자극\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016373003"
+      "title": "임광현 국세청장 “이 대통령 아파트 거래, 과세 대상 아냐”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012272865"
     },
     {
-      "title": "황종우 “북극항로 경제성 2040년부터…북한 연계 고려 안 해”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004165972"
+      "title": "중국車 유럽 물량공세… 현대차그룹, 파리서 재도약 노린다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003688289"
     },
     {
-      "title": "“중국차 타지말고 애국합시다”…91주년 파리오토쇼는 절박한 생존쇼였다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005747504"
+      "title": "'中추격' 쇼크에 반도체 한파...\"이런 하락세 3개월만\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001269074"
     },
     {
-      "title": "머스크 \"中 메모리 기술 확보 땐 양산 막강…차세대 HBM은 난제\" [IT썰]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425257"
+      "title": "“AI 메모리 병목 돌파”…삼성·AMD, 용량 확장 기술 공개",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670890"
     },
     {
-      "title": "美 육군, 한화에어로 자주포에 제식명 ‘XM1776′ 부여",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003503"
+      "title": "\"정비사업 제한 시 매매·전세 폭등\"…학계, 국토부 '쿼터제' 경고",
+      "url": "https://n.news.naver.com/mnews/article/277/0005828065"
     },
     {
-      "title": "요리와 AI의 만남…삼성전자, 글로벌 미식 행사서 AI 가전 선보여",
-      "url": "https://n.news.naver.com/mnews/article/003/0014248648"
+      "title": "신한금융, 6천933억에 롯데손보 인수…'통합 시너지' 기대(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016373404"
     },
     {
-      "title": "삼성전자, HBM 넘어 CXL·SSD까지…AI 메모리·스토리지 혁신 전략 공개",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827602"
+      "title": "3대 지수 하락 속 3분기 실적 시즌 개막…마이크론 주가 급락[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005588756"
     },
     {
-      "title": "광고 대신 영화…이노션의 '제2의 밤낚시' 실험",
-      "url": "https://n.news.naver.com/mnews/article/014/0005588175"
+      "title": "주식 1주만 있어도 할인... 롯데쇼핑, 주주 우대 제도 도입",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003532"
     },
     {
-      "title": "APEC 스마트 모빌리티 포럼서 AI·자율주행 협력 논의",
-      "url": "https://n.news.naver.com/mnews/article/001/0016372994"
+      "title": "15년 동결 KTX 요금 오르나…코레일 사장 \"내년 인상 고민\"[2026국감]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005827967"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5984.79,
-      "change": -399.45,
-      "change_pct": -6.26
-    },
-    "kosdaq": {
-      "value": 810.89,
-      "change": -38.3,
-      "change_pct": -4.51
-    },
-    "nasdaq": {
-      "value": 27245.9,
-      "change": -120.27,
-      "change_pct": -0.44
-    },
-    "usdkrw": {
-      "value": 1338.38,
+      "value": 6035.35,
       "change": 0.0,
       "change_pct": 0.0
+    },
+    "kosdaq": {
+      "value": 837.03,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "nasdaq": {
+      "value": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15
+    },
+    "usdkrw": {
+      "value": 1338.28,
+      "change": 4.15,
+      "change_pct": 0.31
     }
   },
   "gold": {
-    "price_usd": 4192.2,
-    "price_krw": 5610756,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4178.2,
+    "price_krw": 5591601,
+    "change": -12.4,
+    "change_pct": -0.3
   },
-  "updated": "2026-10-13 11:28",
+  "updated": "2026-10-14 09:12",
   "error": null
 }
