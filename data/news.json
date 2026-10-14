@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "CXMT가 꺼낸 '4F² D램'에 \"성능은 미지수\"... 차세대 메모리 경쟁 격화",
-      "url": "https://n.news.naver.com/mnews/article/469/0000959247"
+      "title": "공정위 중점조사기획단 1호 사건, 식품업체 담합...대상·오뚜기·CJ제일제당",
+      "url": "https://n.news.naver.com/mnews/article/052/0002418603"
     },
     {
-      "title": "임광현 국세청장 “이 대통령 아파트 거래, 과세 대상 아냐”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012272865"
+      "title": "[단독] 한전과 '팀코리아' 띄운 韓기업들 …\"美원전이 새 먹거리\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005748723"
     },
     {
-      "title": "중국車 유럽 물량공세… 현대차그룹, 파리서 재도약 노린다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003688289"
+      "title": "현대차, 푸네 신공장 준공식...\"인도 내 100만 대 생산\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002418813"
     },
     {
-      "title": "'中추격' 쇼크에 반도체 한파...\"이런 하락세 3개월만\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001269074"
+      "title": "금융권 AI 해킹에 10만 건 유출…은행·가상자산 등 16곳",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139948"
     },
     {
-      "title": "“AI 메모리 병목 돌파”…삼성·AMD, 용량 확장 기술 공개",
-      "url": "https://n.news.naver.com/mnews/article/011/0004670890"
+      "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
+      "url": "https://n.news.naver.com/mnews/article/009/0005748593"
     },
     {
-      "title": "\"정비사업 제한 시 매매·전세 폭등\"…학계, 국토부 '쿼터제' 경고",
-      "url": "https://n.news.naver.com/mnews/article/277/0005828065"
+      "title": "9월 서울 토허 신청 3678건...5개월 만에 반등",
+      "url": "https://n.news.naver.com/mnews/article/014/0005589431"
     },
     {
-      "title": "신한금융, 6천933억에 롯데손보 인수…'통합 시너지' 기대(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016373404"
+      "title": "LX판토스, 물류 실증 공간 ‘TDL 랩’ 개소…RX·AX 가속화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004671008"
     },
     {
-      "title": "3대 지수 하락 속 3분기 실적 시즌 개막…마이크론 주가 급락[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005588756"
+      "title": "SK가스 \"2027∼2030년 연평균 세전이익 4천500억원 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016377088"
     },
     {
-      "title": "주식 1주만 있어도 할인... 롯데쇼핑, 주주 우대 제도 도입",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003532"
+      "title": "LG전자, 애플과 IoT 신제품 7종 공개… AI홈 생태계 확장 속도",
+      "url": "https://n.news.naver.com/mnews/article/029/0003052940"
     },
     {
-      "title": "15년 동결 KTX 요금 오르나…코레일 사장 \"내년 인상 고민\"[2026국감]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827967"
+      "title": "시부야 한복판에 약과 뜬다…신세계百, K-푸드·라이프 팝업",
+      "url": "https://n.news.naver.com/mnews/article/016/0002709457"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27204.38,
-      "change": -41.52,
-      "change_pct": -0.15
+      "value": 26692.87,
+      "change": -511.51,
+      "change_pct": -1.88
     },
     "usdkrw": {
-      "value": 1338.28,
-      "change": 4.15,
-      "change_pct": 0.31
+      "value": 1340.13,
+      "change": -0.18,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4178.2,
-    "price_krw": 5591601,
-    "change": -12.4,
-    "change_pct": -0.3
+    "price_usd": 4123.4,
+    "price_krw": 5525891,
+    "change": -53.9,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-14 09:12",
+  "updated": "2026-10-15 08:46",
   "error": null
 }
