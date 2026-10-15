@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "공정위 중점조사기획단 1호 사건, 식품업체 담합...대상·오뚜기·CJ제일제당",
-      "url": "https://n.news.naver.com/mnews/article/052/0002418603"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001395550"
     },
     {
-      "title": "[단독] 한전과 '팀코리아' 띄운 韓기업들 …\"美원전이 새 먹거리\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005748723"
+      "title": "금융당국, 증시 급락 긴급 점검…“과도한 신용투자 자제”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012274378"
     },
     {
-      "title": "현대차, 푸네 신공장 준공식...\"인도 내 100만 대 생산\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002418813"
+      "title": "대한항공, 3분기 매출 분기 기준 ‘역대 최대’…여객·화물 쌍끌이 성장",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749155"
     },
     {
-      "title": "금융권 AI 해킹에 10만 건 유출…은행·가상자산 등 16곳",
-      "url": "https://n.news.naver.com/mnews/article/586/0000139948"
+      "title": "금리 인상·중국 메모리 업체 추격 우려…“AI·반도체주 시총 4일간 1조 달러 증발”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012274895"
     },
     {
-      "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
-      "url": "https://n.news.naver.com/mnews/article/009/0005748593"
+      "title": "지그재그, 화면 밖으로 나왔다…성수서 팝업 진행",
+      "url": "https://n.news.naver.com/mnews/article/648/0000051615"
     },
     {
-      "title": "9월 서울 토허 신청 3678건...5개월 만에 반등",
-      "url": "https://n.news.naver.com/mnews/article/014/0005589431"
+      "title": "“연초보다 2억 뛰었다”…반세권 ‘불장’, 분당·동탄 찍고 군포까지",
+      "url": "https://n.news.naver.com/mnews/article/018/0006388575"
     },
     {
-      "title": "LX판토스, 물류 실증 공간 ‘TDL 랩’ 개소…RX·AX 가속화",
-      "url": "https://n.news.naver.com/mnews/article/011/0004671008"
+      "title": "진양곤 의장 \"리보세라닙 넘어 '신약 숲' 가꾼다… CAR-T 등 후속 집중\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005427076"
     },
     {
-      "title": "SK가스 \"2027∼2030년 연평균 세전이익 4천500억원 목표\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016377088"
+      "title": "“얼마나 빼나”보다 “누가 쓰나”…환자 따라 비만약 시장 갈린다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003558222"
     },
     {
-      "title": "LG전자, 애플과 IoT 신제품 7종 공개… AI홈 생태계 확장 속도",
-      "url": "https://n.news.naver.com/mnews/article/029/0003052940"
+      "title": "한일 재무장관, 100억 달러 규모 통화스와프 3년 연장 합의",
+      "url": "https://n.news.naver.com/mnews/article/055/0001395774"
     },
     {
-      "title": "시부야 한복판에 약과 뜬다…신세계百, K-푸드·라이프 팝업",
-      "url": "https://n.news.naver.com/mnews/article/016/0002709457"
+      "title": "정의선 “인도와 함께 발전하는 회사될 것”…車 넘어 인프라·에너지 투자 확대",
+      "url": "https://n.news.naver.com/mnews/article/011/0004671414"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6035.35,
+      "value": 6008.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.03,
+      "value": 823.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26692.87,
-      "change": -511.51,
-      "change_pct": -1.88
+      "value": 26713.03,
+      "change": 20.16,
+      "change_pct": 0.08
     },
     "usdkrw": {
-      "value": 1340.13,
-      "change": -0.18,
-      "change_pct": -0.01
+      "value": 1340.37,
+      "change": 1.02,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 4123.4,
-    "price_krw": 5525891,
-    "change": -53.9,
-    "change_pct": -1.29
+    "price_usd": 4183.2,
+    "price_krw": 5607036,
+    "change": 75.3,
+    "change_pct": 1.83
   },
-  "updated": "2026-10-15 08:46",
+  "updated": "2026-10-16 08:35",
   "error": null
 }
