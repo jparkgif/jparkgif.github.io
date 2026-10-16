@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001395550"
+      "title": "운전자 없이 오는 PV5…기아, 원격 운전 카셰어링 시동",
+      "url": "https://n.news.naver.com/mnews/article/421/0009231383"
     },
     {
-      "title": "금융당국, 증시 급락 긴급 점검…“과도한 신용투자 자제”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012274378"
+      "title": "삼성바이오로직스 노조, 2차 파업 앞두고 21일 집회",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538256"
     },
     {
-      "title": "대한항공, 3분기 매출 분기 기준 ‘역대 최대’…여객·화물 쌍끌이 성장",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749155"
+      "title": "코스피 2%·코스닥 4% 반등…코스피 8거래일 만에 상승",
+      "url": "https://n.news.naver.com/mnews/article/030/0003475868"
     },
     {
-      "title": "금리 인상·중국 메모리 업체 추격 우려…“AI·반도체주 시총 4일간 1조 달러 증발”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012274895"
+      "title": "9월 취업자수 11만명 증가…제조업 반등에도 청년 고용한파 여전(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829358"
     },
     {
-      "title": "지그재그, 화면 밖으로 나왔다…성수서 팝업 진행",
-      "url": "https://n.news.naver.com/mnews/article/648/0000051615"
+      "title": "“삼성·하이닉스 대신 중국산도?”…애플,  CXMT 테스트",
+      "url": "https://n.news.naver.com/mnews/article/018/0006389084"
     },
     {
-      "title": "“연초보다 2억 뛰었다”…반세권 ‘불장’, 분당·동탄 찍고 군포까지",
-      "url": "https://n.news.naver.com/mnews/article/018/0006388575"
+      "title": "현대엘리, 현대무벡스 지분 5.8% 매각·자사주도 1700억원 소각…“주주환원 재원 마련”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002710460"
     },
     {
-      "title": "진양곤 의장 \"리보세라닙 넘어 '신약 숲' 가꾼다… CAR-T 등 후속 집중\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427076"
+      "title": "국제유가 100달러대인데…정부, 휘발유·경유 최고가격 동결",
+      "url": "https://n.news.naver.com/mnews/article/025/0003558475"
     },
     {
-      "title": "“얼마나 빼나”보다 “누가 쓰나”…환자 따라 비만약 시장 갈린다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558222"
+      "title": "OK저축은행, 긴급대응 사흘 만에 또 해킹...고객 268명 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590407"
     },
     {
-      "title": "한일 재무장관, 100억 달러 규모 통화스와프 3년 연장 합의",
-      "url": "https://n.news.naver.com/mnews/article/055/0001395774"
+      "title": "이 대통령, 박동일 산업통상부 차관·신진창 금융위원회 부위원장 임명",
+      "url": "https://n.news.naver.com/mnews/article/422/0000916328"
     },
     {
-      "title": "정의선 “인도와 함께 발전하는 회사될 것”…車 넘어 인프라·에너지 투자 확대",
-      "url": "https://n.news.naver.com/mnews/article/011/0004671414"
+      "title": "수도권 주택 착공률 37%…정부 \"연말 80%대 전망\"",
+      "url": "https://n.news.naver.com/mnews/article/586/0000140139"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6008.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 823.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08
+      "value": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1340.37,
-      "change": 1.02,
-      "change_pct": 0.08
+      "value": 1334.2,
+      "change": -6.75,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4183.2,
-    "price_krw": 5607036,
-    "change": 75.3,
-    "change_pct": 1.83
+    "price_usd": 4186.7,
+    "price_krw": 5585895,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-16 08:35",
+  "updated": "2026-10-17 08:20",
   "error": null
 }
