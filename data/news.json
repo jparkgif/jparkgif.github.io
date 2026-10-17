@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "운전자 없이 오는 PV5…기아, 원격 운전 카셰어링 시동",
-      "url": "https://n.news.naver.com/mnews/article/421/0009231383"
+      "title": "전기차 도전장 낸 렉서스 ES… 차체 키우고 울컥거림 최소화[시승기]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198523"
     },
     {
-      "title": "삼성바이오로직스 노조, 2차 파업 앞두고 21일 집회",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538256"
+      "title": "국내 기름값 22주 연속 하락…정부, 최고가격 동결",
+      "url": "https://n.news.naver.com/mnews/article/310/0000140904"
     },
     {
-      "title": "코스피 2%·코스닥 4% 반등…코스피 8거래일 만에 상승",
-      "url": "https://n.news.naver.com/mnews/article/030/0003475868"
+      "title": "“앞으로 대학 졸업장 필요없을 것”…최태원 ‘충격 조언’, 들어보니",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749963"
     },
     {
-      "title": "9월 취업자수 11만명 증가…제조업 반등에도 청년 고용한파 여전(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829358"
+      "title": "외인 투매 받던 방패 '셋' 사라졌다…5400까지 밀린 코스피, 반등하려면",
+      "url": "https://n.news.naver.com/mnews/article/008/0005427723"
     },
     {
-      "title": "“삼성·하이닉스 대신 중국산도?”…애플,  CXMT 테스트",
-      "url": "https://n.news.naver.com/mnews/article/018/0006389084"
+      "title": "“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결",
+      "url": "https://n.news.naver.com/mnews/article/009/0005750013"
     },
     {
-      "title": "현대엘리, 현대무벡스 지분 5.8% 매각·자사주도 1700억원 소각…“주주환원 재원 마련”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710460"
+      "title": "반값 한우에 싱글몰트 한정판까지…30일부터 '쓱데이'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006390535"
     },
     {
-      "title": "국제유가 100달러대인데…정부, 휘발유·경유 최고가격 동결",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558475"
+      "title": "테슬라, ‘공중 부양’ 로드스터 시연 성공… 스페이스X 합병설 다시 부상",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198550"
     },
     {
-      "title": "OK저축은행, 긴급대응 사흘 만에 또 해킹...고객 268명 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590407"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012275386"
     },
     {
-      "title": "이 대통령, 박동일 산업통상부 차관·신진창 금융위원회 부위원장 임명",
-      "url": "https://n.news.naver.com/mnews/article/422/0000916328"
+      "title": "외국인이 8.8조 던진 삼전·하이닉스…한 주 새 각각 17%·24% 뚝",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343502"
     },
     {
-      "title": "수도권 주택 착공률 37%…정부 \"연말 80%대 전망\"",
-      "url": "https://n.news.naver.com/mnews/article/586/0000140139"
+      "title": "中 CXMT, 3분기 매출 7배 급증 예고…삼성·SK 맹추격",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004411"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5668.05,
+      "change": 113.83,
+      "change_pct": 2.05
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 794.78,
+      "change": 33.96,
+      "change_pct": 4.46
     },
     "nasdaq": {
       "value": 26140.03,
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1334.2,
-      "change": -6.75,
-      "change_pct": -0.5
+      "value": 1329.6,
+      "change": -11.35,
+      "change_pct": -0.85
     }
   },
   "gold": {
-    "price_usd": 4186.7,
-    "price_krw": 5585895,
-    "change": 16.6,
-    "change_pct": 0.4
+    "price_usd": 4181.1,
+    "price_krw": 5559190,
+    "change": 11.0,
+    "change_pct": 0.26
   },
-  "updated": "2026-10-17 08:20",
+  "updated": "2026-10-18 07:57",
   "error": null
 }
