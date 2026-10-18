@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "전기차 도전장 낸 렉서스 ES… 차체 키우고 울컥거림 최소화[시승기]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198523"
+      "title": "5대 은행장 4년 만에 국감 총출동…연쇄 해킹 책임 추궁",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538376"
     },
     {
-      "title": "국내 기름값 22주 연속 하락…정부, 최고가격 동결",
-      "url": "https://n.news.naver.com/mnews/article/310/0000140904"
+      "title": "삼성전자, 내년 임단협에 DS·DX 부문 벌써 ‘노노 갈등’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672545"
     },
     {
-      "title": "“앞으로 대학 졸업장 필요없을 것”…최태원 ‘충격 조언’, 들어보니",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749963"
+      "title": "韓 잠재성장률, 40년 만에 2년 연속 상승 전망...‘반도체 착시’ 경고도",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004438"
     },
     {
-      "title": "외인 투매 받던 방패 '셋' 사라졌다…5400까지 밀린 코스피, 반등하려면",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427723"
+      "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001396329"
     },
     {
-      "title": "“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결",
-      "url": "https://n.news.naver.com/mnews/article/009/0005750013"
+      "title": "복잡한 배선도 AI로봇이 척척… 현대차, 2032년 미래공장 본격가동",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053600"
     },
     {
-      "title": "반값 한우에 싱글몰트 한정판까지…30일부터 '쓱데이'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006390535"
+      "title": "구직 청년 70% 부모와 동거…월평균 58만원 써",
+      "url": "https://n.news.naver.com/mnews/article/079/0004199955"
     },
     {
-      "title": "테슬라, ‘공중 부양’ 로드스터 시연 성공… 스페이스X 합병설 다시 부상",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198550"
+      "title": "美, 관세 무기로 투자 압박… 韓 '원리금 회수' 원칙 흔들리나 [알래스카 투자 '딜레마']",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590783"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012275386"
+      "title": "순환경제 거점 탈바꿈한 佛파리 '르노 리팩토리'…\"신차대신 年7만대 재생산\"[르포]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014260591"
     },
     {
-      "title": "외국인이 8.8조 던진 삼전·하이닉스…한 주 새 각각 17%·24% 뚝",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343502"
+      "title": "전세 가구 이자 7년간 144%↑...자가 가구 2배 상회",
+      "url": "https://n.news.naver.com/mnews/article/052/0002420189"
     },
     {
-      "title": "中 CXMT, 3분기 매출 7배 급증 예고…삼성·SK 맹추격",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004411"
+      "title": "국민연금, 100일만에 200조 증발…삼전닉스로 131조 날아갔다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003558621"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1329.6,
-      "change": -11.35,
-      "change_pct": -0.85
+      "value": 1334.66,
+      "change": -6.29,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4181.1,
-    "price_krw": 5559190,
-    "change": 11.0,
-    "change_pct": 0.26
+    "price_usd": 4197.7,
+    "price_krw": 5602502,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-18 07:57",
+  "updated": "2026-10-19 07:53",
   "error": null
 }
