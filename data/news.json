@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "벤츠 전기차 간판 바꿨다… ‘EQ’ 떼고 주력 GLC·CLA로 승부수",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198901"
+      "title": "\"잘나가면 1년에 10억도 우습다\"…유튜버 수입 뜯어봤더니",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344258"
     },
     {
-      "title": "[속보] 이형일 \"올 성장률 최대 3.6%…증시 기초체력 탄탄\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343879"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001530096"
     },
     {
-      "title": "‘브라질 대선 자금 마련하려 계란 수입?’ 허위 게시물에…농식품부 “법적 대응 검토”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558948"
+      "title": "예탁금 5거래일째 줄어 92조, 9개월來 최저…급락장에 미수금↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009239618"
     },
     {
-      "title": "삼성전기, 글로벌 고객사와 '3605억 규모' 반도체 기판 공급계약…올해 누적 4.3조원",
-      "url": "https://n.news.naver.com/mnews/article/014/0005591341"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/449/0000364740"
     },
     {
-      "title": "해킹 사태에 5대 은행장 국감서 줄사과…보안 예산·인력 확충 약속",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538617"
+      "title": "美반도체주 반등에 원화 강세 탄력…환율 1320원대 안착 시도[외환브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391914"
     },
     {
-      "title": "“산업기술 더는 못 뺏겨”…우회 M&A까지 잡는 ‘특사경’ 뜬다[Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672955"
+      "title": "국민연금 실버론 예산 85억원 증액…연말까지 대출 중단 방지",
+      "url": "https://n.news.naver.com/mnews/article/119/0003144874"
     },
     {
-      "title": "삼성이 투자한 美 엘리먼트, 서울서 차세대 유전체 분석 기술 공개",
-      "url": "https://n.news.naver.com/mnews/article/277/0005830694"
+      "title": "세라젬 창업주, 전문경영인 이경수 대표 양자로…지분 10% 승계",
+      "url": "https://n.news.naver.com/mnews/article/277/0005830798"
     },
     {
-      "title": "취업 준비에 월 58만원…구직 청년 70% “비용 부담”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672635"
+      "title": "무심코 먹은 매운 야식…나트륨 하루치 훌쩍, 맵기도 제각각",
+      "url": "https://n.news.naver.com/mnews/article/003/0014265443"
     },
     {
-      "title": "할리스 개인정보 유출…\"멤버십 비밀번호 즉시 변경해달라\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016384397"
+      "title": "신세계, 중앙일보 인수 참여…\"CJ컨소시엄 일부, 양사 시너지 기대\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000645929"
     },
     {
-      "title": "농식품부 “김장철 배추·무 공급 안정적…마늘·양파값 다소 높을 듯”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012276409"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012277525"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26430.89,
-      "change": 290.86,
-      "change_pct": 1.11
+      "value": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02
     },
     "usdkrw": {
-      "value": 1327.18,
-      "change": -6.25,
-      "change_pct": -0.47
+      "value": 1325.46,
+      "change": -4.54,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4151.8,
-    "price_krw": 5510185,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4134.3,
+    "price_krw": 5479849,
+    "change": -25.8,
+    "change_pct": -0.62
   },
-  "updated": "2026-10-20 09:09",
+  "updated": "2026-10-21 08:41",
   "error": null
 }
