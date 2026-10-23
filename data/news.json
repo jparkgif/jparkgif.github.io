@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "김민석 \"가상자산 과세 연내 결론\"…정부에 최종 점검 제안",
-      "url": "https://n.news.naver.com/mnews/article/014/0005592823"
+      "title": "반도체 산단 속도전…인허가·보상·설계까지 동시 추진",
+      "url": "https://n.news.naver.com/mnews/article/422/0000918802"
     },
     {
-      "title": "申 한은 총재 “금리 동결은 호미의 결실”…확장 재정엔 이례적 경고",
-      "url": "https://n.news.naver.com/mnews/article/029/0003054637"
+      "title": "비트코인 해시레이트, 7개월만에 최고…\"비트코인 강세 시그널\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006394303"
     },
     {
-      "title": "롯데, 15년 만에 서울에 새 점포…청량리점으로 '동북권 쇼핑 중심지' 노린다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003559790"
+      "title": "‘경기도 라인’ LH 사장의 “前 정부 탓”…‘집값 시한폭탄론’에 속터지는 국민들",
+      "url": "https://n.news.naver.com/mnews/article/029/0003054904"
     },
     {
-      "title": "SK하이닉스, 솔리다임 美상장 검토 중단…\"시장 여건·주가흐름 고려\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832383"
+      "title": "허민호 신세계까사·신세계인터내셔날 코스메틱 신임 대표[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/092/0002442135"
     },
     {
-      "title": "골드만삭스, 글로벌 LP 225곳 설문…84%는 “출자 늘리거나 유지” [시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674235"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012279927"
     },
     {
-      "title": "형들 지분도 산다…김동선, 공개매수 2100억원으로 확대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005831910"
+      "title": "오세훈 '여론조사 대납' 항소심 무죄에…테마주 무더기 상한가 [종목NOW]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005593647"
     },
     {
-      "title": "\"손해보고 취소합니다\"…파리 여행 포기 속출에 항공사들 결국",
-      "url": "https://n.news.naver.com/mnews/article/018/0006394135"
+      "title": "홍지선 \"집값, 공급 확대·금리 인상 등 영향\"… 전월세난엔 \"공급 부족\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430705"
     },
     {
-      "title": "이억원 “산은 부산 이전 않는 것으로 알아”→“국회에서 결정” 해명",
-      "url": "https://n.news.naver.com/mnews/article/022/0004168924"
+      "title": "코스피, 삼전·닉스 반등에 5550선 강보합 마감",
+      "url": "https://n.news.naver.com/mnews/article/003/0014274841"
     },
     {
-      "title": "법원 “고려아연 자사주 공개매수 적법”... 영풍 1심 패소",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005302"
+      "title": "영풍, 고려아연 상대 8000억원대 소송 1심 패소",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005455"
     },
     {
-      "title": "LG이노텍, 엔비디아 '피지컬 AI' 로봇 센싱 솔루션 개발 협력",
-      "url": "https://n.news.naver.com/mnews/article/030/0003477546"
+      "title": "대한항공 이어 아시아나도 고객정보 유출…\"협력사 해킹 피해\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247253"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5735.66,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 792.76,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26008.86,
-      "change": -694.0,
-      "change_pct": -2.6
+      "value": 25955.34,
+      "change": -53.52,
+      "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.8,
-      "change": 0.21,
-      "change_pct": 0.02
+      "value": 1323.66,
+      "change": -1.93,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4039.7,
-    "price_krw": 5355834,
-    "change": -110.3,
-    "change_pct": -2.66
+    "price_usd": 4010.0,
+    "price_krw": 5307876,
+    "change": -50.4,
+    "change_pct": -1.24
   },
-  "updated": "2026-10-23 08:55",
+  "updated": "2026-10-24 08:46",
   "error": null
 }
