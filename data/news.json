@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "반도체 산단 속도전…인허가·보상·설계까지 동시 추진",
-      "url": "https://n.news.naver.com/mnews/article/422/0000918802"
+      "title": "대한항공 예약·발권 시스템 운영사서 개인정보 유출 정황",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560117"
     },
     {
-      "title": "비트코인 해시레이트, 7개월만에 최고…\"비트코인 강세 시그널\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006394303"
+      "title": "\"이주 물량 몰린다\" 씨마른 전세, 여기서 더?...보증금 더 오르나",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430994"
     },
     {
-      "title": "‘경기도 라인’ LH 사장의 “前 정부 탓”…‘집값 시한폭탄론’에 속터지는 국민들",
-      "url": "https://n.news.naver.com/mnews/article/029/0003054904"
+      "title": "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003054906"
     },
     {
-      "title": "허민호 신세계까사·신세계인터내셔날 코스메틱 신임 대표[프로필]",
-      "url": "https://n.news.naver.com/mnews/article/092/0002442135"
+      "title": "한전, 사채 한도 19조 초과 위기…전기요금 인상 압박 커진다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005346056"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012279927"
+      "title": "월 1회 주사에 먹는 약까지…진화하는 K비만치료제[바이오사이언스]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016397862"
     },
     {
-      "title": "오세훈 '여론조사 대납' 항소심 무죄에…테마주 무더기 상한가 [종목NOW]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005593647"
+      "title": "‘金계란’에 산란계 역대 최다…고물가가 바꾼 ‘단백질 식탁’ [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674777"
     },
     {
-      "title": "홍지선 \"집값, 공급 확대·금리 인상 등 영향\"… 전월세난엔 \"공급 부족\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430705"
+      "title": "라자루스 연계 의심 세력, PHP 취약점으로 정부·금융기관 공격 준비",
+      "url": "https://n.news.naver.com/mnews/article/088/0001036247"
     },
     {
-      "title": "코스피, 삼전·닉스 반등에 5550선 강보합 마감",
-      "url": "https://n.news.naver.com/mnews/article/003/0014274841"
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398125"
     },
     {
-      "title": "영풍, 고려아연 상대 8000억원대 소송 1심 패소",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005455"
+      "title": "임금교섭 결렬, 포스코 노조 다음 달 무기한 파업 돌입",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560168"
     },
     {
-      "title": "대한항공 이어 아시아나도 고객정보 유출…\"협력사 해킹 피해\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009247253"
+      "title": "돈가스 1만7000원…1만원 팔면 6300원 떼가는 휴게소의 비밀",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/022/0004169368?type=series&cid=2002138"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 751.69,
+      "change": -12.41,
+      "change_pct": -1.62
     },
     "nasdaq": {
       "value": 25955.34,
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1323.66,
-      "change": -1.93,
-      "change_pct": -0.15
+      "value": 1325.4,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4010.0,
-    "price_krw": 5307876,
-    "change": -50.4,
-    "change_pct": -1.24
+    "price_usd": 4007.9,
+    "price_krw": 5312070,
+    "change": -52.5,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-24 08:46",
+  "updated": "2026-10-25 08:00",
   "error": null
 }
