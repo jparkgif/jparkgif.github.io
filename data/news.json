@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "대한항공 예약·발권 시스템 운영사서 개인정보 유출 정황",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560117"
+      "title": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398415"
     },
     {
-      "title": "\"이주 물량 몰린다\" 씨마른 전세, 여기서 더?...보증금 더 오르나",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430994"
+      "title": "Z세대 6명중 1명 “비만치료제 써봤다”…성인 10명 중 1명 이용 경험",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753505"
     },
     {
-      "title": "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003054906"
+      "title": "케네디 인용한 李 “밀물 오면 모든 배 떠…경상수지, 기회의 물결”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757420"
     },
     {
-      "title": "한전, 사채 한도 19조 초과 위기…전기요금 인상 압박 커진다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346056"
+      "title": "중국 추격 빨라지는데, '실탄' 어디서 구하나...솔리다임 '자금 조달' 숙제",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431380"
     },
     {
-      "title": "월 1회 주사에 먹는 약까지…진화하는 K비만치료제[바이오사이언스]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016397862"
+      "title": "골드만, 코스피 목표치 25%↓ 조정…\"지나친 비관론, 여전히 매력적\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005833135"
     },
     {
-      "title": "‘金계란’에 산란계 역대 최다…고물가가 바꾼 ‘단백질 식탁’ [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674777"
+      "title": "삼성물산, 도시정비 첫 ‘10조 클럽’ 입성",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674950"
     },
     {
-      "title": "라자루스 연계 의심 세력, PHP 취약점으로 정부·금융기관 공격 준비",
-      "url": "https://n.news.naver.com/mnews/article/088/0001036247"
+      "title": "롯데 쿠폰발행사 '기프티엘', 해킹으로 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/014/0005594097"
     },
     {
-      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398125"
+      "title": "FOMC·삼전닉스 실적 발표… 코스피 '빅이벤트' 버텨낼까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431339"
     },
     {
-      "title": "임금교섭 결렬, 포스코 노조 다음 달 무기한 파업 돌입",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560168"
+      "title": "롯데, 베트남 명문대 캠퍼스 리쿠르팅 진행...\"취업준비생 3천여 명 몰려\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002423336"
     },
     {
-      "title": "돈가스 1만7000원…1만원 팔면 6300원 떼가는 휴게소의 비밀",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/022/0004169368?type=series&cid=2002138"
+      "title": "“밥을 왜 사 먹냐”던 햇반, 1.5조 브랜드로…미국인 식탁까지 공략",
+      "url": "https://n.news.naver.com/mnews/article/011/0004675037"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.4,
-      "change": -0.59,
-      "change_pct": -0.04
+      "value": 1323.41,
+      "change": -2.58,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 4007.9,
-    "price_krw": 5312070,
-    "change": -52.5,
-    "change_pct": -1.29
+    "price_usd": 4014.7,
+    "price_krw": 5313094,
+    "change": 6.8,
+    "change_pct": 0.17
   },
-  "updated": "2026-10-25 08:00",
+  "updated": "2026-10-26 08:06",
   "error": null
 }
