@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398415"
+      "title": "외국인·귀화자 등 281만명, 인구의 5.4%…20·30대는 10명 중 1명",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560537"
     },
     {
-      "title": "Z세대 6명중 1명 “비만치료제 써봤다”…성인 10명 중 1명 이용 경험",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753505"
+      "title": "'문화부터 의료까지'…40년 사회공헌 홍라희, 국민훈장 동백장 수훈",
+      "url": "https://n.news.naver.com/mnews/article/421/0009250382"
     },
     {
-      "title": "케네디 인용한 李 “밀물 오면 모든 배 떠…경상수지, 기회의 물결”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757420"
+      "title": "3분기 中企 수출 334억달러 '역대 최대'…K뷰티·반도체 호조",
+      "url": "https://n.news.naver.com/mnews/article/001/0016400392"
     },
     {
-      "title": "중국 추격 빨라지는데, '실탄' 어디서 구하나...솔리다임 '자금 조달' 숙제",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431380"
+      "title": "[속보] KB국민은행 정보유출 2210명으로 늘어…2091명 추가 확인",
+      "url": "https://n.news.naver.com/mnews/article/018/0006396567"
     },
     {
-      "title": "골드만, 코스피 목표치 25%↓ 조정…\"지나친 비관론, 여전히 매력적\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005833135"
+      "title": "앤스로픽, 美 상장 신고서 제출… ‘2조달러’ 공룡 탄생하나",
+      "url": "https://n.news.naver.com/mnews/article/023/0004006114"
     },
     {
-      "title": "삼성물산, 도시정비 첫 ‘10조 클럽’ 입성",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674950"
+      "title": "삼성SDI, 美 ESS 시장서 수주 릴레이",
+      "url": "https://n.news.naver.com/mnews/article/022/0004170002"
     },
     {
-      "title": "롯데 쿠폰발행사 '기프티엘', 해킹으로 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/014/0005594097"
+      "title": "뉴욕증시, 앤트로픽 IPO 기대감에 상승…나스닥 0.8%↑",
+      "url": "https://n.news.naver.com/mnews/article/629/0000545745"
     },
     {
-      "title": "FOMC·삼전닉스 실적 발표… 코스피 '빅이벤트' 버텨낼까",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431339"
+      "title": "금감원 무효확인서, 첫 형사 무죄 판결에 활용…불법사금융 피해자 구제",
+      "url": "https://n.news.naver.com/mnews/article/003/0014279418"
     },
     {
-      "title": "롯데, 베트남 명문대 캠퍼스 리쿠르팅 진행...\"취업준비생 3천여 명 몰려\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002423336"
+      "title": "9월 기업 직접금융 조달 28.5조…전월 대비 74.9% 증가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005346835"
     },
     {
-      "title": "“밥을 왜 사 먹냐”던 햇반, 1.5조 브랜드로…미국인 식탁까지 공략",
-      "url": "https://n.news.naver.com/mnews/article/011/0004675037"
+      "title": "한은 \"4분기 가계대출 수요 늘어날 듯\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000919577"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5550.3,
-      "change": 16.53,
-      "change_pct": 0.3
+      "value": 5469.47,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 751.69,
-      "change": -12.41,
-      "change_pct": -1.62
+      "value": 727.21,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25955.34,
-      "change": -53.52,
-      "change_pct": -0.21
+      "value": 26169.38,
+      "change": 214.04,
+      "change_pct": 0.82
     },
     "usdkrw": {
-      "value": 1323.41,
-      "change": -2.58,
-      "change_pct": -0.19
+      "value": 1323.8,
+      "change": 2.04,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 4014.7,
-    "price_krw": 5313094,
-    "change": 6.8,
-    "change_pct": 0.17
+    "price_usd": 4023.3,
+    "price_krw": 5326044,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-26 08:06",
+  "updated": "2026-10-27 09:16",
   "error": null
 }
