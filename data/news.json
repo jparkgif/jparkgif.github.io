@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "외국인·귀화자 등 281만명, 인구의 5.4%…20·30대는 10명 중 1명",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560537"
+      "title": "대신증권, 고객정보 3만8천여건 유출…긴급 대응조치 시행",
+      "url": "https://n.news.naver.com/mnews/article/001/0016404963"
     },
     {
-      "title": "'문화부터 의료까지'…40년 사회공헌 홍라희, 국민훈장 동백장 수훈",
-      "url": "https://n.news.naver.com/mnews/article/421/0009250382"
+      "title": "취임 4주년 날, 로봇 개발 현장 간 이재용",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560955"
     },
     {
-      "title": "3분기 中企 수출 334억달러 '역대 최대'…K뷰티·반도체 호조",
-      "url": "https://n.news.naver.com/mnews/article/001/0016400392"
+      "title": "박현주 미래에셋 회장 \"조만간 새 M&A 발표\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005432496"
     },
     {
-      "title": "[속보] KB국민은행 정보유출 2210명으로 늘어…2091명 추가 확인",
-      "url": "https://n.news.naver.com/mnews/article/018/0006396567"
+      "title": "HD현대중 노사, 임단협 타결…1인당 평균 4136만원 지급",
+      "url": "https://n.news.naver.com/mnews/article/079/0004203624"
     },
     {
-      "title": "앤스로픽, 美 상장 신고서 제출… ‘2조달러’ 공룡 탄생하나",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006114"
+      "title": "SK하이닉스, 3분기 영업익 83조…시장 기대치 뛰어넘었다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005432678"
     },
     {
-      "title": "삼성SDI, 美 ESS 시장서 수주 릴레이",
-      "url": "https://n.news.naver.com/mnews/article/022/0004170002"
+      "title": "JYP 공개매수 예고에 주가 출렁…금감원 \"불공정거래 예의주시\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004203599"
     },
     {
-      "title": "뉴욕증시, 앤트로픽 IPO 기대감에 상승…나스닥 0.8%↑",
-      "url": "https://n.news.naver.com/mnews/article/629/0000545745"
+      "title": "올해 경제 성장률 3.6∼4.0% 될 듯…반도체 수출 호조 영향",
+      "url": "https://n.news.naver.com/mnews/article/028/0002829330"
     },
     {
-      "title": "금감원 무효확인서, 첫 형사 무죄 판결에 활용…불법사금융 피해자 구제",
-      "url": "https://n.news.naver.com/mnews/article/003/0014279418"
+      "title": "LG엔솔, 재생에너지社 에너직스와 맞손…유럽·북미 ESS 사업 확대",
+      "url": "https://n.news.naver.com/mnews/article/421/0009252111"
     },
     {
-      "title": "9월 기업 직접금융 조달 28.5조…전월 대비 74.9% 증가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346835"
+      "title": "LG이노텍, 3분기 영업익 948억…매출 첫 6조원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/029/0003055559"
     },
     {
-      "title": "한은 \"4분기 가계대출 수요 늘어날 듯\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000919577"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000919976"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5469.47,
+      "value": 5638.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 727.21,
+      "value": 743.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26169.38,
-      "change": 214.04,
-      "change_pct": 0.82
+      "value": 26477.81,
+      "change": 308.43,
+      "change_pct": 1.18
     },
     "usdkrw": {
-      "value": 1323.8,
-      "change": 2.04,
-      "change_pct": 0.15
+      "value": 1327.7,
+      "change": 2.93,
+      "change_pct": 0.22
     }
   },
   "gold": {
-    "price_usd": 4023.3,
-    "price_krw": 5326044,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4082.3,
+    "price_krw": 5420069,
+    "change": 43.9,
+    "change_pct": 1.09
   },
-  "updated": "2026-10-27 09:16",
+  "updated": "2026-10-28 09:19",
   "error": null
 }
