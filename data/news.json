@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대신증권, 고객정보 3만8천여건 유출…긴급 대응조치 시행",
-      "url": "https://n.news.naver.com/mnews/article/001/0016404963"
+      "title": "LG전자, 단박에 ‘AI냉각’ 수주 3조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/029/0003055775"
     },
     {
-      "title": "취임 4주년 날, 로봇 개발 현장 간 이재용",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560955"
-    },
-    {
-      "title": "박현주 미래에셋 회장 \"조만간 새 M&A 발표\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005432496"
-    },
-    {
-      "title": "HD현대중 노사, 임단협 타결…1인당 평균 4136만원 지급",
-      "url": "https://n.news.naver.com/mnews/article/079/0004203624"
-    },
-    {
-      "title": "SK하이닉스, 3분기 영업익 83조…시장 기대치 뛰어넘었다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005432678"
-    },
-    {
-      "title": "JYP 공개매수 예고에 주가 출렁…금감원 \"불공정거래 예의주시\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004203599"
-    },
-    {
-      "title": "올해 경제 성장률 3.6∼4.0% 될 듯…반도체 수출 호조 영향",
-      "url": "https://n.news.naver.com/mnews/article/028/0002829330"
-    },
-    {
-      "title": "LG엔솔, 재생에너지社 에너직스와 맞손…유럽·북미 ESS 사업 확대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009252111"
-    },
-    {
-      "title": "LG이노텍, 3분기 영업익 948억…매출 첫 6조원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/029/0003055559"
+      "title": "80% 이익률보다 ‘2030년 공급 부족’…월가가 본 SK하이닉스",
+      "url": "https://n.news.naver.com/mnews/article/018/0006398342"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000919976"
+      "url": "https://n.news.naver.com/mnews/article/448/0000647599"
+    },
+    {
+      "title": "미래에셋, 日 증권사 품는다…산코증권 425억에 인수[닛케이]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003055947"
+    },
+    {
+      "title": "증선위, 미공개정보로 부당이득 취한 내부자 중수청 고발",
+      "url": "https://n.news.naver.com/mnews/article/001/0016407218"
+    },
+    {
+      "title": "콘티넨탈타이어, 수입타이어 품질만족도 1위…성능·브랜드 경쟁력 입증",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596224"
+    },
+    {
+      "title": "워시 “연 8회 FOMC 내년엔 7회, 2028년엔 6회로 축소”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004676309"
+    },
+    {
+      "title": "알파벳, 3분기 매출 25% 증가한 171조원…시장 전망치 하회",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201077"
+    },
+    {
+      "title": "퇴직급여 사외적립 2030년 전면 의무화…연금 자동지급도 검토",
+      "url": "https://n.news.naver.com/mnews/article/421/0009256903"
+    },
+    {
+      "title": "이마트, 몽골 7호점 개점… 내달 8호점 열고 노브랜드도 확대",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201089"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5638.34,
+      "value": 6060.14,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 743.83,
+      "value": 765.06,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26477.81,
-      "change": 308.43,
-      "change_pct": 1.18
+      "value": 26549.85,
+      "change": 72.04,
+      "change_pct": 0.27
     },
     "usdkrw": {
-      "value": 1327.7,
-      "change": 2.93,
-      "change_pct": 0.22
+      "value": 1336.94,
+      "change": 10.13,
+      "change_pct": 0.76
     }
   },
   "gold": {
-    "price_usd": 4082.3,
-    "price_krw": 5420069,
-    "change": 43.9,
-    "change_pct": 1.09
+    "price_usd": 4054.4,
+    "price_krw": 5420489,
+    "change": -20.2,
+    "change_pct": -0.5
   },
-  "updated": "2026-10-28 09:19",
+  "updated": "2026-10-29 09:40",
   "error": null
 }
