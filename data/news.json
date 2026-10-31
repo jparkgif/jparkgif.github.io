@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "신세계백화점, 롯데 센텀시티점 인수…“부산에 신세계 타운 구축”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012283408"
+      "title": "효성중공업·지멘스, 디지털 전력망·AI 데이터센터 맞손",
+      "url": "https://n.news.naver.com/mnews/article/014/0005597108"
     },
     {
-      "title": "경영계 “퇴직연금 의무화, 영세기업 부담 우려…단계적 시행 필요”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002715888"
+      "title": "'바이낸스 해킹 의혹'에 비트코인 급락...국내 거래소, 출금 주의 공지",
+      "url": "https://n.news.naver.com/mnews/article/022/0004171129"
     },
     {
-      "title": "현대차, 美 하이브리드·유럽 전기차 총력 대응",
-      "url": "https://n.news.naver.com/mnews/article/030/0003480166"
+      "title": "GS25, '대장균군 부적합' 한정선 찹쌀떡 판매 중단·재고 폐기",
+      "url": "https://n.news.naver.com/mnews/article/003/0014290768"
     },
     {
-      "title": "가상자산 거래소 프라뱅, 1억어치 해킹 유출…실제 자산피해 첫 사례",
-      "url": "https://n.news.naver.com/mnews/article/020/0003758693"
+      "title": "‘탱크데이’ 불매 여파?…스벅 광주 대형매장 문닫았다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003758930"
     },
     {
-      "title": "삼성SDI, 3분기 영업익 4078억원…ESS 호조에 12분기 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835027"
+      "title": "\"토스, 日 치어증권 주식 전량 취득할 듯…일본 젊은층 공략\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016411627"
     },
     {
-      "title": "삼성전자, ‘코리아 그랜드 페스티벌’…소상공인 전용 품목 2배 확대",
-      "url": "https://n.news.naver.com/mnews/article/018/0006399645"
+      "title": "프라뱅 해킹에 가상자산 1억원 탈취…거래소 보안관리 도마",
+      "url": "https://n.news.naver.com/mnews/article/030/0003480353"
     },
     {
-      "title": "김포·구리 그린벨트 풀어 … 7.7만가구 추가공급 속도",
-      "url": "https://n.news.naver.com/mnews/article/009/0005756200"
+      "title": "SK하이닉스, 美 미주총괄 신설…'HBM 주역' 안현 사장 전진배치",
+      "url": "https://n.news.naver.com/mnews/article/008/0005434157"
     },
     {
-      "title": "2000억 수혈에도 자금난 여전…홈플러스, 희망퇴직마저 철회",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835604"
+      "title": "한보家와 소송 8건 얽힌 은마 … 분담금 영향 미칠까 '촉각'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005756740"
     },
     {
-      "title": "삼성전자 \"잔여 주주환원 55조~75조원 규모 자사주 매입·소각\"[컨콜]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835162"
+      "title": "현대차그룹, 내년 3월 새만금 AI 데이터센터 첫 삽",
+      "url": "https://n.news.naver.com/mnews/article/092/0002443152"
     },
     {
-      "title": "대우건설 “체코 원전 시공협상 결렬 유감…재협상 촉구”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004676686"
+      "title": "7명 숨진 울산화력 붕괴사고…기둥 과다절단·구조검토 부실 탓",
+      "url": "https://n.news.naver.com/mnews/article/018/0006399759"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5717.79,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 734.21,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1338.58,
-      "change": -1.76,
-      "change_pct": -0.13
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4023.0,
-    "price_krw": 5385107,
-    "change": -28.6,
-    "change_pct": -0.71
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:41",
+  "updated": "2026-10-31 09:33",
   "error": null
 }
