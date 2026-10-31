@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "효성중공업·지멘스, 디지털 전력망·AI 데이터센터 맞손",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597108"
+      "title": "美 중간선거 후 변동성 확대 가능성…SK하닉이 완충판 돼줄까 [주간전망]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348818"
     },
     {
-      "title": "'바이낸스 해킹 의혹'에 비트코인 급락...국내 거래소, 출금 주의 공지",
-      "url": "https://n.news.naver.com/mnews/article/022/0004171129"
+      "title": "김치·즉석밥·라면·치킨…담합 의혹조사 확대",
+      "url": "https://n.news.naver.com/mnews/article/449/0000365910"
     },
     {
-      "title": "GS25, '대장균군 부적합' 한정선 찹쌀떡 판매 중단·재고 폐기",
-      "url": "https://n.news.naver.com/mnews/article/003/0014290768"
+      "title": "계양신도시 카이브 유보라, 11월 2일 특별공급 시작… 블록별 중복청약 가능",
+      "url": "https://n.news.naver.com/mnews/article/020/0003759099"
     },
     {
-      "title": "‘탱크데이’ 불매 여파?…스벅 광주 대형매장 문닫았다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003758930"
+      "title": "\"반전세 산다더니 100억 집주인 됐다\"…김동현, 압구정 신현대 매수",
+      "url": "https://n.news.naver.com/mnews/article/014/0005597299"
     },
     {
-      "title": "\"토스, 日 치어증권 주식 전량 취득할 듯…일본 젊은층 공략\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016411627"
+      "title": "샘 올트먼, 삼성·SK 잇따라 방문‥회동 AI 협력 논의",
+      "url": "https://n.news.naver.com/mnews/article/214/0001532682"
     },
     {
-      "title": "프라뱅 해킹에 가상자산 1억원 탈취…거래소 보안관리 도마",
-      "url": "https://n.news.naver.com/mnews/article/030/0003480353"
+      "title": "BYD 국내 판매 2만 대 돌파…현대차·기아 中 점유율은 0.6%",
+      "url": "https://n.news.naver.com/mnews/article/448/0000648104"
     },
     {
-      "title": "SK하이닉스, 美 미주총괄 신설…'HBM 주역' 안현 사장 전진배치",
-      "url": "https://n.news.naver.com/mnews/article/008/0005434157"
+      "title": "블랙프라이데이 시동 건 롯데온…할인쿠폰·특가 상품 쏟아낸다",
+      "url": "https://n.news.naver.com/mnews/article/138/0002246802"
     },
     {
-      "title": "한보家와 소송 8건 얽힌 은마 … 분담금 영향 미칠까 '촉각'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005756740"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002426311"
     },
     {
-      "title": "현대차그룹, 내년 3월 새만금 AI 데이터센터 첫 삽",
-      "url": "https://n.news.naver.com/mnews/article/092/0002443152"
+      "title": "쓴 만큼 못 버는 AI…알파벳 시총 669조 증발에 삼전·닉스 ‘비상’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561825"
     },
     {
-      "title": "7명 숨진 울산화력 붕괴사고…기둥 과다절단·구조검토 부실 탓",
-      "url": "https://n.news.naver.com/mnews/article/018/0006399759"
+      "title": "인텔, PC 사업 우려에 1982년 이후 최대 낙폭",
+      "url": "https://n.news.naver.com/mnews/article/293/0000092504"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 724.38,
+      "change": -28.85,
+      "change_pct": -3.83
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -2.36,
-      "change_pct": -0.18
+      "value": 1335.1,
+      "change": -2.88,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3884.9,
-    "price_krw": 5197918,
-    "change": -146.5,
-    "change_pct": -3.63
+    "price_usd": 3898.9,
+    "price_krw": 5205421,
+    "change": -132.5,
+    "change_pct": -3.29
   },
-  "updated": "2026-10-31 09:33",
+  "updated": "2026-11-01 08:58",
   "error": null
 }
