@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "美 중간선거 후 변동성 확대 가능성…SK하닉이 완충판 돼줄까 [주간전망]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005348818"
+      "title": "日패키징랩 찾은 JY… 반도체 초격차 강조",
+      "url": "https://n.news.naver.com/mnews/article/009/0005757175"
     },
     {
-      "title": "김치·즉석밥·라면·치킨…담합 의혹조사 확대",
-      "url": "https://n.news.naver.com/mnews/article/449/0000365910"
+      "title": "연평균 50조 세수 오차에 “추계 근거 밝혀라” 법안 발의",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007105"
     },
     {
-      "title": "계양신도시 카이브 유보라, 11월 2일 특별공급 시작… 블록별 중복청약 가능",
-      "url": "https://n.news.naver.com/mnews/article/020/0003759099"
+      "title": "저PBR 151개사 명단 첫공개…현대제철 등 시총 1조 이상도 포함",
+      "url": "https://n.news.naver.com/mnews/article/055/0001399727"
     },
     {
-      "title": "\"반전세 산다더니 100억 집주인 됐다\"…김동현, 압구정 신현대 매수",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597299"
+      "title": "'오일씰' 국산화로 글로벌 경쟁력 강화… 진양오일씰 금탑훈장[제50회 국가생산성대회]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005597620"
     },
     {
-      "title": "샘 올트먼, 삼성·SK 잇따라 방문‥회동 AI 협력 논의",
-      "url": "https://n.news.naver.com/mnews/article/214/0001532682"
+      "title": "韓 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨 이어 세계 네 번째",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561964"
     },
     {
-      "title": "BYD 국내 판매 2만 대 돌파…현대차·기아 中 점유율은 0.6%",
-      "url": "https://n.news.naver.com/mnews/article/448/0000648104"
+      "title": "\"반도체 자사주 매입, 하단 지지 효과 있지만…반등은 外人 관건\"-키움",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349032"
     },
     {
-      "title": "블랙프라이데이 시동 건 롯데온…할인쿠폰·특가 상품 쏟아낸다",
-      "url": "https://n.news.naver.com/mnews/article/138/0002246802"
+      "title": "체코 원전 시공계약 결렬, 정부 비상관리체제 가동…\"차질없이 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005434894"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002426311"
+      "title": "창업진흥원, ‘SWITCH 2026’서 10개 기관과 통합관 운영… 13억 계약 추진",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717326"
     },
     {
-      "title": "쓴 만큼 못 버는 AI…알파벳 시총 669조 증발에 삼전·닉스 ‘비상’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561825"
+      "title": "서울 중하위권 아파트, 월세까지 오른다… 노원구 올해 12.9% 상승",
+      "url": "https://n.news.naver.com/mnews/article/469/0000962907"
     },
     {
-      "title": "인텔, PC 사업 우려에 1982년 이후 최대 낙폭",
-      "url": "https://n.news.naver.com/mnews/article/293/0000092504"
+      "title": "한화, 필리조선소 인수 후 첫 美 군함 수주",
+      "url": "https://n.news.naver.com/mnews/article/018/0006401124"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": -206.92,
-      "change_pct": -3.48
+      "value": 5652.11,
+      "change": -78.63,
+      "change_pct": -1.37
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": -28.85,
-      "change_pct": -3.83
+      "value": 720.87,
+      "change": -3.51,
+      "change_pct": -0.48
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1335.1,
-      "change": -2.88,
+      "value": 1334.98,
+      "change": -3.0,
       "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3898.9,
-    "price_krw": 5205421,
-    "change": -132.5,
-    "change_pct": -3.29
+    "price_usd": 3910.0,
+    "price_krw": 5219771,
+    "change": 11.1,
+    "change_pct": 0.28
   },
-  "updated": "2026-11-01 08:58",
+  "updated": "2026-11-02 09:25",
   "error": null
 }
