@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "日패키징랩 찾은 JY… 반도체 초격차 강조",
-      "url": "https://n.news.naver.com/mnews/article/009/0005757175"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000922254"
     },
     {
-      "title": "연평균 50조 세수 오차에 “추계 근거 밝혀라” 법안 발의",
-      "url": "https://n.news.naver.com/mnews/article/023/0004007105"
+      "title": "이형일 \"'전기차 산업 경쟁력 강화방안' 이달 발표\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016416686"
     },
     {
-      "title": "저PBR 151개사 명단 첫공개…현대제철 등 시총 1조 이상도 포함",
-      "url": "https://n.news.naver.com/mnews/article/055/0001399727"
+      "title": "LG전자, 스마트 TV에 조선 왕실 아름다움 담았다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003481421"
     },
     {
-      "title": "'오일씰' 국산화로 글로벌 경쟁력 강화… 진양오일씰 금탑훈장[제50회 국가생산성대회]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597620"
+      "title": "한진칼, 경영권 분쟁 소식에 12%대 급등…한진칼우, 상한가",
+      "url": "https://n.news.naver.com/mnews/article/009/0005757983"
     },
     {
-      "title": "韓 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨 이어 세계 네 번째",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561964"
+      "title": "배추값 37%·무 31% 하락…정부, 640억 풀어 ‘김장 한 포기 더’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717889"
     },
     {
-      "title": "\"반도체 자사주 매입, 하단 지지 효과 있지만…반등은 外人 관건\"-키움",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349032"
+      "title": "AI·로봇으로 식품 제조 혁신…고령친화시장도 공략",
+      "url": "https://n.news.naver.com/mnews/article/119/0003150600"
     },
     {
-      "title": "체코 원전 시공계약 결렬, 정부 비상관리체제 가동…\"차질없이 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005434894"
+      "title": "[속보] ‘철근 누락’ GTX 삼성역 무정차 통과, 1년 늦춰 내년까지…재시공도 검토",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056799"
     },
     {
-      "title": "창업진흥원, ‘SWITCH 2026’서 10개 기관과 통합관 운영… 13억 계약 추진",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717326"
+      "title": "서울-양평고속도로 사업 재개…신규 타당성조사 착수",
+      "url": "https://n.news.naver.com/mnews/article/056/0012286163"
     },
     {
-      "title": "서울 중하위권 아파트, 월세까지 오른다… 노원구 올해 12.9% 상승",
-      "url": "https://n.news.naver.com/mnews/article/469/0000962907"
+      "title": "한투증권, 삼성전자 목표가 57만→44만원 하향 조정",
+      "url": "https://n.news.naver.com/mnews/article/422/0000922279"
     },
     {
-      "title": "한화, 필리조선소 인수 후 첫 美 군함 수주",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401124"
+      "title": "MBK \"원아시아·카카오, 최윤범 '대박' 투자 사전 설계\"…고려아연 \"사실 왜곡\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836595"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5652.11,
-      "change": -78.63,
-      "change_pct": -1.37
+      "value": 5703.41,
+      "change": -155.67,
+      "change_pct": -2.66
     },
     "kosdaq": {
-      "value": 720.87,
-      "change": -3.51,
-      "change_pct": -0.48
+      "value": 715.83,
+      "change": -18.53,
+      "change_pct": -2.52
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1334.98,
-      "change": -3.0,
-      "change_pct": -0.22
+      "value": 1339.88,
+      "change": 14.36,
+      "change_pct": 1.08
     }
   },
   "gold": {
-    "price_usd": 3910.0,
-    "price_krw": 5219771,
-    "change": 11.1,
-    "change_pct": 0.28
+    "price_usd": 3951.8,
+    "price_krw": 5294937,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 09:25",
+  "updated": "2026-11-03 11:48",
   "error": null
 }
