@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000922254"
+      "title": "정부 “체감 물가 여전히 높아…640억원 역대급 김장 대책 마련”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003562424"
     },
     {
-      "title": "이형일 \"'전기차 산업 경쟁력 강화방안' 이달 발표\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016416686"
+      "title": "KAI, 순이익 반토막·차입금 부담…'10년 매출 90조' 실현 가능할까",
+      "url": "https://n.news.naver.com/mnews/article/421/0009268752"
     },
     {
-      "title": "LG전자, 스마트 TV에 조선 왕실 아름다움 담았다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003481421"
+      "title": "3년간 번 돈, 9개월 만에 잃었다…쿠팡, 공정위 제재에 ‘연간 적자 2조’ 갈림길",
+      "url": "https://n.news.naver.com/mnews/article/138/0002247160"
     },
     {
-      "title": "한진칼, 경영권 분쟁 소식에 12%대 급등…한진칼우, 상한가",
-      "url": "https://n.news.naver.com/mnews/article/009/0005757983"
+      "title": "한화증권, 제주항공 목표가↑…\"3분기 흑자전환 성공\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016420210"
     },
     {
-      "title": "배추값 37%·무 31% 하락…정부, 640억 풀어 ‘김장 한 포기 더’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717889"
+      "title": "미국 증시, 기술주 강세에 혼조 마감…나스닥 0.83% 상승[서울데이터랩]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003695526"
     },
     {
-      "title": "AI·로봇으로 식품 제조 혁신…고령친화시장도 공략",
-      "url": "https://n.news.naver.com/mnews/article/119/0003150600"
+      "title": "실적 개선 LG엔솔, 3분기 매출 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/081/0003695512"
     },
     {
-      "title": "[속보] ‘철근 누락’ GTX 삼성역 무정차 통과, 1년 늦춰 내년까지…재시공도 검토",
-      "url": "https://n.news.naver.com/mnews/article/029/0003056799"
+      "title": "금감원, 베트남·인니 보험당국 초청…보험사 해외 진출 지원",
+      "url": "https://n.news.naver.com/mnews/article/030/0003481905"
     },
     {
-      "title": "서울-양평고속도로 사업 재개…신규 타당성조사 착수",
-      "url": "https://n.news.naver.com/mnews/article/056/0012286163"
+      "title": "美, SK하닉 中공장 장비 반입 제동...“뉴욕 공장 투자도 차질”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004678444"
     },
     {
-      "title": "한투증권, 삼성전자 목표가 57만→44만원 하향 조정",
-      "url": "https://n.news.naver.com/mnews/article/422/0000922279"
+      "title": "LH, 모듈러 주택 5년간 1만8000호 이상 발주한다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202394"
     },
     {
-      "title": "MBK \"원아시아·카카오, 최윤범 '대박' 투자 사전 설계\"…고려아연 \"사실 왜곡\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836595"
+      "title": "김범석 쿠팡 의장 “와우 멤버십 역대 최대…내년 수익성 회복 자신”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006403305"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5703.41,
-      "change": -155.67,
-      "change_pct": -2.66
+      "value": 5700.8,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 715.83,
-      "change": -18.53,
-      "change_pct": -2.52
+      "value": 699.59,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25164.36,
-      "change": -272.64,
-      "change_pct": -1.07
+      "value": 25372.01,
+      "change": 207.7,
+      "change_pct": 0.83
     },
     "usdkrw": {
-      "value": 1339.88,
-      "change": 14.36,
-      "change_pct": 1.08
+      "value": 1344.08,
+      "change": -0.73,
+      "change_pct": -0.05
     }
   },
   "gold": {
-    "price_usd": 3951.8,
-    "price_krw": 5294937,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3939.7,
+    "price_krw": 5295271,
+    "change": -29.9,
+    "change_pct": -0.75
   },
-  "updated": "2026-11-03 11:48",
+  "updated": "2026-11-04 10:07",
   "error": null
 }
