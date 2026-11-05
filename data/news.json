@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "정부 “체감 물가 여전히 높아…640억원 역대급 김장 대책 마련”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003562424"
+      "title": "한 달 새 금융권 37곳 뚫렸다…자금 탈취만 10억원",
+      "url": "https://n.news.naver.com/mnews/article/015/0005350542"
     },
     {
-      "title": "KAI, 순이익 반토막·차입금 부담…'10년 매출 90조' 실현 가능할까",
-      "url": "https://n.news.naver.com/mnews/article/421/0009268752"
+      "title": "코오롱그룹, 연료전지 소재부터 저장 시스템까지…수소 역량 공개",
+      "url": "https://n.news.naver.com/mnews/article/421/0009269464"
     },
     {
-      "title": "3년간 번 돈, 9개월 만에 잃었다…쿠팡, 공정위 제재에 ‘연간 적자 2조’ 갈림길",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247160"
+      "title": "호반, 한진칼 최대주주 됐지만…조원태 측 재역전 전망에 분쟁 희박",
+      "url": "https://n.news.naver.com/mnews/article/421/0009270700"
     },
     {
-      "title": "한화증권, 제주항공 목표가↑…\"3분기 흑자전환 성공\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016420210"
+      "title": "넥센타이어 4개 분기 연속 매출 8000억대 기록",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436634"
     },
     {
-      "title": "미국 증시, 기술주 강세에 혼조 마감…나스닥 0.83% 상승[서울데이터랩]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003695526"
+      "title": "쿠팡, 3분기 연속 적자…김범석 의장 \"마진 하락 일시적, 내년 회복\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000548488"
     },
     {
-      "title": "실적 개선 LG엔솔, 3분기 매출 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/081/0003695512"
+      "title": "다우·CJ컨소시엄, 중앙일보 신주인수계약...5천2백억 규모",
+      "url": "https://n.news.naver.com/mnews/article/052/0002428335"
     },
     {
-      "title": "금감원, 베트남·인니 보험당국 초청…보험사 해외 진출 지원",
-      "url": "https://n.news.naver.com/mnews/article/030/0003481905"
+      "title": "KTX·SRT 통합 두달, 하루 32.2만명 이용…고객만족도 긍정응답 82.2%",
+      "url": "https://n.news.naver.com/mnews/article/092/0002443913"
     },
     {
-      "title": "美, SK하닉 中공장 장비 반입 제동...“뉴욕 공장 투자도 차질”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678444"
+      "title": "홍콩 ELS 과징금 2조→3619억원…은행권 소송 여부 '고심'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436638"
     },
     {
-      "title": "LH, 모듈러 주택 5년간 1만8000호 이상 발주한다",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202394"
+      "title": "코스피, 美 데이터센터 규제 우려에 장 초반 3% 넘게 하락",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007916"
     },
     {
-      "title": "김범석 쿠팡 의장 “와우 멤버십 역대 최대…내년 수익성 회복 자신”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006403305"
+      "title": "HLB이노베이션 자회사 베리스모 “미 학회서 CAR-T 전임상 공개”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003057175"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5700.8,
+      "value": 5480.18,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 699.59,
+      "value": 691.49,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25372.01,
-      "change": 207.7,
-      "change_pct": 0.83
+      "value": 25736.51,
+      "change": 364.5,
+      "change_pct": 1.44
     },
     "usdkrw": {
-      "value": 1344.08,
-      "change": -0.73,
-      "change_pct": -0.05
+      "value": 1339.58,
+      "change": -3.32,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 3939.7,
-    "price_krw": 5295271,
-    "change": -29.9,
-    "change_pct": -0.75
+    "price_usd": 4114.2,
+    "price_krw": 5511300,
+    "change": 173.8,
+    "change_pct": 4.41
   },
-  "updated": "2026-11-04 10:07",
+  "updated": "2026-11-05 10:22",
   "error": null
 }
