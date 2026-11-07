@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK바이오팜, 3분기 영업이익 1163억원…“최대 실적 경신”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057315"
+      "title": "코스피 서킷브레이커에도…환율, 1350원대 중반서 버텨",
+      "url": "https://n.news.naver.com/mnews/article/018/0006404806"
     },
     {
-      "title": "가상자산 과세 2년 미뤄 2029년 시행...손실 3년 이월공제 허용",
-      "url": "https://n.news.naver.com/mnews/article/052/0002428782"
+      "title": "증시 불안에 상장도 못한다…글로벌 반도체 기업, 줄줄이 IPO '보류'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014305074"
     },
     {
-      "title": "1조2000억 뿌린 삼성의 ‘기술 씨앗’… 난제 푼 과학자 10인에 포상",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759558"
+      "title": "공소청, '삼성바이오 파업 중 업무방해 불송치'에 재수사 요구",
+      "url": "https://n.news.naver.com/mnews/article/001/0016426423"
     },
     {
-      "title": "얼어붙은 투심…코스닥에서도 ‘매도 사이드카’ 발동",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202975"
+      "title": "“3억 넣었는데 반년도 안돼 3천만원 됐습니다”…피눈물 나는 레버리지 개미들",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760247"
     },
     {
-      "title": "장동현 SK 부회장, SK에코플랜트 대표 사임",
-      "url": "https://n.news.naver.com/mnews/article/016/0002719554"
+      "title": "이찬진 \"퇴직연금 계열사 밀어주기 안돼\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760245"
+    },
+    {
+      "title": "디스플레이협회 \"국가연구플랫폼 구축 환영…세계 1위 OLED 지킨다\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014306284"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002428747"
+      "url": "https://n.news.naver.com/mnews/article/422/0000923640"
     },
     {
-      "title": "\"BGF리테일, 내년 편의점 매출 증가 기대… 목표가↑\"-키움",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437481"
+      "title": "신세계 백화점부문장에 ‘베테랑’ 이석구 사장…감사·경영관리 강화",
+      "url": "https://n.news.naver.com/mnews/article/005/0001883511"
     },
     {
-      "title": "삼성전자 '6노조' 설립 추진…기존 노조 간 설립 배경 놓고 공방",
-      "url": "https://n.news.naver.com/mnews/article/421/0009272958"
+      "title": "코인 과세 2029년으로…李정부의 ‘시간 벌기’",
+      "url": "https://n.news.naver.com/mnews/article/119/0003151976"
     },
     {
-      "title": "최태원, SK주식 9440억원 매각 완료…재산분할금 마련",
-      "url": "https://n.news.naver.com/mnews/article/005/0001883295"
-    },
-    {
-      "title": "최태원 \"美중간선거에 증시 반은 ‘와장창’…롤러코스터 계속될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005350900"
+      "title": "백화점이 끌고, 마트도 웃고... 롯데쇼핑 3분기 영업익 1,756억",
+      "url": "https://n.news.naver.com/mnews/article/469/0000964120"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4949.94,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 631.87,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 24315.0,
-      "change": -1421.51,
-      "change_pct": -5.52
+      "value": 24579.42,
+      "change": 264.42,
+      "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1355.11,
-      "change": 15.04,
-      "change_pct": 1.12
+      "value": 1356.34,
+      "change": 16.27,
+      "change_pct": 1.21
     }
   },
   "gold": {
-    "price_usd": 4103.9,
-    "price_krw": 5561235,
-    "change": 30.9,
-    "change_pct": 0.76
+    "price_usd": 4079.5,
+    "price_krw": 5533189,
+    "change": -34.0,
+    "change_pct": -0.83
   },
-  "updated": "2026-11-06 10:25",
+  "updated": "2026-11-07 09:43",
   "error": null
 }
