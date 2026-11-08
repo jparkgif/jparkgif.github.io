@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "title": "코스피 서킷브레이커에도…환율, 1350원대 중반서 버텨",
-      "url": "https://n.news.naver.com/mnews/article/018/0006404806"
+      "title": "美 데이터센터 증설 차질 경고…삼성·SK 영향은 2028년부터?[갭 월드]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004679683"
     },
     {
-      "title": "증시 불안에 상장도 못한다…글로벌 반도체 기업, 줄줄이 IPO '보류'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014305074"
+      "title": "닛케이 “블루웨이브발 투매에 세계증시 시총 하루만에 4800조원 증발”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003057606"
     },
     {
-      "title": "공소청, '삼성바이오 파업 중 업무방해 불송치'에 재수사 요구",
-      "url": "https://n.news.naver.com/mnews/article/001/0016426423"
+      "title": "미래에셋증권 고객 3800명 계좌번호 유출…‘휴대폰 인증 로그인’ 뚫렸다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003760775"
     },
     {
-      "title": "“3억 넣었는데 반년도 안돼 3천만원 됐습니다”…피눈물 나는 레버리지 개미들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760247"
+      "title": "금융연구원 \"금융회사 대주주 적격성 심사, 경험·전문성도 살펴야\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542297"
     },
     {
-      "title": "이찬진 \"퇴직연금 계열사 밀어주기 안돼\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760245"
+      "title": "\"오렌지 넣고 생크림 듬뿍\"…돌아온 라떼 전성시대[이번주 Eat템]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009275563"
     },
     {
-      "title": "디스플레이협회 \"국가연구플랫폼 구축 환영…세계 1위 OLED 지킨다\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014306284"
+      "title": "아이폰 듀오, 화면은 커졌지만 새로움은 작았다[써보니]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016427706"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000923640"
+      "title": "‘코리아 프리미엄’ ‘해외 역직구’ 없어지게… 국내 가격, 해외보다 부당하게 높으면 제재한다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004173291"
     },
     {
-      "title": "신세계 백화점부문장에 ‘베테랑’ 이석구 사장…감사·경영관리 강화",
-      "url": "https://n.news.naver.com/mnews/article/005/0001883511"
+      "title": "\"이미 수정안 냈는데\"…'부동산 세제' 국회에서 어디까지 바뀌나",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437997"
     },
     {
-      "title": "코인 과세 2029년으로…李정부의 ‘시간 벌기’",
-      "url": "https://n.news.naver.com/mnews/article/119/0003151976"
+      "title": "포스코, 임금 잠정합의안 부결 '반대 51.69%'",
+      "url": "https://n.news.naver.com/mnews/article/243/0000105347"
     },
     {
-      "title": "백화점이 끌고, 마트도 웃고... 롯데쇼핑 3분기 영업익 1,756억",
-      "url": "https://n.news.naver.com/mnews/article/469/0000964120"
+      "title": "기초연금 올려봤자 생계급여 삭감…빈곤노인 78만명 '제자리'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016428455"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 644.27,
+      "change": -34.14,
+      "change_pct": -5.03
     },
     "nasdaq": {
-      "value": 24579.42,
-      "change": 264.42,
+      "value": 24579.43,
+      "change": 264.43,
       "change_pct": 1.09
     },
     "usdkrw": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4079.5,
-    "price_krw": 5533189,
-    "change": -34.0,
-    "change_pct": -0.83
+    "price_usd": 4074.9,
+    "price_krw": 5526949,
+    "change": -38.6,
+    "change_pct": -0.94
   },
-  "updated": "2026-11-07 09:43",
+  "updated": "2026-11-08 09:17",
   "error": null
 }
