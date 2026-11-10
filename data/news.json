@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "온라인 강자의 역발상…무신사는 어떻게 10조원 몸값을 꿈꾸나 [권상집의 논전(論戰)]",
-      "url": "https://n.news.naver.com/mnews/article/586/0000141840"
+      "title": "국제유가 하락에 일제히 상승세…엔비디아 4% 급락[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840205"
     },
     {
-      "title": "\"전 세계인 70%가 신라면 알아\"…바닷가 '라면의 심장'이 뛰기 시작했다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351462"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002430725"
     },
     {
-      "title": "현대차 로봇 밸류체인 담고 싶다면…ETF 6종목 출격",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152497"
+      "title": "DL이앤씨, 성수2지구 '아크로 성수' 홍보관 개관",
+      "url": "https://n.news.naver.com/mnews/article/003/0014312351"
     },
     {
-      "title": "삼성바이오에피스, ‘키트루다’ 바이오시밀러 임상 3상 동등성 확인",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247692"
+      "title": "차기 은행연합회장 후보군 13일 발표",
+      "url": "https://n.news.naver.com/mnews/article/016/0002721383"
     },
     {
-      "title": "삼양그룹, 대전 초등학생 80명 대상 '미래 과학캠프' 성료",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839753"
+      "title": "CJ대한통운, 3분기 매출 9.5% 증가..투자확대·영업일수 감소에 수익은 ↓",
+      "url": "https://n.news.naver.com/mnews/article/008/0005438806"
     },
     {
-      "title": "한때 경쟁자서 팀으로…삼성, 현대차 경영진 초청 ‘첫 교류’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563689"
+      "title": "제네시스 GV90 출격…2억4000만원 초대형 전기 SUV 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601795"
     },
     {
-      "title": "돈 더 급할 텐데, 왜?…가난한 집은 연금도 늦게 받았다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406489"
+      "title": "배민·쿠팡이츠가 과징금 6319억 물게 된 사연은? [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680382"
     },
     {
-      "title": "TSMC, 차세대 메모리 3D D램 생산 추진[올댓차이나]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014308175"
+      "title": "HD건설기계, 북미서 발전용 엔진 수주…1600억원 규모",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407193"
     },
     {
-      "title": "현대차그룹 HTWO 광저우, 에어리퀴드 차이나와 中 수소 모빌리티 협력",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720583"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002430646"
     },
     {
-      "title": "자기 회사서 200억 빌리고 이자도 안 냈다…대기업 회장 막내딸의 '신박한 재테크' [상속자들]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839463"
+      "title": "대구 아파트 입주전망지수 6개월 만에 '70선'으로 뚝",
+      "url": "https://n.news.naver.com/mnews/article/421/0009280677"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5055.28,
-      "change": -4.41,
-      "change_pct": -0.09
+      "value": 5234.03,
+      "change": 215.18,
+      "change_pct": 4.29
     },
     "kosdaq": {
-      "value": 638.37,
-      "change": -5.9,
-      "change_pct": -0.92
+      "value": 663.41,
+      "change": 24.44,
+      "change_pct": 3.82
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1359.28,
-      "change": 2.94,
-      "change_pct": 0.22
+      "value": 1345.58,
+      "change": -17.12,
+      "change_pct": -1.26
     }
   },
   "gold": {
-    "price_usd": 4082.1,
-    "price_krw": 5548717,
-    "change": 7.2,
-    "change_pct": 0.18
+    "price_usd": 4122.3,
+    "price_krw": 5546884,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:38",
+  "updated": "2026-11-10 12:18",
   "error": null
 }
