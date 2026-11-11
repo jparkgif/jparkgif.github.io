@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국제유가 하락에 일제히 상승세…엔비디아 4% 급락[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005840205"
+      "title": "백화점이 끌었다…신세계, 영업익 64.7% 증가",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680734"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002430725"
+      "title": "[속보]고소득 의사부부 위장퇴사에 식 올렸는데 미혼까지…부정청약 의심 354건 적발",
+      "url": "https://n.news.naver.com/mnews/article/658/0000160846"
     },
     {
-      "title": "DL이앤씨, 성수2지구 '아크로 성수' 홍보관 개관",
-      "url": "https://n.news.naver.com/mnews/article/003/0014312351"
+      "title": "대우건설 컨소시엄, 가덕도신공항 실시설계 착수…\"2035년 개항 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004208121"
     },
     {
-      "title": "차기 은행연합회장 후보군 13일 발표",
-      "url": "https://n.news.naver.com/mnews/article/016/0002721383"
+      "title": "코어위브 매출 168% 급증·전망 상향…시간외 주가 1.4% 상승",
+      "url": "https://n.news.naver.com/mnews/article/421/0009282172"
     },
     {
-      "title": "CJ대한통운, 3분기 매출 9.5% 증가..투자확대·영업일수 감소에 수익은 ↓",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438806"
+      "title": "비트코인 7.5만달러…\"바이낸스 해킹 충격, 과거보다 작아\" [코인브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009280319"
     },
     {
-      "title": "제네시스 GV90 출격…2억4000만원 초대형 전기 SUV 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/014/0005601795"
+      "title": "유류세 인하 내년 1월까지 연장…휘발유 L당 122원·경유 145원 인하 효과",
+      "url": "https://n.news.naver.com/mnews/article/421/0009282396"
     },
     {
-      "title": "배민·쿠팡이츠가 과징금 6319억 물게 된 사연은? [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680382"
+      "title": "뉴욕증시 일제히 하락...나스닥 0.7%↓·엔비디아 5.47%↓",
+      "url": "https://n.news.naver.com/mnews/article/052/0002431136"
     },
     {
-      "title": "HD건설기계, 북미서 발전용 엔진 수주…1600억원 규모",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407193"
+      "title": "증권사 주식정보서비스 이용료 따로 알린다…자동 유료전환 금지",
+      "url": "https://n.news.naver.com/mnews/article/014/0005602367"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002430646"
+      "title": "10월 취업자 13만9000명↑… 청년 고용률은 30개월째 하락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005602412"
     },
     {
-      "title": "대구 아파트 입주전망지수 6개월 만에 '70선'으로 뚝",
-      "url": "https://n.news.naver.com/mnews/article/421/0009280677"
+      "title": "지방기업에 공공조달 문 넓힌다…이전 중소기업 평가 우대",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407959"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5234.03,
-      "change": 215.18,
-      "change_pct": 4.29
+      "value": 5217.58,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 663.41,
-      "change": 24.44,
-      "change_pct": 3.82
+      "value": 688.93,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25253.14,
-      "change": 673.71,
-      "change_pct": 2.74
+      "value": 25065.88,
+      "change": -187.27,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1345.58,
-      "change": -17.12,
-      "change_pct": -1.26
+      "value": 1337.98,
+      "change": -5.86,
+      "change_pct": -0.44
     }
   },
   "gold": {
-    "price_usd": 4122.3,
-    "price_krw": 5546884,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4040.4,
+    "price_krw": 5405974,
+    "change": -74.1,
+    "change_pct": -1.8
   },
-  "updated": "2026-11-10 12:18",
+  "updated": "2026-11-11 10:06",
   "error": null
 }
