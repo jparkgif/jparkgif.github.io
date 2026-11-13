@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "셀트리온, 글로벌 ESG 평가 최고등급 'AAA'…기존보다 두 단계 상승",
-      "url": "https://n.news.naver.com/mnews/article/030/0003484699"
+      "title": "\"우리 가게만의 작업복\" 무신사, 소상공인에 맞춤 유니폼 지원",
+      "url": "https://n.news.naver.com/mnews/article/003/0014320075"
     },
     {
-      "title": "농협법 개정안 연내 처리 주목…'187만 조합원 직선제' 상임위 통과",
-      "url": "https://n.news.naver.com/mnews/article/008/0005439861"
+      "title": "은행연합회장 후보 6명 압축…'민간 5명 vs 관료 1명' 경쟁(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014320200"
     },
     {
-      "title": "금융지주 회장 임추위 전원 독립이사로 구성…현직 CEO 부당 개입 땐 최대 해임요구",
-      "url": "https://n.news.naver.com/mnews/article/016/0002722369"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001535353"
     },
     {
-      "title": "메리츠금융지주, 3분기 시장 기대치 밑돌아…\"방어주 지위 흔들\"-신한",
-      "url": "https://n.news.naver.com/mnews/article/008/0005440036"
+      "title": "예천 소 농장서 구제역 확진…양성 8마리 처분 유예",
+      "url": "https://n.news.naver.com/mnews/article/003/0014319797"
     },
     {
-      "title": "노들역 노후주거지 938세대 단지 탈바꿈…목동 CBS부지 복합개발",
-      "url": "https://n.news.naver.com/mnews/article/001/0016437599"
+      "title": "상반기 '실적 잔치' 끝났다…5대 증권사 3분기 순익 81% 급감",
+      "url": "https://n.news.naver.com/mnews/article/003/0014319749"
     },
     {
-      "title": "1조 9000억 벌던 미래에셋증권, 석 달 만에 4000억 적자 ‘어닝쇼크’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003698603"
+      "title": "달바글로벌, 3분기 영업익 334억원…1년 새 101% 증가",
+      "url": "https://n.news.naver.com/mnews/article/119/0003154663"
     },
     {
-      "title": "한강변 5천7가구 대단지 '디에이치 반포124' 내달 분양",
-      "url": "https://n.news.naver.com/mnews/article/001/0016437678"
+      "title": "결혼정보회사 듀오, 배우자 선택 시 데이터 외 정성적 고려 요소 조명",
+      "url": "https://n.news.naver.com/mnews/article/081/0003699018"
     },
     {
-      "title": "\"국고채PD 과징금, 4Q 증권업 타격…중소형사 적자\"-SK",
-      "url": "https://n.news.naver.com/mnews/article/008/0005440033"
+      "title": "납품업체에 ‘광고비 떠넘기기’ 제동…대금 지급기준도 손질",
+      "url": "https://n.news.naver.com/mnews/article/016/0002722980"
     },
     {
-      "title": "이마트 3분기 총매출 첫 5조 돌파...대형마트 수익성 강화",
-      "url": "https://n.news.naver.com/mnews/article/009/0005762166"
+      "title": "환율·유가 동반 하락에…10월 수입물가 하락 전환",
+      "url": "https://n.news.naver.com/mnews/article/422/0000925724"
     },
     {
-      "title": "금투협 “국고채 담합 공정위 제재 유감…행정소송 등 업계 대응 지원”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002722346"
+      "title": "美 엔비디아 시총 장중 801조원 증발, '개미' 저가매수에 반등",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603800"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5396.15,
+      "value": 5474.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 703.1,
+      "value": 723.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25466.19,
-      "change": 400.32,
-      "change_pct": 1.6
+      "value": 25366.09,
+      "change": -100.1,
+      "change_pct": -0.39
     },
     "usdkrw": {
-      "value": 1333.17,
-      "change": -8.74,
-      "change_pct": -0.65
+      "value": 1331.6,
+      "change": -4.66,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 3990.5,
-    "price_krw": 5320014,
-    "change": -39.7,
-    "change_pct": -0.99
+    "price_usd": 3915.4,
+    "price_krw": 5213746,
+    "change": -85.1,
+    "change_pct": -2.13
   },
-  "updated": "2026-11-12 11:09",
+  "updated": "2026-11-13 10:43",
   "error": null
 }
