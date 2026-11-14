@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"우리 가게만의 작업복\" 무신사, 소상공인에 맞춤 유니폼 지원",
-      "url": "https://n.news.naver.com/mnews/article/003/0014320075"
+      "title": "정부, 석유 최고가격 이번에도 동결",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353699"
     },
     {
-      "title": "은행연합회장 후보 6명 압축…'민간 5명 vs 관료 1명' 경쟁(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014320200"
+      "title": "비트코인 7만달러 붕괴…美 증시 악재에 파생 청산까지",
+      "url": "https://n.news.naver.com/mnews/article/008/0005440912"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001535353"
+      "title": "한성숙 총리 \"미사용 카드포인트, 지역화폐 전환 추진…골목상권 활력\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005440804"
     },
     {
-      "title": "예천 소 농장서 구제역 확진…양성 8마리 처분 유예",
-      "url": "https://n.news.naver.com/mnews/article/003/0014319797"
+      "title": "구글 지도, 한국서 '길' 열린다…네이버·카카오와 경쟁 본격화",
+      "url": "https://n.news.naver.com/mnews/article/586/0000142242"
     },
     {
-      "title": "상반기 '실적 잔치' 끝났다…5대 증권사 3분기 순익 81% 급감",
-      "url": "https://n.news.naver.com/mnews/article/003/0014319749"
+      "title": "엔비디아 리스크에 현대차도 긴장…'자율주행 투트랙' 시험대",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052595"
     },
     {
-      "title": "달바글로벌, 3분기 영업익 334억원…1년 새 101% 증가",
-      "url": "https://n.news.naver.com/mnews/article/119/0003154663"
+      "title": "\"3분기 만에 작년 매출 넘었다\"···토스, 누적 영업수익 2.9조",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604088"
     },
     {
-      "title": "결혼정보회사 듀오, 배우자 선택 시 데이터 외 정성적 고려 요소 조명",
-      "url": "https://n.news.naver.com/mnews/article/081/0003699018"
+      "title": "한수원, 체코 발주사와 두코바니 원전사업 합동 점검…“2027년 건설허가 신청 순항”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003485333"
     },
     {
-      "title": "납품업체에 ‘광고비 떠넘기기’ 제동…대금 지급기준도 손질",
-      "url": "https://n.news.naver.com/mnews/article/016/0002722980"
+      "title": "주유소 기름값 26주째 하락...두 달간 사실상 제자리",
+      "url": "https://n.news.naver.com/mnews/article/052/0002432701"
     },
     {
-      "title": "환율·유가 동반 하락에…10월 수입물가 하락 전환",
-      "url": "https://n.news.naver.com/mnews/article/422/0000925724"
+      "title": "은행연합회장 후보 6명 압축… 우리은행장 연임, 연말 금융권 인사 본격화",
+      "url": "https://n.news.naver.com/mnews/article/469/0000965450"
     },
     {
-      "title": "美 엔비디아 시총 장중 801조원 증발, '개미' 저가매수에 반등",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603800"
+      "title": "농식품부, 김치·배추·무 수출 확대 추진…비축 배추 할인 공급",
+      "url": "https://n.news.naver.com/mnews/article/001/0016441087"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5474.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 723.31,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25366.09,
-      "change": -100.1,
-      "change_pct": -0.39
+      "value": 25136.27,
+      "change": -229.82,
+      "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1331.6,
-      "change": -4.66,
-      "change_pct": -0.35
+      "value": 1333.78,
+      "change": -2.48,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 3915.4,
-    "price_krw": 5213746,
-    "change": -85.1,
-    "change_pct": -2.13
+    "price_usd": 3887.6,
+    "price_krw": 5185203,
+    "change": 2.3,
+    "change_pct": 0.06
   },
-  "updated": "2026-11-13 10:43",
+  "updated": "2026-11-14 10:20",
   "error": null
 }
