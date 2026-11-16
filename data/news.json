@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "반도체 팔던 SK, AI 서비스까지…최태원표 'AI 플라이휠' 시동",
-      "url": "https://n.news.naver.com/mnews/article/050/0000113252"
+      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…\"AI發 수요 선점 지속\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014323565"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432842"
+      "title": "대기업 절반 오픈이노베이션 나섰지만…스케일업 경험 10% 그쳐",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410178"
     },
     {
-      "title": "美 연준, AI發 금융 위험 경고… “순환금융도 위험 요인”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204804"
+      "title": "파라다이스, ESG 평가서 통합 A등급… 업계 최고 수준 인정",
+      "url": "https://n.news.naver.com/mnews/article/277/0005842925"
     },
     {
-      "title": "중기부 “민간 연계 서비스도 점검 강화”…창업사업 정보 유출 사흘 만에 사과",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723477"
+      "title": "CU, 이번엔 '리센느 굿즈' 선보여…리트와 메트 캐릭터 활용",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442987"
     },
     {
-      "title": "거품 걷힌 비트코인…드러난 건 ‘매수 공백’[주간코인]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003155081"
+      "title": "G마켓, '더모 뷰티' 전문관 신설…뷰티 경쟁력 강화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604590"
     },
     {
-      "title": "4050·외국인도 열광…1만4000명 찾는 ‘컬뷰페’ 가보니 [르포]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723349"
+      "title": "\"반도체 공장 안에 또 다른 팹\"…SK하이닉스, 용인에 '상생 전초기지' 만든 이유는?[르포]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604594"
     },
     {
-      "title": "'눈덩이' 부담 한숨 더 커진다…6년 새 35% 뛰어오른 보증금",
-      "url": "https://n.news.naver.com/mnews/article/215/0001272800"
+      "title": "삼성전자서비스, 수능 고사장 시스템에어컨 긴급 서비스 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442975"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432662"
+      "title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 '역대 최대규모'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441398"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000926054"
+      "title": "中 현지서 통하네…빽다방, 상하이 5호점 열었다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003155500"
     },
     {
-      "title": "추위 녹이려고 샀어도…펄펄 끓는 '용암같은 라테' 안되는 이유",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/277/0005842633?type=series&cid=2002255"
+      "title": "LH·주택협회, 주택공급 확대 논의…업계 “공사비 현실화 필요”",
+      "url": "https://n.news.naver.com/mnews/article/119/0003155267"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.53,
-      "change": -52.2,
-      "change_pct": -0.98
+      "value": 5269.67,
+      "change": -20.86,
+      "change_pct": -0.39
     },
     "kosdaq": {
-      "value": 699.66,
-      "change": 3.13,
-      "change_pct": 0.45
+      "value": 691.32,
+      "change": -8.34,
+      "change_pct": -1.19
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1336.2,
-      "change": 2.42,
-      "change_pct": 0.18
+      "value": 1333.98,
+      "change": 0.2,
+      "change_pct": 0.01
     }
   },
   "gold": {
-    "price_usd": 3886.3,
-    "price_krw": 5192874,
-    "change": 1.0,
-    "change_pct": 0.03
+    "price_usd": 3888.7,
+    "price_krw": 5187447,
+    "change": 2.4,
+    "change_pct": 0.06
   },
-  "updated": "2026-11-15 09:53",
+  "updated": "2026-11-16 09:51",
   "error": null
 }
