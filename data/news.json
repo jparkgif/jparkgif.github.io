@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…\"AI發 수요 선점 지속\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014323565"
+      "title": "사람 있는 방의 조명·온도 저절로 바꾼다… GS건설, AI 주택 공개",
+      "url": "https://n.news.naver.com/mnews/article/469/0000966005"
     },
     {
-      "title": "대기업 절반 오픈이노베이션 나섰지만…스케일업 경험 10% 그쳐",
-      "url": "https://n.news.naver.com/mnews/article/018/0006410178"
+      "title": "젠슨 황 스캔들 여진에 ‘오천피’ 위태…외국인 매도에 증시 출렁 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724379"
     },
     {
-      "title": "파라다이스, ESG 평가서 통합 A등급… 업계 최고 수준 인정",
-      "url": "https://n.news.naver.com/mnews/article/277/0005842925"
+      "title": "롯데바이오로직스, 송도 1공장 첫 상업생산 수주...가동 전 물량 확보",
+      "url": "https://n.news.naver.com/mnews/article/014/0005605395"
     },
     {
-      "title": "CU, 이번엔 '리센느 굿즈' 선보여…리트와 메트 캐릭터 활용",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442987"
+      "title": "기후장관, 33차 기후총회 유치 재검토…12차 전기본 탈석탄 방점 [COP31 현장]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009293507"
     },
     {
-      "title": "G마켓, '더모 뷰티' 전문관 신설…뷰티 경쟁력 강화",
-      "url": "https://n.news.naver.com/mnews/article/014/0005604590"
+      "title": "개방 피해 품목서 수출 효자로… K포도, 신선농산물 최초 수출 1억 달러",
+      "url": "https://n.news.naver.com/mnews/article/469/0000965919"
     },
     {
-      "title": "\"반도체 공장 안에 또 다른 팹\"…SK하이닉스, 용인에 '상생 전초기지' 만든 이유는?[르포]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005604594"
+      "title": "온코닉 \"비만치료제 병용 신약, 비임상서 근력 저하 효과\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016445574"
     },
     {
-      "title": "삼성전자서비스, 수능 고사장 시스템에어컨 긴급 서비스 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442975"
+      "title": "韓 OLED, 중국 제치고 출하량 세계 1위 탈환…매출 점유율 68.3%",
+      "url": "https://n.news.naver.com/mnews/article/366/0001205306"
     },
     {
-      "title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 '역대 최대규모'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441398"
+      "title": "폐업자 28%는 폐업 지연 경험…재창업 절반은 생계유지 목적",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683050"
     },
     {
-      "title": "中 현지서 통하네…빽다방, 상하이 5호점 열었다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003155500"
+      "title": "롯데타워, 각국 랜드마크와 보이저 1호 '1광일' 캠페인…황금빛 모스 부호",
+      "url": "https://n.news.naver.com/mnews/article/003/0014326684"
     },
     {
-      "title": "LH·주택협회, 주택공급 확대 논의…업계 “공사비 현실화 필요”",
-      "url": "https://n.news.naver.com/mnews/article/119/0003155267"
+      "title": "“현금 어디서 찾나”…4대 은행 ATM, 1년9개월 새 1268대 감소 [머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724347"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5269.67,
-      "change": -20.86,
-      "change_pct": -0.39
+      "value": 5074.63,
+      "change": -25.87,
+      "change_pct": -0.51
     },
     "kosdaq": {
-      "value": 691.32,
-      "change": -8.34,
-      "change_pct": -1.19
+      "value": 662.58,
+      "change": -3.07,
+      "change_pct": -0.46
     },
     "nasdaq": {
-      "value": 25136.27,
-      "change": -229.82,
-      "change_pct": -0.91
+      "value": 24509.76,
+      "change": -626.51,
+      "change_pct": -2.49
     },
     "usdkrw": {
-      "value": 1333.98,
-      "change": 0.2,
-      "change_pct": 0.01
+      "value": 1339.18,
+      "change": 5.93,
+      "change_pct": 0.44
     }
   },
   "gold": {
-    "price_usd": 3888.7,
-    "price_krw": 5187447,
-    "change": 2.4,
-    "change_pct": 0.06
+    "price_usd": 3881.9,
+    "price_krw": 5198562,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-16 09:51",
+  "updated": "2026-11-17 12:31",
   "error": null
 }
