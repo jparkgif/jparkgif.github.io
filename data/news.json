@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "산업부, 79개 기업에 세계일류상품 인증서 수여",
-      "url": "https://n.news.naver.com/mnews/article/003/0014326608"
+      "title": "국토부, 이혜훈 배우자 ‘40억 로또’ 아파트 분양계약 취소 요청",
+      "url": "https://n.news.naver.com/mnews/article/025/0003566133"
     },
     {
-      "title": "보스턴다이나믹스 ‘아틀라스’, 자동차 영역 밖으로…반도체 공장서 시험",
-      "url": "https://n.news.naver.com/mnews/article/009/0005765301"
+      "title": "“성장 결실 직원과 나눌 것” 대한전선 김준석 사장, 첫 임직원 소통",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683841"
     },
     {
-      "title": "최종현학술원·요미우리신문, ‘한일 신시대 전략 플랫폼’ 출범",
-      "url": "https://n.news.naver.com/mnews/article/366/0001205578"
+      "title": "롯데바이오, 연간 12만 리터 송도 1공장 준공…\"글로벌 CDMO 기업 도약\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009295670"
     },
     {
-      "title": "롯데바이오 송도1공장 준공…\"바이오 경쟁력 높일 전환점\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016448304"
+      "title": "중국 ‘한한령’ 해제 가능성에 부진했던 엔터테인먼트·콘텐츠주 급등...상승 이어질까",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010507"
     },
     {
-      "title": "한화시스템 레이다 미국 진출…2027년 초까지 순차 납품",
-      "url": "https://n.news.naver.com/mnews/article/018/0006411635"
+      "title": "금융권 해외 부동산 투자 원금 회수 위험 2.6조…반년 새 5600억 증가",
+      "url": "https://n.news.naver.com/mnews/article/016/0002725424"
     },
     {
-      "title": "다림판 높이 10단계 조절… LG 시스템 아이어닝, 인간공학디자인상 '최고상'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005605983"
+      "title": "기아, '노사 합동 사랑나누기' 기부 캠페인…복지 차량·장학금 지원",
+      "url": "https://n.news.naver.com/mnews/article/421/0009297899"
     },
     {
-      "title": "현대로템, 극초음속부터 재사용 발사체까지…엔진 개발 기반 확대",
-      "url": "https://n.news.naver.com/mnews/article/092/0002445812"
+      "title": "공정위, 투썸플레이스 ‘가맹점 갑질’ 조사…고가 장비 구매 강요 의혹",
+      "url": "https://n.news.naver.com/mnews/article/018/0006412286"
     },
     {
-      "title": "금감원 \"자산운용사, 해킹 '약한 고리' 위험\"…제3자 리스크 관리 당부",
-      "url": "https://n.news.naver.com/mnews/article/003/0014329087"
+      "title": "수능일 주식 거래 오전 10시부터…프리마켓은 휴장",
+      "url": "https://n.news.naver.com/mnews/article/018/0006412062"
     },
     {
-      "title": "하나證, 이지스운용·딜로이트안진과 맞손…패밀리오피스 서비스 강화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006411587"
+      "title": "금감원 금소처장, 대학서 불법사금융 피해 대응 특강",
+      "url": "https://n.news.naver.com/mnews/article/018/0006412377"
     },
     {
-      "title": "경제6단체 “기업구조조정법 일몰 막아야”…국회에 조속 처리 촉구",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683463"
+      "title": "안전 인증 믿었는데…고소작업대 안전장치 무력화 부품까지 팔았다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009298502"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4987.99,
-      "change": 19.51,
-      "change_pct": 0.39
+      "value": 5012.19,
+      "change": -55.25,
+      "change_pct": -1.09
     },
     "kosdaq": {
-      "value": 652.41,
-      "change": 2.35,
-      "change_pct": 0.36
+      "value": 656.57,
+      "change": -6.24,
+      "change_pct": -0.94
     },
     "nasdaq": {
-      "value": 24328.38,
-      "change": -181.38,
-      "change_pct": -0.74
+      "value": 24429.88,
+      "change": 101.5,
+      "change_pct": 0.42
     },
     "usdkrw": {
-      "value": 1329.48,
-      "change": -6.19,
-      "change_pct": -0.46
+      "value": 1330.37,
+      "change": -2.64,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 3803.4,
-    "price_krw": 5056544,
-    "change": -49.6,
-    "change_pct": -1.29
+    "price_usd": 3751.2,
+    "price_krw": 4990483,
+    "change": -113.0,
+    "change_pct": -2.92
   },
-  "updated": "2026-11-18 11:47",
+  "updated": "2026-11-19 11:23",
   "error": null
 }
