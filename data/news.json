@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국토부, 이혜훈 배우자 ‘40억 로또’ 아파트 분양계약 취소 요청",
-      "url": "https://n.news.naver.com/mnews/article/025/0003566133"
+      "title": "“본격 폭락 시작도 안 했다”…삼성전자 7만원·하이닉스 20만원 경고한 전문가 [이슈픽]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003701423"
     },
     {
-      "title": "“성장 결실 직원과 나눌 것” 대한전선 김준석 사장, 첫 임직원 소통",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683841"
+      "title": "삼성전자, 반도체 기술통 3명 사장 승진…전영현·노태문 미래사업 집중",
+      "url": "https://n.news.naver.com/mnews/article/025/0003566664"
     },
     {
-      "title": "롯데바이오, 연간 12만 리터 송도 1공장 준공…\"글로벌 CDMO 기업 도약\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009295670"
+      "title": "아마존·구글·SKT·LG '앤트로픽 잭팟'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356016"
     },
     {
-      "title": "중국 ‘한한령’ 해제 가능성에 부진했던 엔터테인먼트·콘텐츠주 급등...상승 이어질까",
-      "url": "https://n.news.naver.com/mnews/article/023/0004010507"
+      "title": "10월 생산자물가 0.1% 하락…\"농림수산품 제외시 0.2%↑\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014334595"
     },
     {
-      "title": "금융권 해외 부동산 투자 원금 회수 위험 2.6조…반년 새 5600억 증가",
-      "url": "https://n.news.naver.com/mnews/article/016/0002725424"
+      "title": "[속보]삼성전자 장초반 4% 급락, SK하이닉스도 6%↓",
+      "url": "https://n.news.naver.com/mnews/article/021/0002834240"
     },
     {
-      "title": "기아, '노사 합동 사랑나누기' 기부 캠페인…복지 차량·장학금 지원",
-      "url": "https://n.news.naver.com/mnews/article/421/0009297899"
+      "title": "㈜LG 등 5개사 임원인사…하범종 사장, LG경영개발원장 내정",
+      "url": "https://n.news.naver.com/mnews/article/374/0000544765"
     },
     {
-      "title": "공정위, 투썸플레이스 ‘가맹점 갑질’ 조사…고가 장비 구매 강요 의혹",
-      "url": "https://n.news.naver.com/mnews/article/018/0006412286"
+      "title": "수출 1조 달러 뒷받침한 10만 中企…K뷰티·반도체 날개",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010575"
     },
     {
-      "title": "수능일 주식 거래 오전 10시부터…프리마켓은 휴장",
-      "url": "https://n.news.naver.com/mnews/article/018/0006412062"
+      "title": "반포현대 재초환 부담금, 기한 연장 없이 연내 부과하기로",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010561"
     },
     {
-      "title": "금감원 금소처장, 대학서 불법사금융 피해 대응 특강",
-      "url": "https://n.news.naver.com/mnews/article/018/0006412377"
+      "title": "코오롱그룹, 정기 임원인사…지주사 대표 한용빈 사장 내정",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726161"
     },
     {
-      "title": "안전 인증 믿었는데…고소작업대 안전장치 무력화 부품까지 팔았다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009298502"
+      "title": "프리미엄 아이스크림 '클린라벨' 내놓은 빙그레...\"우유 본연의 풍미\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005443976"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5012.19,
-      "change": -55.25,
-      "change_pct": -1.09
+      "value": 4926.09,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 656.57,
-      "change": -6.24,
-      "change_pct": -0.94
+      "value": 658.47,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24429.88,
-      "change": 101.5,
-      "change_pct": 0.42
+      "value": 23879.2,
+      "change": -550.68,
+      "change_pct": -2.25
     },
     "usdkrw": {
-      "value": 1330.37,
-      "change": -2.64,
-      "change_pct": -0.2
+      "value": 1338.58,
+      "change": 8.18,
+      "change_pct": 0.61
     }
   },
   "gold": {
-    "price_usd": 3751.2,
-    "price_krw": 4990483,
-    "change": -113.0,
-    "change_pct": -2.92
+    "price_usd": 3562.9,
+    "price_krw": 4769226,
+    "change": -179.0,
+    "change_pct": -4.78
   },
-  "updated": "2026-11-19 11:23",
+  "updated": "2026-11-20 11:07",
   "error": null
 }
