@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "'한한령' 해빙 기대에 관련주 훈풍…여행·엔터·항공주 화색 [종목 NOW]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607359"
+      "title": "대기업 인사 대수술 없었다…잘한 곳 키우고 쇄신은 핀셋으로",
+      "url": "https://n.news.naver.com/mnews/article/001/0016456014"
     },
     {
-      "title": "29만전자 vs 69만전자…160만닉스 vs 470만닉스",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356487"
-    },
-    {
-      "title": "KB금융 신임 회장에 이재근…3년 임기 시작",
-      "url": "https://n.news.naver.com/mnews/article/005/0001886490"
+      "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000928608"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002435952"
+      "url": "https://n.news.naver.com/mnews/article/052/0002436153"
     },
     {
-      "title": "한수원 \"대우건설 컨소시엄과 체코원전 시공 공동협약 종료\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016454663"
+      "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금협상 재합의",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726532"
     },
     {
-      "title": "청약 물량 3.7배 늘어난다…다음 주 전국 6천가구 분양시장 출격",
-      "url": "https://n.news.naver.com/mnews/article/374/0000545049"
+      "title": "삼전 100주면 '39만원' 27일 30조 배당…주가 반토막에 '저가매수세' 기대",
+      "url": "https://n.news.naver.com/mnews/article/421/0009302964"
     },
     {
-      "title": "내년 공시가 현실화율 69% 동결…서울 등 보유세 늘어날 듯",
-      "url": "https://n.news.naver.com/mnews/article/025/0003566771"
+      "title": "지난달 개인 ETF 순매수액, 석달만 최다…이달도 4조 '사자'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016456027"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002435793"
+      "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
+      "url": "https://n.news.naver.com/mnews/article/001/0016455977"
     },
     {
-      "title": "서학개미, 이달 엔비디아 8천억 폭풍매수에도 6조 평가손[머니플로우]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016455509"
+      "title": "\"월요일엔 또 무슨 악몽이\"…삼전닉스 개미들 멘탈도 '바닥' [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356523"
     },
     {
-      "title": "앤스로픽 상장 첫날 17% 올라… 업계 “AI 가치, 실적으로 검증 가능”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004010916"
+      "title": "함영주 하나금융그룹 회장 “어르신의 ‘편안한 노후’ 돕는 건 모두의 책임”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003764152"
+    },
+    {
+      "title": "한갑 분량이 0.18초면 뚝딱…KT&G '유라시아 심장' 카자흐 신공장[르포]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005444495"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 4869.96,
+      "change": -267.93,
+      "change_pct": -5.21
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 645.68,
+      "change": -39.13,
+      "change_pct": -5.71
     },
     "nasdaq": {
       "value": 22617.73,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 3539.0,
-    "price_krw": 4723821,
-    "change": -146.5,
-    "change_pct": -3.98
+    "price_usd": 3515.4,
+    "price_krw": 4692320,
+    "change": -170.1,
+    "change_pct": -4.62
   },
-  "updated": "2026-11-21 11:01",
+  "updated": "2026-11-22 10:03",
   "error": null
 }
