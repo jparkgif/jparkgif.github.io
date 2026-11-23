@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "대기업 인사 대수술 없었다…잘한 곳 키우고 쇄신은 핀셋으로",
-      "url": "https://n.news.naver.com/mnews/article/001/0016456014"
+      "title": "이재근 KB금융 회장 취임 \"리딩 뱅크에서 리딩 플랫폼으로 전환\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004212568"
     },
     {
-      "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000928608"
+      "title": "차기 은행연합회장에 박종복 전 SC제일은행장 내정…“생산적·포용금융 계속 챙겨야”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726934"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002436153"
+      "title": "고점서 46% 급락한 코스피…\"최악 땐 4200선까지\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607994"
     },
     {
-      "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금협상 재합의",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726532"
+      "title": "GS25, 베트남·몽골 이어 캄보디아 진출…10년 내 500개점 목표",
+      "url": "https://n.news.naver.com/mnews/article/001/0016457322"
     },
     {
-      "title": "삼전 100주면 '39만원' 27일 30조 배당…주가 반토막에 '저가매수세' 기대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009302964"
+      "title": "'트러플 올린 60만원짜리'…올해도 최고가 케이크는 신라호텔",
+      "url": "https://n.news.naver.com/mnews/article/018/0006414004"
     },
     {
-      "title": "지난달 개인 ETF 순매수액, 석달만 최다…이달도 4조 '사자'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016456027"
+      "title": "삼성중공업 새 사령탑에 이왕근…설계부터 조선소까지 거친 현장형 CEO",
+      "url": "https://n.news.naver.com/mnews/article/050/0000113616"
     },
     {
-      "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
-      "url": "https://n.news.naver.com/mnews/article/001/0016455977"
+      "title": "‘1조 달러’ 넘긴 한국 수출, 이달 중순도 역대 최대…반도체 4배 급증",
+      "url": "https://n.news.naver.com/mnews/article/025/0003567127"
     },
     {
-      "title": "\"월요일엔 또 무슨 악몽이\"…삼전닉스 개미들 멘탈도 '바닥' [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356523"
+      "title": "이억원 \"변호사·회계사 등도 자금세탁방지 의무 부과…사각지대 해소\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000545216"
     },
     {
-      "title": "함영주 하나금융그룹 회장 “어르신의 ‘편안한 노후’ 돕는 건 모두의 책임”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003764152"
+      "title": "한국이 OECD 최대…남녀 임금 격차 '28%' 이유 있었다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356848"
     },
     {
-      "title": "한갑 분량이 0.18초면 뚝딱…KT&G '유라시아 심장' 카자흐 신공장[르포]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005444495"
+      "title": "은행 마음대로 서비스 중단 안 돼…공정위, 불공정약관 시정요청",
+      "url": "https://n.news.naver.com/mnews/article/001/0016457465"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4869.96,
-      "change": -267.93,
-      "change_pct": -5.21
+      "value": 4673.42,
+      "change": -196.54,
+      "change_pct": -4.04
     },
     "kosdaq": {
-      "value": 645.68,
-      "change": -39.13,
-      "change_pct": -5.71
+      "value": 628.8,
+      "change": -16.88,
+      "change_pct": -2.61
     },
     "nasdaq": {
       "value": 22617.73,
@@ -58,17 +58,17 @@
       "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1334.79,
-      "change": 4.39,
-      "change_pct": 0.33
+      "value": 1345.01,
+      "change": 10.22,
+      "change_pct": 0.77
     }
   },
   "gold": {
-    "price_usd": 3515.4,
-    "price_krw": 4692320,
-    "change": -170.1,
-    "change_pct": -4.62
+    "price_usd": 3626.5,
+    "price_krw": 4877678,
+    "change": 111.1,
+    "change_pct": 3.16
   },
-  "updated": "2026-11-22 10:03",
+  "updated": "2026-11-23 10:28",
   "error": null
 }
