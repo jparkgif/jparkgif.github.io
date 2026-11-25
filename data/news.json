@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차·기아 남양연구소 금속성분분석실 '최우수연구실' 선정",
-      "url": "https://n.news.naver.com/mnews/article/421/0009306317"
+      "title": "삼성전기, 임원 15명 승진…AI 핵심인재 중용",
+      "url": "https://n.news.naver.com/mnews/article/079/0004213141"
     },
     {
-      "title": "보험사기 전과자, 설계사 등록 못한다",
-      "url": "https://n.news.naver.com/mnews/article/029/0003060813"
+      "title": "안 그래도 취업문 좁은데…中企 절반 \"정년연장 땐 청년채용 축소\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005446017"
     },
     {
-      "title": "KB국민은행, 기업형 퇴직연금 수수료 인하…중소기업 부담 낮춘다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005445355"
+      "title": "가상자산 거래소 지분 제한에 업계 '우려'…\"혁신·경쟁력 위축\"[크립토레이더]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005847142"
     },
     {
-      "title": "\"AI 우려\" 국내외 증시 조정에…소비심리, 4월 이후 '최저'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846697"
+      "title": "민형배 \"반도체 정주여건 핵심 '도심융합특구' 구체화 서둘러야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009308552"
     },
     {
-      "title": "[속보] 코스피 장초반 5∼6% 급등…매수 사이드카 발동",
-      "url": "https://n.news.naver.com/mnews/article/009/0005768001"
+      "title": "에쓰오일, 9조원 샤힌 프로젝트 완공…50년 역사 새 이정표",
+      "url": "https://n.news.naver.com/mnews/article/001/0016461964"
     },
     {
-      "title": "헬스장 가격표시 의무화 4년…2500곳 중 11곳만 미이행",
-      "url": "https://n.news.naver.com/mnews/article/018/0006414695"
+      "title": "제28회 대한민국디자인대상 개최…개인 25명·단체 10곳 포상",
+      "url": "https://n.news.naver.com/mnews/article/277/0005847194"
     },
     {
-      "title": "홈플러스, 26일부터 온라인 배송 중단...상품 수급 차질",
-      "url": "https://n.news.naver.com/mnews/article/008/0005445345"
+      "title": "'중소형 증권사 M&A' 대전 재점화…다올투자證 경영권 매각 수면 위로 [fn마켓워치]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005609157"
     },
     {
-      "title": "삼성D, 지난해 이어 40대 부사장 발탁…기술 인재 중용 기조",
-      "url": "https://n.news.naver.com/mnews/article/018/0006414632"
+      "title": "현대모비스, 유럽·북미 고객사 제동·조향 부품 따냈다…최대 8년 공급",
+      "url": "https://n.news.naver.com/mnews/article/014/0005609465"
     },
     {
-      "title": "파라다이스, 파리 '라 리스트 2027'서 K-미식 알렸다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846793"
+      "title": "한화에어로스페이스, 자주도하장비 ‘수룡’ 수출 권한 확보",
+      "url": "https://n.news.naver.com/mnews/article/011/0004685917"
     },
     {
-      "title": "삼성전자, 로봇·AI·파운드리 미래리더 중용…기술리더십 강화 포석",
-      "url": "https://n.news.naver.com/mnews/article/003/0014341246"
+      "title": "코리아 핀테크 위크 2026 개막…이억원 \"다음 금융은 이미 우리 앞에 와\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005609383"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5046.89,
-      "change": 338.35,
-      "change_pct": 7.19
+      "value": 4740.7,
+      "change": -265.33,
+      "change_pct": -5.3
     },
     "kosdaq": {
-      "value": 667.9,
-      "change": 32.45,
-      "change_pct": 5.11
+      "value": 654.07,
+      "change": -11.81,
+      "change_pct": -1.77
     },
     "nasdaq": {
-      "value": 24089.56,
-      "change": 1471.83,
-      "change_pct": 6.51
+      "value": 23733.54,
+      "change": -356.03,
+      "change_pct": -1.48
     },
     "usdkrw": {
-      "value": 1342.18,
-      "change": -2.13,
-      "change_pct": -0.16
+      "value": 1343.68,
+      "change": 2.66,
+      "change_pct": 0.2
     }
   },
   "gold": {
-    "price_usd": 3633.0,
-    "price_krw": 4876139,
-    "change": -18.4,
-    "change_pct": -0.5
+    "price_usd": 3548.1,
+    "price_krw": 4767511,
+    "change": -103.3,
+    "change_pct": -2.83
   },
-  "updated": "2026-11-24 14:10",
+  "updated": "2026-11-25 13:00",
   "error": null
 }
