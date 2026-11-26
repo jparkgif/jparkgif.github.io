@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전기, 임원 15명 승진…AI 핵심인재 중용",
-      "url": "https://n.news.naver.com/mnews/article/079/0004213141"
+      "title": "파산 문턱서 살아 돌아왔지만…회생 인가 86일 만에 다시 휴업 '홈플러스'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009310236"
     },
     {
-      "title": "안 그래도 취업문 좁은데…中企 절반 \"정년연장 땐 청년채용 축소\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005446017"
+      "title": "넥센타이어, 품질경쟁력 우수기업 6년 연속 선정",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686334"
     },
     {
-      "title": "가상자산 거래소 지분 제한에 업계 '우려'…\"혁신·경쟁력 위축\"[크립토레이더]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005847142"
+      "title": "'시중은행→저축은행' 포용금융 자금공급...중저신용자 대출 3~5%p 인하",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610106"
     },
     {
-      "title": "민형배 \"반도체 정주여건 핵심 '도심융합특구' 구체화 서둘러야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009308552"
+      "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
+      "url": "https://n.news.naver.com/mnews/article/056/0012301647"
     },
     {
-      "title": "에쓰오일, 9조원 샤힌 프로젝트 완공…50년 역사 새 이정표",
-      "url": "https://n.news.naver.com/mnews/article/001/0016461964"
+      "title": "고려아연, MBK·영풍 투자손실 주장 반박…\"평가손익 자의적 해석\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848030"
     },
     {
-      "title": "제28회 대한민국디자인대상 개최…개인 25명·단체 10곳 포상",
-      "url": "https://n.news.naver.com/mnews/article/277/0005847194"
+      "title": "실질소득 10분기만에 감소 전환…자영업자 고금리·물가 타격",
+      "url": "https://n.news.naver.com/mnews/article/001/0016465060"
     },
     {
-      "title": "'중소형 증권사 M&A' 대전 재점화…다올투자證 경영권 매각 수면 위로 [fn마켓워치]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609157"
+      "title": "반도체 덕분에… 내년 ‘성장률 4.1%’ 깜짝 상향",
+      "url": "https://n.news.naver.com/mnews/article/021/0002835784"
     },
     {
-      "title": "현대모비스, 유럽·북미 고객사 제동·조향 부품 따냈다…최대 8년 공급",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609465"
+      "title": "가계대출 금리 5% 뚫었다... 주담대 금리는 14년 7개월 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/469/0000967650"
     },
     {
-      "title": "한화에어로스페이스, 자주도하장비 ‘수룡’ 수출 권한 확보",
-      "url": "https://n.news.naver.com/mnews/article/011/0004685917"
+      "title": "[속보] 한은, 올해 성장률 전망 3.3→3.9% 상향…내년은 2.9→4.1%로 올려",
+      "url": "https://n.news.naver.com/mnews/article/009/0005769239"
     },
     {
-      "title": "코리아 핀테크 위크 2026 개막…이억원 \"다음 금융은 이미 우리 앞에 와\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609383"
+      "title": "제일기획, 권현정·홍상우 부사장 승진…승진자 절반은 여성",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415895"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4740.7,
-      "change": -265.33,
-      "change_pct": -5.3
+      "value": 4729.21,
+      "change": 31.7,
+      "change_pct": 0.67
     },
     "kosdaq": {
-      "value": 654.07,
-      "change": -11.81,
-      "change_pct": -1.77
+      "value": 659.03,
+      "change": 8.39,
+      "change_pct": 1.29
     },
     "nasdaq": {
-      "value": 23733.54,
-      "change": -356.03,
-      "change_pct": -1.48
+      "value": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.68,
-      "change": 2.66,
-      "change_pct": 0.2
+      "value": 1343.76,
+      "change": 1.11,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3548.1,
-    "price_krw": 4767511,
-    "change": -103.3,
-    "change_pct": -2.83
+    "price_usd": 3611.1,
+    "price_krw": 4852451,
+    "change": 49.2,
+    "change_pct": 1.38
   },
-  "updated": "2026-11-25 13:00",
+  "updated": "2026-11-26 12:24",
   "error": null
 }
