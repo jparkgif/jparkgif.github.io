@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "파산 문턱서 살아 돌아왔지만…회생 인가 86일 만에 다시 휴업 '홈플러스'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009310236"
+      "title": "외국인 삼성전자 배당 15조 ‘역대 최대’…재투자시 수급개선, 환전땐 환율 부담",
+      "url": "https://n.news.naver.com/mnews/article/016/0002729494"
     },
     {
-      "title": "넥센타이어, 품질경쟁력 우수기업 6년 연속 선정",
-      "url": "https://n.news.naver.com/mnews/article/011/0004686334"
+      "title": "코스닥 상승세 강해져 5%대 급등…매수 사이드카 발동",
+      "url": "https://n.news.naver.com/mnews/article/001/0016467238"
     },
     {
-      "title": "'시중은행→저축은행' 포용금융 자금공급...중저신용자 대출 3~5%p 인하",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610106"
+      "title": "역대 최대 물량 3차 ESS 입찰, 삼성SDI 63%·SK온 37% 확보",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447338"
     },
     {
-      "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
-      "url": "https://n.news.naver.com/mnews/article/056/0012301647"
+      "title": "GS건설 견본주택, 체험형 갤러리 진화…단순 분양상담 공간 탈피",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313651"
     },
     {
-      "title": "고려아연, MBK·영풍 투자손실 주장 반박…\"평가손익 자의적 해석\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848030"
+      "title": "9월 개인사업자·가계신용대출 부실채권 비율 12년 만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/214/0001538220"
     },
     {
-      "title": "실질소득 10분기만에 감소 전환…자영업자 고금리·물가 타격",
-      "url": "https://n.news.naver.com/mnews/article/001/0016465060"
+      "title": "CJ올리브영, 업무시스템 해킹으로 임직원·고객 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/001/0016466684"
     },
     {
-      "title": "반도체 덕분에… 내년 ‘성장률 4.1%’ 깜짝 상향",
-      "url": "https://n.news.naver.com/mnews/article/021/0002835784"
+      "title": "주식 전문가마저 생방송 중 눈물…\"힘든 시장인데 잘 이겨내셔야\"",
+      "url": "https://n.news.naver.com/mnews/article/053/0000063382"
     },
     {
-      "title": "가계대출 금리 5% 뚫었다... 주담대 금리는 14년 7개월 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/469/0000967650"
+      "title": "'세종 스마트시티 엘 수자인' 견본주택 개관…2191가구 분양",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313645"
     },
     {
-      "title": "[속보] 한은, 올해 성장률 전망 3.3→3.9% 상향…내년은 2.9→4.1%로 올려",
-      "url": "https://n.news.naver.com/mnews/article/009/0005769239"
+      "title": "무신사, 3분기 매출 4058억·영업익 196억…영업익 67% ↑",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848741"
     },
     {
-      "title": "제일기획, 권현정·홍상우 부사장 승진…승진자 절반은 여성",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415895"
+      "title": "재계 \"美 중간선거 뒤에도 통상 불확실성\"…지원책 요구",
+      "url": "https://n.news.naver.com/mnews/article/422/0000930398"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4729.21,
-      "change": 31.7,
-      "change_pct": 0.67
+      "value": 4856.84,
+      "change": 145.63,
+      "change_pct": 3.09
     },
     "kosdaq": {
-      "value": 659.03,
-      "change": 8.39,
-      "change_pct": 1.29
+      "value": 694.85,
+      "change": 39.14,
+      "change_pct": 5.97
     },
     "nasdaq": {
       "value": 23585.8,
@@ -58,17 +58,17 @@
       "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.76,
-      "change": 1.11,
-      "change_pct": 0.08
+      "value": 1340.68,
+      "change": -2.29,
+      "change_pct": -0.17
     }
   },
   "gold": {
-    "price_usd": 3611.1,
-    "price_krw": 4852451,
-    "change": 49.2,
-    "change_pct": 1.38
+    "price_usd": 3655.8,
+    "price_krw": 4901258,
+    "change": 120.0,
+    "change_pct": 3.39
   },
-  "updated": "2026-11-26 12:24",
+  "updated": "2026-11-27 12:32",
   "error": null
 }
